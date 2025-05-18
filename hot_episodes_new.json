@@ -7,15 +7,15 @@
         "podcastName": "数据会说话",
         "logoURL": "https://xyzrank.justinbot.com/FjdSuofAaysCYTbf0jhw620PE8oU.jpg@small",
         "link": "https://www.xiaoyuzhoufm.com/episode/681c84bd24f855934693ffb9",
-        "playCount": 9580,
-        "commentCount": 160,
+        "playCount": 9891,
+        "commentCount": 169,
         "subscription": 7788,
         "duration": 33,
         "postTime": "2025-05-08T10:25:12.609Z",
         "primaryGenreName": "",
         "totalEpisodesCount": 4,
-        "openRate": 1.2300975860297894,
-        "lastReleaseDateDayCount": 8.378694537037036
+        "openRate": 1.2700308166409862,
+        "lastReleaseDateDayCount": 9.378694398148149
       },
       {
         "title": "月薪1万卡3年？找到赚钱猛的老板，才愿意分你钱💰",
@@ -23,15 +23,15 @@
         "podcastName": "富女孩宝典",
         "logoURL": "https://xyzrank.justinbot.com/FupCUr-YH4Ker_WCnEB6QZT7OIiX.jpg@small",
         "link": "https://www.xiaoyuzhoufm.com/episode/682346cbb7c8a9962ce98f60",
-        "playCount": 6151,
-        "commentCount": 95,
+        "playCount": 7077,
+        "commentCount": 99,
         "subscription": 27604,
         "duration": 104,
         "postTime": "2025-05-13T23:00:00.000Z",
         "primaryGenreName": "",
         "totalEpisodesCount": 7,
-        "openRate": 0.222830024634111,
-        "lastReleaseDateDayCount": 2.8545349189814813
+        "openRate": 0.2563758875525286,
+        "lastReleaseDateDayCount": 3.8545347800925924
       },
       {
         "title": "vol.11咱们北京哪哪都好，就是这儿差点意思！",
@@ -39,24 +39,24 @@
         "podcastName": "癫疯对谈",
         "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource211/v4/95/42/be/9542bec9-56df-5c6e-ebcf-caf9db9555ae/095c9f1d-a685-493d-8734-b28696e27e9d.jpg/100x100bb.jpg",
         "link": "https://www.xiaoyuzhoufm.com/episode/6824582c5ccf03732bd09f3d",
-        "playCount": 3374,
-        "commentCount": 96,
+        "playCount": 4317,
+        "commentCount": 100,
         "subscription": 2778,
         "duration": 111,
         "postTime": "2025-05-14T09:05:34.004Z",
         "primaryGenreName": "休闲",
         "totalEpisodesCount": 6,
-        "openRate": 1.2145428365730742,
-        "lastReleaseDateDayCount": 2.4340024652777776
+        "openRate": 1.5539956803455723,
+        "lastReleaseDateDayCount": 3.434002326388889
       }
     ],
     "medianValues": {
-      "playCount": 6151,
-      "commentCount": 96,
-      "interactiveRate": 0.016701461377870562,
-      "openRate": 1.2145428365730742,
+      "playCount": 7077,
+      "commentCount": 100,
+      "interactiveRate": 0.017086240016176323,
+      "openRate": 1.2700308166409862,
       "duration": 104,
-      "lastReleaseDateDayCount": 2.8545349189814813
+      "lastReleaseDateDayCount": 3.8545347800925924
     }
   },
   "type": 3
