@@ -10,12 +10,12 @@
         "authorsText": "罗永浩的十字路口",
         "trackCount": 9,
         "lastReleaseDate": "Wed Oct 29 2025 04:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 7.313662152777778,
+        "lastReleaseDateDayCount": 10.326715902777778,
         "firstEpisodePostTime": "2025-08-18T20:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 220,
         "avgPlayCount": 259099,
-        "avgUpdateFreq": 208,
+        "avgUpdateFreq": 216,
         "avgCommentCount": 991,
         "avgInteractIndicator": 0.00382526789901177,
         "avgOpenRate": 1.6232575477549382,
@@ -39,6 +39,43 @@
         ]
       },
       {
+        "id": "9afe26ff17906d5402994d6e0b6b540e",
+        "rank": 325,
+        "name": "陶白白白说了",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/38/c4/4538c4c1-123a-0f85-684e-617331fcef30/mza_17603574832697282591.jpg/100x100bb.jpg",
+        "primaryGenreName": "休闲",
+        "authorsText": "陶白白Sensei",
+        "trackCount": 14,
+        "lastReleaseDate": "Fri Sep 19 2025 10:41:33 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 50.047853530092596,
+        "firstEpisodePostTime": "2025-06-24T03:04:17.000Z",
+        "activeRate": 0,
+        "avgDuration": 92,
+        "avgPlayCount": 44905,
+        "avgUpdateFreq": 234,
+        "avgCommentCount": 305,
+        "avgInteractIndicator": 0.006795496163722294,
+        "avgOpenRate": 0.8432921632358252,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/685a82add7a729ea9ef0c577"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E9%99%B6%E7%99%BD%E7%99%BD%E7%99%BD%E8%AF%B4%E4%BA%86/id1822966118?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/685a82add7a729ea9ef0c577?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/uueuchhdt9hr"
+          }
+        ]
+      },
+      {
         "id": "f892ec2c9affb335842f0207aebf085a",
         "rank": 371,
         "name": "Pleasure Talks",
@@ -46,12 +83,12 @@
         "authorsText": "蔡依林JOLIN",
         "trackCount": 7,
         "lastReleaseDate": "Wed Sep 17 2025 13:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 48.93866295138889,
+        "lastReleaseDateDayCount": 51.95171674768518,
         "firstEpisodePostTime": "2025-08-06T05:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 39,
         "avgPlayCount": 53797,
-        "avgUpdateFreq": 311,
+        "avgUpdateFreq": 321,
         "avgCommentCount": 445,
         "avgInteractIndicator": 0.00828719867900504,
         "avgOpenRate": 1.1449514404693497,
@@ -83,12 +120,12 @@
         "authorsText": "三多同学",
         "trackCount": 8,
         "lastReleaseDate": "Wed Oct 15 2025 10:09:46 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 21.056878668981483,
+        "lastReleaseDateDayCount": 24.069932453703704,
         "firstEpisodePostTime": "2025-06-12T03:36:16.000Z",
         "activeRate": 0,
         "avgDuration": 43,
         "avgPlayCount": 77387,
-        "avgUpdateFreq": 437,
+        "avgUpdateFreq": 446,
         "avgCommentCount": 179,
         "avgInteractIndicator": 0.0023185623436677958,
         "avgOpenRate": 1.889628782117916,
@@ -120,12 +157,12 @@
         "authorsText": "冷水鱼",
         "trackCount": 11,
         "lastReleaseDate": "Mon Oct 13 2025 00:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 23.48033028935185,
+        "lastReleaseDateDayCount": 26.493384074074076,
         "firstEpisodePostTime": "2025-04-14T16:01:41.000Z",
         "activeRate": 0,
         "avgDuration": 57,
         "avgPlayCount": 33050,
-        "avgUpdateFreq": 445,
+        "avgUpdateFreq": 452,
         "avgCommentCount": 271,
         "avgInteractIndicator": 0.008223828528031515,
         "avgOpenRate": 1.2699930833077162,
@@ -156,12 +193,12 @@
         "authorsText": "杜素娟",
         "trackCount": 11,
         "lastReleaseDate": "Fri Oct 24 2025 07:09:04 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 12.182358553240741,
+        "lastReleaseDateDayCount": 15.195412337962964,
         "firstEpisodePostTime": "2025-05-29T04:47:00.671Z",
         "activeRate": 0,
         "avgDuration": 88,
         "avgPlayCount": 35225,
-        "avgUpdateFreq": 348,
+        "avgUpdateFreq": 355,
         "avgCommentCount": 131,
         "avgInteractIndicator": 0.0037274662881476225,
         "avgOpenRate": 1.4770011321229402,
@@ -185,6 +222,43 @@
         ]
       },
       {
+        "id": "419962c07940c73b690fdff0202c72cc",
+        "rank": 695,
+        "name": "劳东燕·法与远方",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/48/ea/63/48ea6361-8ef8-7a16-52e7-2b711c91b148/mza_16141345090313448096.jpg/100x100bb.jpg",
+        "primaryGenreName": "社会与文化",
+        "authorsText": "看理想vistopia",
+        "trackCount": 4,
+        "lastReleaseDate": "Wed Oct 22 2025 23:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 16.535051030092593,
+        "firstEpisodePostTime": "2025-09-24T14:49:03.000Z",
+        "activeRate": 0,
+        "avgDuration": 44,
+        "avgPlayCount": 32560,
+        "avgUpdateFreq": 267,
+        "avgCommentCount": 253,
+        "avgInteractIndicator": 0.007790745290745291,
+        "avgOpenRate": 1.5235599644377895,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68d3536a951ed0d98309dca3"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E5%8A%B3%E4%B8%9C%E7%87%95-%E6%B3%95%E4%B8%8E%E8%BF%9C%E6%96%B9/id1842041317?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://api.vistopia.com.cn/rss/program/428.xml"
+          },
+          {
+            "name": "rss",
+            "url": "https://api.vistopia.com.cn/rss/program/428.xml"
+          }
+        ]
+      },
+      {
         "id": "7bb72e3facfab77d82577007e5813346",
         "rank": 802,
         "name": "深度求真",
@@ -193,12 +267,12 @@
         "authorsText": "大成基金, 邓小波Leo",
         "trackCount": 14,
         "lastReleaseDate": "Tue Oct 28 2025 02:02:46 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 8.39507318287037,
+        "lastReleaseDateDayCount": 11.408126956018519,
         "firstEpisodePostTime": "2025-02-13T16:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 57,
         "avgPlayCount": 13102,
-        "avgUpdateFreq": 452,
+        "avgUpdateFreq": 458,
         "avgCommentCount": 15,
         "avgInteractIndicator": 0.0011742188509094324,
         "avgOpenRate": 0.7632084813887109,
@@ -222,6 +296,43 @@
         ]
       },
       {
+        "id": "0a12266f9477864a01129b6f0255e151",
+        "rank": 816,
+        "name": "宝珀有时",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e5/f1/76/e5f176ee-2c2a-f264-8347-e7c3882c5476/mza_18106280197494279108.jpg/100x100bb.jpg",
+        "primaryGenreName": "社会与文化",
+        "authorsText": "看理想vistopia, 宝珀BLANCPAIN",
+        "trackCount": 7,
+        "lastReleaseDate": "Wed Sep 17 2025 10:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 52.07671806712963,
+        "firstEpisodePostTime": "2025-08-13T01:54:03.000Z",
+        "activeRate": 0,
+        "avgDuration": 53,
+        "avgPlayCount": 51249,
+        "avgUpdateFreq": 298,
+        "avgCommentCount": 118,
+        "avgInteractIndicator": 0.002305698555117252,
+        "avgOpenRate": 3.064814814814815,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/689ad82151992d830c36e2ff"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E5%AE%9D%E7%8F%80%E6%9C%89%E6%97%B6/id1833162625?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://api.vistopia.com.cn/rss/program/423.xml"
+          },
+          {
+            "name": "rss",
+            "url": "https://api.vistopia.com.cn/rss/program/423.xml"
+          }
+        ]
+      },
+      {
         "id": "dbc63773f588726860608cf3949b60da",
         "rank": 883,
         "name": "西西弗高速·深度版",
@@ -229,12 +340,12 @@
         "authorsText": "行车记录仪, 高速日记",
         "trackCount": 10,
         "lastReleaseDate": "Sun Nov 02 2025 04:41:22 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 3.2849369907407406,
+        "lastReleaseDateDayCount": 6.297990775462963,
         "firstEpisodePostTime": "2025-03-30T14:56:25.299Z",
         "activeRate": 0,
         "avgDuration": 161,
         "avgPlayCount": 56790,
-        "avgUpdateFreq": 526,
+        "avgUpdateFreq": 533,
         "avgCommentCount": 1044,
         "avgInteractIndicator": 0.018397213906986756,
         "avgOpenRate": 3.8160193522376016,
@@ -266,12 +377,12 @@
         "authorsText": "茉莉智慧MOLI",
         "trackCount": 9,
         "lastReleaseDate": "Fri Oct 31 2025 00:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 5.480331226851852,
+        "lastReleaseDateDayCount": 8.493384988425927,
         "firstEpisodePostTime": "2025-04-21T16:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 59,
         "avgPlayCount": 24940,
-        "avgUpdateFreq": 526,
+        "avgUpdateFreq": 534,
         "avgCommentCount": 76,
         "avgInteractIndicator": 0.0030573222868770706,
         "avgOpenRate": 1.7426023616545556,
@@ -302,12 +413,12 @@
         "authorsText": "哈梨Harriet, fofo呐呐",
         "trackCount": 7,
         "lastReleaseDate": "Sun Nov 02 2025 06:45:59 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 3.1983877777777776,
+        "lastReleaseDateDayCount": 6.211441423611111,
         "firstEpisodePostTime": "2025-06-29T07:23:13.712Z",
         "activeRate": 0,
         "avgDuration": 76,
         "avgPlayCount": 16181,
-        "avgUpdateFreq": 441,
+        "avgUpdateFreq": 451,
         "avgCommentCount": 76,
         "avgInteractIndicator": 0.004717224047543027,
         "avgOpenRate": 1.2358204775724249,
@@ -315,6 +426,42 @@
           {
             "name": "xyz",
             "url": "https://www.xiaoyuzhoufm.com/podcast/6807993539793c80b08070f0"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "id": "b83b2e431636bf54d829b8497a391ec8",
+        "rank": 1013,
+        "name": "糕兴一点",
+        "logoURL": "https://xyzrank.justinbot.com/Fs3xc7f7H711-T_E0N1jxkY4YhSG.jpg@small",
+        "authorsText": "糕妈李丹阳",
+        "trackCount": 6,
+        "lastReleaseDate": "Wed Sep 10 2025 00:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 59.49338528935185,
+        "firstEpisodePostTime": "2025-04-18T03:11:18.495Z",
+        "activeRate": 0,
+        "avgDuration": 36,
+        "avgPlayCount": 20662,
+        "avgUpdateFreq": 815,
+        "avgCommentCount": 129,
+        "avgInteractIndicator": 0.006272262660678334,
+        "avgOpenRate": 1.661098159015998,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/67eb96d71c465530de2d7591"
           },
           {
             "name": "apple",
@@ -339,12 +486,12 @@
         "authorsText": "crystallsr",
         "trackCount": 14,
         "lastReleaseDate": "Thu Oct 30 2025 02:25:16 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 6.37945025462963,
+        "lastReleaseDateDayCount": 9.392503807870371,
         "firstEpisodePostTime": "2025-05-11T05:40:55.000Z",
         "activeRate": 0,
         "avgDuration": 39,
         "avgPlayCount": 10061,
-        "avgUpdateFreq": 304,
+        "avgUpdateFreq": 309,
         "avgCommentCount": 97,
         "avgInteractIndicator": 0.009656258601180464,
         "avgOpenRate": 0.8564936383102724,
@@ -368,43 +515,6 @@
         ]
       },
       {
-        "id": "ff82102a8bbf36f5dca0703a37add507",
-        "rank": 1080,
-        "name": "癫疯对谈",
-        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource211/v4/95/42/be/9542bec9-56df-5c6e-ebcf-caf9db9555ae/095c9f1d-a685-493d-8734-b28696e27e9d.jpg/100x100bb.jpg",
-        "primaryGenreName": "休闲",
-        "authorsText": "Summer林慧颖, 水王陶宇杰",
-        "trackCount": 14,
-        "lastReleaseDate": "Wed Oct 22 2025 13:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 13.938665289351851,
-        "firstEpisodePostTime": "2024-11-07T02:38:22.000Z",
-        "activeRate": 0,
-        "avgDuration": 101,
-        "avgPlayCount": 14008,
-        "avgUpdateFreq": 621,
-        "avgCommentCount": 226,
-        "avgInteractIndicator": 0.016188018230739662,
-        "avgOpenRate": 1.2534414404493146,
-        "links": [
-          {
-            "name": "xyz",
-            "url": "https://www.xiaoyuzhoufm.com/podcast/670a227d0602f2ef2bd2ff88"
-          },
-          {
-            "name": "apple",
-            "url": "https://podcasts.apple.com/us/podcast/%E7%99%AB%E7%96%AF%E5%AF%B9%E8%B0%88/id1781882051?l=zh&uo=4"
-          },
-          {
-            "name": "website",
-            "url": "https://www.xiaoyuzhoufm.com/podcast/670a227d0602f2ef2bd2ff88?utm_source=rss"
-          },
-          {
-            "name": "rss",
-            "url": "https://feed.xyzfm.space/afmrcclktvwk"
-          }
-        ]
-      },
-      {
         "id": "0365c8bb21be30e131abded4bf531aab",
         "rank": 1081,
         "name": "罗意威调频",
@@ -412,12 +522,12 @@
         "authorsText": "LOEWE罗意威",
         "trackCount": 5,
         "lastReleaseDate": "Sun Sep 21 2025 14:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 44.89699136574074,
+        "lastReleaseDateDayCount": 47.91004490740741,
         "firstEpisodePostTime": "2025-05-06T18:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 35,
         "avgPlayCount": 36936,
-        "avgUpdateFreq": 875,
+        "avgUpdateFreq": 889,
         "avgCommentCount": 60,
         "avgInteractIndicator": 0.0016447257098378965,
         "avgOpenRate": 3.3120740674318507,
@@ -449,12 +559,12 @@
         "authorsText": "MasterPa",
         "trackCount": 1,
         "lastReleaseDate": "Fri Oct 31 2025 04:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 5.313665520833333,
+        "lastReleaseDateDayCount": 8.326719039351852,
         "firstEpisodePostTime": "2025-04-14T16:37:12.000Z",
         "activeRate": 0,
         "avgDuration": 108,
         "avgPlayCount": 9532,
-        "avgUpdateFreq": 445,
+        "avgUpdateFreq": 452,
         "avgCommentCount": 107,
         "avgInteractIndicator": 0.011277801091061686,
         "avgOpenRate": 0.9678139912681489,
@@ -486,12 +596,12 @@
         "authorsText": "NADYAY, BIN_NJBK, 无头乌頭",
         "trackCount": 8,
         "lastReleaseDate": "Mon Sep 08 2025 01:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 58.43866563657407,
+        "lastReleaseDateDayCount": 61.451719178240744,
         "firstEpisodePostTime": "2025-03-16T05:47:17.000Z",
         "activeRate": 0,
         "avgDuration": 111,
         "avgPlayCount": 14122,
-        "avgUpdateFreq": 701,
+        "avgUpdateFreq": 710,
         "avgCommentCount": 247,
         "avgInteractIndicator": 0.017489732747981955,
         "avgOpenRate": 1.4992114043069458,
@@ -523,12 +633,12 @@
         "authorsText": "叫我大武老师",
         "trackCount": 13,
         "lastReleaseDate": "Fri Oct 31 2025 14:51:11 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 4.86144894675926,
+        "lastReleaseDateDayCount": 7.8745025,
         "firstEpisodePostTime": "2025-03-20T08:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 79,
         "avgPlayCount": 6125,
-        "avgUpdateFreq": 423,
+        "avgUpdateFreq": 429,
         "avgCommentCount": 48,
         "avgInteractIndicator": 0.007863303675890403,
         "avgOpenRate": 0.6967129208371247,
@@ -559,12 +669,12 @@
         "authorsText": "我的兄弟叫铁马, 晚点LatePost",
         "trackCount": 9,
         "lastReleaseDate": "Tue Aug 26 2025 16:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 70.8136659837963,
+        "lastReleaseDateDayCount": 73.82671952546296,
         "firstEpisodePostTime": "2025-04-27T15:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 49,
         "avgPlayCount": 20250,
-        "avgUpdateFreq": 510,
+        "avgUpdateFreq": 518,
         "avgCommentCount": 89,
         "avgInteractIndicator": 0.004401098731520632,
         "avgOpenRate": 2.3928423726810824,
@@ -596,12 +706,12 @@
         "authorsText": "Obie黏年糕, 我是陳茶葉",
         "trackCount": 12,
         "lastReleaseDate": "Thu Oct 02 2025 01:01:19 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 34.43774793981481,
+        "lastReleaseDateDayCount": 37.450801481481484,
         "firstEpisodePostTime": "2025-07-08T08:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 50,
         "avgPlayCount": 7836,
-        "avgUpdateFreq": 239,
+        "avgUpdateFreq": 245,
         "avgCommentCount": 121,
         "avgInteractIndicator": 0.015509721126629855,
         "avgOpenRate": 0.9855039326870313,
@@ -633,12 +743,12 @@
         "authorsText": "Prada普拉达",
         "trackCount": 9,
         "lastReleaseDate": "Wed Oct 29 2025 11:14:32 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 7.01189712962963,
+        "lastReleaseDateDayCount": 10.024950717592592,
         "firstEpisodePostTime": "2024-12-29T16:55:58.000Z",
         "activeRate": 0,
         "avgDuration": 38,
         "avgPlayCount": 20327,
-        "avgUpdateFreq": 827,
+        "avgUpdateFreq": 835,
         "avgCommentCount": 61,
         "avgInteractIndicator": 0.0030316074283605952,
         "avgOpenRate": 2.5617517328292374,
@@ -662,6 +772,42 @@
         ]
       },
       {
+        "id": "11b3e063ee9a5267650ea98b243b2d64",
+        "rank": 1381,
+        "name": "WhynotTV Podcast",
+        "logoURL": "https://xyzrank.justinbot.com/Fgl-8meYU34ewLwnN5_JDt55kPuD.jpg@small",
+        "authorsText": "何泰然",
+        "trackCount": 3,
+        "lastReleaseDate": "Fri Sep 12 2025 14:07:32 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 56.90481327546296,
+        "firstEpisodePostTime": "2025-07-05T23:28:42.861Z",
+        "activeRate": 0,
+        "avgDuration": 137,
+        "avgPlayCount": 12563,
+        "avgUpdateFreq": 1000,
+        "avgCommentCount": 71,
+        "avgInteractIndicator": 0.005651516357557908,
+        "avgOpenRate": 1.588644410723318,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/686a1832222ae2de21fea940"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
         "id": "e2b8133a07a0e86a99f1698443bc548f",
         "rank": 1468,
         "name": "米地研究所",
@@ -669,12 +815,12 @@
         "authorsText": "深夜谈谈, 神奇的我",
         "trackCount": 11,
         "lastReleaseDate": "Fri Oct 17 2025 08:58:02 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 19.106693391203702,
+        "lastReleaseDateDayCount": 22.119747164351853,
         "firstEpisodePostTime": "2025-01-01T20:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 13,
         "avgPlayCount": 7037,
-        "avgUpdateFreq": 670,
+        "avgUpdateFreq": 676,
         "avgCommentCount": 108,
         "avgInteractIndicator": 0.015404291601534744,
         "avgOpenRate": 0.9719613259668509,
@@ -706,12 +852,12 @@
         "authorsText": "吴思涵",
         "trackCount": 14,
         "lastReleaseDate": "Mon Oct 20 2025 11:30:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 16.001166493055557,
+        "lastReleaseDateDayCount": 19.0142203125,
         "firstEpisodePostTime": "2025-02-14T05:17:18.000Z",
         "activeRate": 0,
         "avgDuration": 44,
         "avgPlayCount": 4935,
-        "avgUpdateFreq": 452,
+        "avgUpdateFreq": 457,
         "avgCommentCount": 65,
         "avgInteractIndicator": 0.013171225937183385,
         "avgOpenRate": 0.7052014861388968,
@@ -735,6 +881,80 @@
         ]
       },
       {
+        "id": "1748ef25049c2ae10325d1290924e48a",
+        "rank": 1538,
+        "name": "称重器",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/78/d4/6578d4d8-38c2-5ede-eba7-a18f46d131c2/mza_5524371800630419382.jpg/100x100bb.jpg",
+        "primaryGenreName": "社会与文化",
+        "authorsText": "hunter张",
+        "trackCount": 7,
+        "lastReleaseDate": "Thu Aug 28 2025 09:04:12 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 72.11546612268519,
+        "firstEpisodePostTime": "2025-05-27T20:09:15.000Z",
+        "activeRate": 0,
+        "avgDuration": 53,
+        "avgPlayCount": 6420,
+        "avgUpdateFreq": 563,
+        "avgCommentCount": 31,
+        "avgInteractIndicator": 0.004854242919814137,
+        "avgOpenRate": 0.9548631766805474,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6822b623a0c2d965a01c6201"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E7%A7%B0%E9%87%8D%E5%99%A8/id1817335848?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6822b623a0c2d965a01c6201?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/ww9qumhutc7a"
+          }
+        ]
+      },
+      {
+        "id": "91bdf3986d7e8647712bd98037d6cc4e",
+        "rank": 1542,
+        "name": "有一家公司",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a1/e6/be/a1e6be31-7545-2beb-389a-2a499167bc0e/mza_1412177027731060480.png/100x100bb.jpg",
+        "primaryGenreName": "商务",
+        "authorsText": "Yuzhuuu, 桃蛋包",
+        "trackCount": 10,
+        "lastReleaseDate": "Fri Oct 10 2025 08:36:28 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 29.13471847222222,
+        "firstEpisodePostTime": "2025-06-17T21:20:06.000Z",
+        "activeRate": 0,
+        "avgDuration": 67,
+        "avgPlayCount": 1660,
+        "avgUpdateFreq": 343,
+        "avgCommentCount": 16,
+        "avgInteractIndicator": 0.010103713616594179,
+        "avgOpenRate": 0.24725365627688442,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68523c2acbff0c6ba39ac006"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E6%9C%89%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8/id1821628073?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68523c2acbff0c6ba39ac006?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/gvkc9eu8tmrg"
+          }
+        ]
+      },
+      {
         "id": "2aabd29502aa33dcec4bc27cceb99c65",
         "rank": 1554,
         "name": "立有间",
@@ -743,12 +963,12 @@
         "authorsText": "远方Sep",
         "trackCount": 10,
         "lastReleaseDate": "Thu Oct 30 2025 20:17:45 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 5.634665706018518,
+        "lastReleaseDateDayCount": 8.647719525462962,
         "firstEpisodePostTime": "2025-07-17T09:15:00.000Z",
         "activeRate": 0,
         "avgDuration": 71,
         "avgPlayCount": 4889,
-        "avgUpdateFreq": 265,
+        "avgUpdateFreq": 272,
         "avgCommentCount": 35,
         "avgInteractIndicator": 0.00718132854578097,
         "avgOpenRate": 0.732467748647524,
@@ -772,6 +992,42 @@
         ]
       },
       {
+        "id": "12b8dd685b6dfce869b6f0a7873f2afc",
+        "rank": 1623,
+        "name": "信号与噪声",
+        "logoURL": "https://xyzrank.justinbot.com/Fosf5YojuJ1crcTY7tuhG05b2VqD.jpg@small",
+        "authorsText": "绿洲资本",
+        "trackCount": 6,
+        "lastReleaseDate": "Wed Sep 24 2025 16:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 44.826720625,
+        "firstEpisodePostTime": "2025-05-27T14:00:00.000Z",
+        "activeRate": 0,
+        "avgDuration": 67,
+        "avgPlayCount": 8624,
+        "avgUpdateFreq": 658,
+        "avgCommentCount": 57,
+        "avgInteractIndicator": 0.00663234543852326,
+        "avgOpenRate": 1.37747963584092,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6819d5a7e37664602a344e0e"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
         "id": "43595209f421a88480515b02360895cd",
         "rank": 1656,
         "name": "julia_ty",
@@ -779,12 +1035,12 @@
         "authorsText": "julia_xia",
         "trackCount": 6,
         "lastReleaseDate": "Fri Aug 15 2025 05:28:43 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 82.25204732638889,
+        "lastReleaseDateDayCount": 85.26510112268518,
         "firstEpisodePostTime": "2025-01-22T20:42:19.125Z",
         "activeRate": 0,
         "avgDuration": 40,
         "avgPlayCount": 10236,
-        "avgUpdateFreq": 1144,
+        "avgUpdateFreq": 1156,
         "avgCommentCount": 81,
         "avgInteractIndicator": 0.00797170825110881,
         "avgOpenRate": 1.681097060272623,
@@ -816,12 +1072,12 @@
         "authorsText": "动静自在",
         "trackCount": 13,
         "lastReleaseDate": "Sun Oct 12 2025 00:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 24.480333645833333,
+        "lastReleaseDateDayCount": 27.49338744212963,
         "firstEpisodePostTime": "2024-11-27T18:27:56.000Z",
         "activeRate": 0,
         "avgDuration": 76,
         "avgPlayCount": 3319,
-        "avgUpdateFreq": 631,
+        "avgUpdateFreq": 637,
         "avgCommentCount": 19,
         "avgInteractIndicator": 0.005849274489129889,
         "avgOpenRate": 0.5557508789552988,
@@ -845,6 +1101,42 @@
         ]
       },
       {
+        "id": "06b4da9e3c193f2f3fbaebab038adf41",
+        "rank": 1689,
+        "name": "保留意见：",
+        "logoURL": "https://xyzrank.justinbot.com/FsKUxKoF-GRmmOTh_TlOl5uddvXz.png@small",
+        "authorsText": "AuraMisaki, 子戈, 胤祥",
+        "trackCount": 4,
+        "lastReleaseDate": "Tue Oct 28 2025 09:50:59 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 11.082973784722222,
+        "firstEpisodePostTime": "2025-09-16T01:00:00.000Z",
+        "activeRate": 0,
+        "avgDuration": 228,
+        "avgPlayCount": 13239,
+        "avgUpdateFreq": 318,
+        "avgCommentCount": 245,
+        "avgInteractIndicator": 0.018530641019185255,
+        "avgOpenRate": 2.2288439955106623,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68c436b4de7cd32c37b1c4a8"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
         "id": "82adea090d9790d58f7ce778c8e348d4",
         "rank": 1729,
         "name": "熊猫档案",
@@ -853,12 +1145,12 @@
         "authorsText": "三泳",
         "trackCount": 14,
         "lastReleaseDate": "Sun Oct 26 2025 15:24:40 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 9.838200520833333,
+        "lastReleaseDateDayCount": 12.851254293981482,
         "firstEpisodePostTime": "2025-03-19T05:14:39.000Z",
         "activeRate": 0,
         "avgDuration": 47,
         "avgPlayCount": 5175,
-        "avgUpdateFreq": 395,
+        "avgUpdateFreq": 400,
         "avgCommentCount": 70,
         "avgInteractIndicator": 0.013598668370834944,
         "avgOpenRate": 0.9014012807116256,
@@ -889,12 +1181,12 @@
         "authorsText": "林娜Linna",
         "trackCount": 11,
         "lastReleaseDate": "Sun Sep 14 2025 05:56:51 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 52.232514421296294,
+        "lastReleaseDateDayCount": 55.245568229166665,
         "firstEpisodePostTime": "2025-02-22T06:11:05.230Z",
         "activeRate": 0,
         "avgDuration": 57,
         "avgPlayCount": 4282,
-        "avgUpdateFreq": 557,
+        "avgUpdateFreq": 564,
         "avgCommentCount": 47,
         "avgInteractIndicator": 0.01113809368140849,
         "avgOpenRate": 0.7812112367748997,
@@ -926,12 +1218,12 @@
         "authorsText": "王府井一号",
         "trackCount": 12,
         "lastReleaseDate": "Fri Sep 19 2025 04:12:58 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 47.30465605324074,
+        "lastReleaseDateDayCount": 50.317709837962965,
         "firstEpisodePostTime": "2025-01-01T09:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 71,
         "avgPlayCount": 6473,
-        "avgUpdateFreq": 615,
+        "avgUpdateFreq": 621,
         "avgCommentCount": 25,
         "avgInteractIndicator": 0.003931921586249509,
         "avgOpenRate": 1.2071262692183817,
@@ -962,12 +1254,12 @@
         "authorsText": "0xRaymond",
         "trackCount": 13,
         "lastReleaseDate": "Thu Oct 23 2025 01:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 13.438667488425926,
+        "lastReleaseDateDayCount": 16.45172125,
         "firstEpisodePostTime": "2025-04-08T01:46:42.481Z",
         "activeRate": 0,
         "avgDuration": 59,
         "avgPlayCount": 4202,
-        "avgUpdateFreq": 389,
+        "avgUpdateFreq": 394,
         "avgCommentCount": 23,
         "avgInteractIndicator": 0.005611850324218208,
         "avgOpenRate": 0.7957615350628037,
@@ -975,6 +1267,42 @@
           {
             "name": "xyz",
             "url": "https://www.xiaoyuzhoufm.com/podcast/67f40c212ac4d88190caa56a"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "id": "18514720324dd52bd3579c290269c716",
+        "rank": 1854,
+        "name": "中国国家地理·目的地",
+        "logoURL": "https://xyzrank.justinbot.com/FiRg4NQO8vq0FB-W3xC7SDRujtij.png@small",
+        "authorsText": "中国国家地理播客, Tingcy",
+        "trackCount": 9,
+        "lastReleaseDate": "Tue Sep 16 2025 09:30:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 53.09755460648148,
+        "firstEpisodePostTime": "2025-05-20T00:40:27.437Z",
+        "activeRate": 0,
+        "avgDuration": 50,
+        "avgPlayCount": 3472,
+        "avgUpdateFreq": 458,
+        "avgCommentCount": 27,
+        "avgInteractIndicator": 0.007955077211043519,
+        "avgOpenRate": 0.6601948669201521,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68244c9dc7c5f17595143efe"
           },
           {
             "name": "apple",
@@ -999,12 +1327,12 @@
         "authorsText": "政治哲学研究",
         "trackCount": 6,
         "lastReleaseDate": "Sat Sep 20 2025 14:59:53 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 45.85540944444445,
+        "lastReleaseDateDayCount": 48.868463148148145,
         "firstEpisodePostTime": "2025-04-13T13:38:31.000Z",
         "activeRate": 0,
         "avgDuration": 118,
         "avgPlayCount": 4183,
-        "avgUpdateFreq": 821,
+        "avgUpdateFreq": 833,
         "avgCommentCount": 23,
         "avgInteractIndicator": 0.005545728354926615,
         "avgOpenRate": 0.8108935840279123,
@@ -1036,12 +1364,12 @@
         "authorsText": "CF40研究",
         "trackCount": 9,
         "lastReleaseDate": "Fri Oct 31 2025 23:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 4.5220010069444445,
+        "lastReleaseDateDayCount": 7.5350546875,
         "firstEpisodePostTime": "2025-04-16T20:00:19.000Z",
         "activeRate": 0,
         "avgDuration": 57,
         "avgPlayCount": 2724,
-        "avgUpdateFreq": 539,
+        "avgUpdateFreq": 547,
         "avgCommentCount": 8,
         "avgInteractIndicator": 0.003211745813259922,
         "avgOpenRate": 0.5290048543689321,
@@ -1073,12 +1401,12 @@
         "authorsText": "投资人王晶, 云鲸张峻彬",
         "trackCount": 12,
         "lastReleaseDate": "Sun Nov 02 2025 23:30:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 2.5011678009259257,
+        "lastReleaseDateDayCount": 5.514221446759259,
         "firstEpisodePostTime": "2024-12-31T03:42:35.000Z",
         "activeRate": 0,
         "avgDuration": 68,
         "avgPlayCount": 6099,
-        "avgUpdateFreq": 617,
+        "avgUpdateFreq": 623,
         "avgCommentCount": 19,
         "avgInteractIndicator": 0.003189792663476874,
         "avgOpenRate": 1.2144563918757467,
@@ -1109,12 +1437,12 @@
         "authorsText": "FREITAG中国, 57不拧紧, Yidi_CHEN",
         "trackCount": 7,
         "lastReleaseDate": "Thu Sep 11 2025 22:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 54.56366797453704,
+        "lastReleaseDateDayCount": 57.57672157407407,
         "firstEpisodePostTime": "2025-04-10T15:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 50,
         "avgPlayCount": 7358,
-        "avgUpdateFreq": 714,
+        "avgUpdateFreq": 725,
         "avgCommentCount": 43,
         "avgInteractIndicator": 0.005866630424934312,
         "avgOpenRate": 1.5186790505675958,
@@ -1145,12 +1473,12 @@
         "authorsText": "慧思Huisi, JackieJackie",
         "trackCount": 12,
         "lastReleaseDate": "Wed Oct 29 2025 16:30:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 6.792834664351852,
+        "lastReleaseDateDayCount": 9.80588829861111,
         "firstEpisodePostTime": "2025-05-08T04:26:54.452Z",
         "activeRate": 0,
         "avgDuration": 52,
         "avgPlayCount": 5694,
-        "avgUpdateFreq": 361,
+        "avgUpdateFreq": 367,
         "avgCommentCount": 39,
         "avgInteractIndicator": 0.006944887923877642,
         "avgOpenRate": 1.1882683259978755,
@@ -1181,12 +1509,12 @@
         "authorsText": "文景君",
         "trackCount": 12,
         "lastReleaseDate": "Mon Oct 13 2025 23:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 22.522001365740742,
+        "lastReleaseDateDayCount": 25.535055011574073,
         "firstEpisodePostTime": "2025-04-22T15:30:00.000Z",
         "activeRate": 0,
         "avgDuration": 71,
         "avgPlayCount": 3172,
-        "avgUpdateFreq": 392,
+        "avgUpdateFreq": 398,
         "avgCommentCount": 28,
         "avgInteractIndicator": 0.009083094555873925,
         "avgOpenRate": 0.6702000998578946,
@@ -1218,12 +1546,12 @@
         "authorsText": "安儒意, 辣辣Paprika",
         "trackCount": 13,
         "lastReleaseDate": "Tue Oct 21 2025 09:49:47 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 15.070758715277778,
+        "lastReleaseDateDayCount": 18.083812337962964,
         "firstEpisodePostTime": "2025-04-09T16:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 65,
         "avgPlayCount": 4091,
-        "avgUpdateFreq": 386,
+        "avgUpdateFreq": 392,
         "avgCommentCount": 83,
         "avgInteractIndicator": 0.020407747611967657,
         "avgOpenRate": 0.8738964829844796,
@@ -1247,6 +1575,79 @@
         ]
       },
       {
+        "id": "c99370a3f9c581ada331d79002392d49",
+        "rank": 2021,
+        "name": "难得正经｜商业版今夜不设防",
+        "logoURL": "https://xyzrank.justinbot.com/FiiS4CC6lO5fSGOOA9Ei58ehQXYV.png@small",
+        "authorsText": "Iris的小宇宙, CK商业逻辑研究",
+        "trackCount": 6,
+        "lastReleaseDate": "Tue Oct 28 2025 23:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 10.535055046296296,
+        "firstEpisodePostTime": "2025-09-16T07:26:57.043Z",
+        "activeRate": 0,
+        "avgDuration": 69,
+        "avgPlayCount": 9822,
+        "avgUpdateFreq": 211,
+        "avgCommentCount": 65,
+        "avgInteractIndicator": 0.006638024067927756,
+        "avgOpenRate": 2.10822064820777,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68c2889c9eff50753c639da0"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "id": "6c870836339a4ab9fad6c57c586724f9",
+        "rank": 2039,
+        "name": "得体广播站",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/47/0c/62/470c62ab-1ec8-b0d8-c6f8-795fe1c1a683/mza_3901688297298719106.jpeg/100x100bb.jpg",
+        "primaryGenreName": "幽默对谈",
+        "authorsText": "王三333, 刘振东1, 姜小黑, 贤鱼啊",
+        "trackCount": 5,
+        "lastReleaseDate": "Tue Oct 21 2025 15:30:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 17.847555092592593,
+        "firstEpisodePostTime": "2025-09-24T07:09:01.000Z",
+        "activeRate": 0,
+        "avgDuration": 57,
+        "avgPlayCount": 6951,
+        "avgUpdateFreq": 214,
+        "avgCommentCount": 152,
+        "avgInteractIndicator": 0.021865784363087105,
+        "avgOpenRate": 1.5079175704989154,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68c4f6d6a5335c4565c0c526"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E5%BE%97%E4%BD%93%E5%B9%BF%E6%92%AD%E7%AB%99/id1845527581?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.ximalaya.com/album/106286344"
+          },
+          {
+            "name": "rss",
+            "url": "https://www.ximalaya.com/album/106286344.xml"
+          }
+        ]
+      },
+      {
         "id": "0fa3c123882faf351b3c01358fb8bfd6",
         "rank": 2043,
         "name": "这位女士 Girlish Woman",
@@ -1255,12 +1656,12 @@
         "authorsText": "AyuChris, 醒宝bb",
         "trackCount": 11,
         "lastReleaseDate": "Sat Aug 30 2025 01:25:22 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 67.42104730324074,
+        "lastReleaseDateDayCount": 70.4341009375,
         "firstEpisodePostTime": "2025-01-03T16:50:39.000Z",
         "activeRate": 0,
         "avgDuration": 48,
         "avgPlayCount": 4410,
-        "avgUpdateFreq": 610,
+        "avgUpdateFreq": 616,
         "avgCommentCount": 42,
         "avgInteractIndicator": 0.009626087315001855,
         "avgOpenRate": 0.9587747035573124,
@@ -1284,6 +1685,43 @@
         ]
       },
       {
+        "id": "93eae4a3ed5bb0f8a5af560f14b3195c",
+        "rank": 2074,
+        "name": "无限游戏IG",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e8/16/63/e8166347-5e8b-e16a-7348-14a1fa4094dc/mza_1953762787842448140.png/100x100bb.jpg",
+        "primaryGenreName": "教育",
+        "authorsText": "半躺栗子",
+        "trackCount": 10,
+        "lastReleaseDate": "Sat Aug 16 2025 15:23:31 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 83.8520554050926,
+        "firstEpisodePostTime": "2025-03-21T17:00:00.000Z",
+        "activeRate": 0,
+        "avgDuration": 63,
+        "avgPlayCount": 4023,
+        "avgUpdateFreq": 555,
+        "avgCommentCount": 41,
+        "avgInteractIndicator": 0.010274256359267545,
+        "avgOpenRate": 0.8949944382647386,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/67dbd89e67cd86a346e8c160"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E6%97%A0%E9%99%90%E6%B8%B8%E6%88%8Fig/id1804225070?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/67dbd89e67cd86a346e8c160?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/xl3tq4dxccru"
+          }
+        ]
+      },
+      {
         "id": "fdb00dae8e21aa0022dd6db1c44a959d",
         "rank": 2076,
         "name": "以鹅传鹅FM",
@@ -1291,12 +1729,12 @@
         "authorsText": "以鹅传鹅FM, twotwotootwo, 客村小蒋",
         "trackCount": 14,
         "lastReleaseDate": "Tue Oct 21 2025 10:03:43 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 15.061079918981482,
+        "lastReleaseDateDayCount": 18.074133541666665,
         "firstEpisodePostTime": "2024-12-16T01:10:49.923Z",
         "activeRate": 0,
         "avgDuration": 63,
         "avgPlayCount": 3324,
-        "avgUpdateFreq": 555,
+        "avgUpdateFreq": 560,
         "avgCommentCount": 25,
         "avgInteractIndicator": 0.007657782713307422,
         "avgOpenRate": 0.7403524998715378,
@@ -1320,6 +1758,43 @@
         ]
       },
       {
+        "id": "f065c4ee8b042bdc500aa53e08f447f7",
+        "rank": 2114,
+        "name": "听起来不错！",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f4/74/41/f4744129-d059-0592-0fdf-c7f1423acfd5/mza_5162865321322431556.jpg/100x100bb.jpg",
+        "primaryGenreName": "艺术",
+        "authorsText": "Dicaprixin",
+        "trackCount": 8,
+        "lastReleaseDate": "Mon Oct 13 2025 17:35:53 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 25.76013292824074,
+        "firstEpisodePostTime": "2025-06-22T02:58:39.000Z",
+        "activeRate": 0,
+        "avgDuration": 38,
+        "avgPlayCount": 4768,
+        "avgUpdateFreq": 416,
+        "avgCommentCount": 55,
+        "avgInteractIndicator": 0.011534198148536505,
+        "avgOpenRate": 1.0899265306122448,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/678a8c969b619eecc7bf6c1f"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E5%90%AC%E8%B5%B7%E6%9D%A5%E4%B8%8D%E9%94%99/id1823494279?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/678a8c969b619eecc7bf6c1f?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/68h6gg69dykj"
+          }
+        ]
+      },
+      {
         "id": "a3c166daa7fe22a9821c1e20225302ab",
         "rank": 2125,
         "name": "抑扬格",
@@ -1328,12 +1803,12 @@
         "authorsText": "日立彤, 安迪橙",
         "trackCount": 14,
         "lastReleaseDate": "Tue Oct 28 2025 16:41:53 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 7.78457625,
+        "lastReleaseDateDayCount": 10.797629675925926,
         "firstEpisodePostTime": "2025-06-10T08:15:06.000Z",
         "activeRate": 0,
         "avgDuration": 79,
         "avgPlayCount": 3225,
-        "avgUpdateFreq": 252,
+        "avgUpdateFreq": 258,
         "avgCommentCount": 45,
         "avgInteractIndicator": 0.01397367417016406,
         "avgOpenRate": 0.7414033909092517,
@@ -1365,12 +1840,12 @@
         "authorsText": "全智闲人",
         "trackCount": 6,
         "lastReleaseDate": "Tue Aug 05 2025 23:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 91.52200203703704,
+        "lastReleaseDateDayCount": 94.53505538194445,
         "firstEpisodePostTime": "2025-03-02T23:45:17.000Z",
         "activeRate": 0,
         "avgDuration": 41,
         "avgPlayCount": 5397,
-        "avgUpdateFreq": 988,
+        "avgUpdateFreq": 1000,
         "avgCommentCount": 19,
         "avgInteractIndicator": 0.0035571365051133837,
         "avgOpenRate": 1.2667448955644214,
@@ -1394,6 +1869,80 @@
         ]
       },
       {
+        "id": "5fb8926f21b95b1307d3f36b3b894775",
+        "rank": 2166,
+        "name": "义乌听见",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ff/85/38/ff85388f-91ac-2dbf-29f1-4456f27f9f1e/mza_14547192054886606747.png/100x100bb.jpg",
+        "primaryGenreName": "休闲",
+        "authorsText": "大宝蛋",
+        "trackCount": 5,
+        "lastReleaseDate": "Thu Oct 09 2025 00:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 30.493388738425924,
+        "firstEpisodePostTime": "2025-09-04T08:00:00.000Z",
+        "activeRate": 0,
+        "avgDuration": 65,
+        "avgPlayCount": 6640,
+        "avgUpdateFreq": 311,
+        "avgCommentCount": 102,
+        "avgInteractIndicator": 0.015436165807010278,
+        "avgOpenRate": 1.5697990543735225,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68b458f953054470aaa056f4"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E4%B9%89%E4%B9%8C%E5%90%AC%E8%A7%81/id1838300756?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68b458f953054470aaa056f4?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/4yxqu9fq39yk"
+          }
+        ]
+      },
+      {
+        "id": "1a47cb5fdc1f8396891acc761b0c5e45",
+        "rank": 2169,
+        "name": "古建新编",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f7/eb/cd/f7ebcdbb-5341-3a1a-a075-6c898b317898/mza_13640317655022803281.jpg/100x100bb.jpg",
+        "primaryGenreName": "社会与文化",
+        "authorsText": "Jiarui, 看理想vistopia",
+        "trackCount": 6,
+        "lastReleaseDate": "Thu Oct 16 2025 22:59:02 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 22.53572670138889,
+        "firstEpisodePostTime": "2025-09-20T14:30:00.000Z",
+        "activeRate": 0,
+        "avgDuration": 53,
+        "avgPlayCount": 7906,
+        "avgUpdateFreq": 194,
+        "avgCommentCount": 36,
+        "avgInteractIndicator": 0.004603632316487074,
+        "avgOpenRate": 1.872318257163154,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68c77a3a0d9d2bb050f59314"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E5%8F%A4%E5%BB%BA%E6%96%B0%E7%BC%96/id1842650018?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://api.vistopia.com.cn/rss/program/427.xml"
+          },
+          {
+            "name": "rss",
+            "url": "https://api.vistopia.com.cn/rss/program/427.xml"
+          }
+        ]
+      },
+      {
         "id": "528fd97f3663bc0d0c7c11b12e0b4003",
         "rank": 2174,
         "name": "中国目的地",
@@ -1401,12 +1950,12 @@
         "authorsText": "澎湃新闻中国目的地",
         "trackCount": 6,
         "lastReleaseDate": "Tue Sep 02 2025 23:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 63.52200210648148,
+        "lastReleaseDateDayCount": 66.53505541666667,
         "firstEpisodePostTime": "2025-04-28T14:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 61,
         "avgPlayCount": 3856,
-        "avgUpdateFreq": 761,
+        "avgUpdateFreq": 773,
         "avgCommentCount": 11,
         "avgInteractIndicator": 0.0028524012031946894,
         "avgOpenRate": 0.9168806466951972,
@@ -1437,12 +1986,12 @@
         "authorsText": "Sophie-ss",
         "trackCount": 13,
         "lastReleaseDate": "Wed Oct 29 2025 02:57:35 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 7.357003553240741,
+        "lastReleaseDateDayCount": 10.370056840277778,
         "firstEpisodePostTime": "2025-05-12T13:14:42.216Z",
         "activeRate": 0,
         "avgDuration": 47,
         "avgPlayCount": 1107,
-        "avgUpdateFreq": 325,
+        "avgUpdateFreq": 331,
         "avgCommentCount": 9,
         "avgInteractIndicator": 0.008729680915111379,
         "avgOpenRate": 0.26415394402035625,
@@ -1474,12 +2023,12 @@
         "authorsText": "Aiting, 鸿茹",
         "trackCount": 11,
         "lastReleaseDate": "Fri Oct 24 2025 05:17:28 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 12.259867337962962,
+        "lastReleaseDateDayCount": 15.272920532407408,
         "firstEpisodePostTime": "2025-04-03T01:03:12.000Z",
         "activeRate": 0,
         "avgDuration": 85,
         "avgPlayCount": 4609,
-        "avgUpdateFreq": 471,
+        "avgUpdateFreq": 477,
         "avgCommentCount": 21,
         "avgInteractIndicator": 0.0047293632715045015,
         "avgOpenRate": 1.1147521160822247,
@@ -1510,12 +2059,12 @@
         "authorsText": "贾玖文",
         "trackCount": 9,
         "lastReleaseDate": "Mon Sep 01 2025 17:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 64.77200229166667,
+        "lastReleaseDateDayCount": 67.7850554861111,
         "firstEpisodePostTime": "2025-04-27T03:05:43.922Z",
         "activeRate": 0,
         "avgDuration": 69,
         "avgPlayCount": 933,
-        "avgUpdateFreq": 511,
+        "avgUpdateFreq": 519,
         "avgCommentCount": 16,
         "avgInteractIndicator": 0.018086816720257234,
         "avgOpenRate": 0.22623666343355964,
@@ -1546,12 +2095,12 @@
         "authorsText": "九只苍蝇撞墙, AgentCooper",
         "trackCount": 10,
         "lastReleaseDate": "Sat Nov 01 2025 16:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 3.8136693634259258,
+        "lastReleaseDateDayCount": 6.826722395833333,
         "firstEpisodePostTime": "2025-06-27T20:43:10.356Z",
         "activeRate": 0,
         "avgDuration": 93,
         "avgPlayCount": 3438,
-        "avgUpdateFreq": 312,
+        "avgUpdateFreq": 319,
         "avgCommentCount": 58,
         "avgInteractIndicator": 0.016868092806824792,
         "avgOpenRate": 0.8709332432736689,
@@ -1582,12 +2131,12 @@
         "authorsText": "银华会客厅, 小摸Momo",
         "trackCount": 10,
         "lastReleaseDate": "Wed Sep 17 2025 22:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 48.563669375,
+        "lastReleaseDateDayCount": 51.576722395833336,
         "firstEpisodePostTime": "2025-04-21T14:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 65,
         "avgPlayCount": 5673,
-        "avgUpdateFreq": 473,
+        "avgUpdateFreq": 481,
         "avgCommentCount": 14,
         "avgInteractIndicator": 0.0024874160252267075,
         "avgOpenRate": 1.438022813688213,
@@ -1611,6 +2160,80 @@
         ]
       },
       {
+        "id": "b3978beee488312ed2dad2cad44ba347",
+        "rank": 2278,
+        "name": "不止牛马",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6b/53/9c/6b539cae-4e4d-cde5-3776-c329e0a1218f/mza_12628906579172421825.png/100x100bb.jpg",
+        "primaryGenreName": "商务",
+        "authorsText": "RussellHuang, 小飘Ivanka, 不止牛马",
+        "trackCount": 8,
+        "lastReleaseDate": "Sun Oct 26 2025 10:47:27 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 13.043760092592592,
+        "firstEpisodePostTime": "2025-09-07T20:00:00.000Z",
+        "activeRate": 0,
+        "avgDuration": 50,
+        "avgPlayCount": 2939,
+        "avgUpdateFreq": 183,
+        "avgCommentCount": 25,
+        "avgInteractIndicator": 0.00874763084997813,
+        "avgOpenRate": 0.749699420701716,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68af1563224ba2ab254e7e16"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E4%B8%8D%E6%AD%A2%E7%89%9B%E9%A9%AC/id1838692554?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68af1563224ba2ab254e7e16?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/9ga9we9cdp8p"
+          }
+        ]
+      },
+      {
+        "id": "41b7c6e29237af11c3f34cea7472ff12",
+        "rank": 2288,
+        "name": "园长的多重宇宙",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cc/03/aa/cc03aa35-a169-aea3-3c3c-3e4af6c20ad7/mza_2115985483140316038.jpg/100x100bb.jpg",
+        "primaryGenreName": "休闲",
+        "authorsText": "园长Brian",
+        "trackCount": 12,
+        "lastReleaseDate": "Fri Sep 19 2025 09:30:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 50.09755576388889,
+        "firstEpisodePostTime": "2025-06-20T01:19:34.000Z",
+        "activeRate": 0,
+        "avgDuration": 47,
+        "avgPlayCount": 3048,
+        "avgUpdateFreq": 281,
+        "avgCommentCount": 44,
+        "avgInteractIndicator": 0.014551526717557252,
+        "avgOpenRate": 0.780524135362845,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6853c9fd55d7bbb8a3f57dda"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E5%9B%AD%E9%95%BF%E7%9A%84%E5%A4%9A%E9%87%8D%E5%AE%87%E5%AE%99/id1822258960?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6853c9fd55d7bbb8a3f57dda?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/lj4ag7c7yujj"
+          }
+        ]
+      },
+      {
         "id": "61109ad9a894ec4c628a8ebeef01a311",
         "rank": 2348,
         "name": "环球科学",
@@ -1618,12 +2241,12 @@
         "authorsText": "环球科学",
         "trackCount": 9,
         "lastReleaseDate": "Sun Oct 19 2025 15:33:15 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 16.832235358796297,
+        "lastReleaseDateDayCount": 19.845288217592593,
         "firstEpisodePostTime": "2025-03-18T23:31:48.856Z",
         "activeRate": 0,
         "avgDuration": 49,
         "avgPlayCount": 804,
-        "avgUpdateFreq": 615,
+        "avgUpdateFreq": 624,
         "avgCommentCount": 13,
         "avgInteractIndicator": 0.016464740602671637,
         "avgOpenRate": 0.21385862343874568,
@@ -1655,12 +2278,12 @@
         "authorsText": "七堇年official",
         "trackCount": 7,
         "lastReleaseDate": "Tue Oct 28 2025 23:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 7.522003113425926,
+        "lastReleaseDateDayCount": 10.535055949074074,
         "firstEpisodePostTime": "2025-07-07T15:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 81,
         "avgPlayCount": 4107,
-        "avgUpdateFreq": 413,
+        "avgUpdateFreq": 423,
         "avgCommentCount": 37,
         "avgInteractIndicator": 0.009211540802662014,
         "avgOpenRate": 1.098172905525847,
@@ -1692,12 +2315,12 @@
         "authorsText": "小纪-, 他塔拉TATARA",
         "trackCount": 10,
         "lastReleaseDate": "Sun Nov 02 2025 07:46:10 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 3.1566095601851853,
+        "lastReleaseDateDayCount": 6.169662395833333,
         "firstEpisodePostTime": "2025-06-01T05:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 40,
         "avgPlayCount": 3508,
-        "avgUpdateFreq": 376,
+        "avgUpdateFreq": 383,
         "avgCommentCount": 40,
         "avgInteractIndicator": 0.01149680116551593,
         "avgOpenRate": 0.9387803645229388,
@@ -1728,12 +2351,12 @@
         "authorsText": "梁狗蛋",
         "trackCount": 13,
         "lastReleaseDate": "Fri Aug 01 2025 15:27:48 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 95.83602857638888,
+        "lastReleaseDateDayCount": 98.84908130787036,
         "firstEpisodePostTime": "2025-01-18T15:30:00.000Z",
         "activeRate": 0,
         "avgDuration": 43,
         "avgPlayCount": 1738,
-        "avgUpdateFreq": 535,
+        "avgUpdateFreq": 541,
         "avgCommentCount": 12,
         "avgInteractIndicator": 0.0069031639501438155,
         "avgOpenRate": 0.4767782044249405,
@@ -1765,12 +2388,12 @@
         "authorsText": "越越, IvyLeanIn",
         "trackCount": 13,
         "lastReleaseDate": "Tue Nov 04 2025 00:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 1.480336712962963,
+        "lastReleaseDateDayCount": 4.493389409722222,
         "firstEpisodePostTime": "2025-06-04T16:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 74,
         "avgPlayCount": 1761,
-        "avgUpdateFreq": 282,
+        "avgUpdateFreq": 288,
         "avgCommentCount": 12,
         "avgInteractIndicator": 0.0071922021387337935,
         "avgOpenRate": 0.4878578024007387,
@@ -1795,19 +2418,19 @@
       },
       {
         "id": "0b6c3ab95687f30c1398c3ab0f2a41cd",
-        "rank": 2484,
+        "rank": 2485,
         "name": "她什么样",
         "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0d/a0/c5/0da0c534-04da-fe6e-7f35-bbeadd60ee3b/mza_18063037328578155693.jpg/100x100bb.jpg",
         "primaryGenreName": "社会与文化",
         "authorsText": "Yuzhuuu",
         "trackCount": 14,
         "lastReleaseDate": "Mon Oct 13 2025 10:14:47 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 23.053403912037037,
+        "lastReleaseDateDayCount": 26.06645642361111,
         "firstEpisodePostTime": "2025-01-13T00:57:25.000Z",
         "activeRate": 0,
         "avgDuration": 47,
         "avgPlayCount": 2873,
-        "avgUpdateFreq": 507,
+        "avgUpdateFreq": 512,
         "avgCommentCount": 11,
         "avgInteractIndicator": 0.003907818313214314,
         "avgOpenRate": 0.8294150294150295,
@@ -1832,18 +2455,18 @@
       },
       {
         "id": "1d8cdd6ce9cf7c1c5f9c1df8c9bd11a9",
-        "rank": 2554,
+        "rank": 2555,
         "name": "文档漂流记",
         "logoURL": "https://xyzrank.justinbot.com/Fq4MjFyd8VbkX6obaJIgYDnK8UzZ.png@small",
         "authorsText": "weiki33, Iris_怡",
         "trackCount": 10,
         "lastReleaseDate": "Thu Sep 18 2025 23:30:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 47.50117075231481,
+        "lastReleaseDateDayCount": 50.514223287037034,
         "firstEpisodePostTime": "2025-03-18T20:11:24.435Z",
         "activeRate": 0,
         "avgDuration": 34,
         "avgPlayCount": 3711,
-        "avgUpdateFreq": 554,
+        "avgUpdateFreq": 562,
         "avgCommentCount": 25,
         "avgInteractIndicator": 0.0068560821532289455,
         "avgOpenRate": 1.116157059314954,
@@ -1868,18 +2491,18 @@
       },
       {
         "id": "d86eaf4eb7f483e0fc2cc10cee4bfabd",
-        "rank": 2555,
+        "rank": 2556,
         "name": "疑案重重",
         "logoURL": "https://xyzrank.justinbot.com/FiXGMahk5txqFhAxyFXrONC-PrZE.png@small",
         "authorsText": "老刘来了",
         "trackCount": 11,
         "lastReleaseDate": "Sun Oct 26 2025 16:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 9.813670752314815,
+        "lastReleaseDateDayCount": 12.82672329861111,
         "firstEpisodePostTime": "2025-06-28T06:03:27.126Z",
         "activeRate": 0,
         "avgDuration": 39,
         "avgPlayCount": 5349,
-        "avgUpdateFreq": 283,
+        "avgUpdateFreq": 289,
         "avgCommentCount": 54,
         "avgInteractIndicator": 0.010206942964500029,
         "avgOpenRate": 1.6092960288808662,
@@ -1904,18 +2527,18 @@
       },
       {
         "id": "13881900bf4802c96f302629f6f73ea6",
-        "rank": 2578,
+        "rank": 2579,
         "name": "如意脑",
         "logoURL": "https://xyzrank.justinbot.com/Ftx037TtlBCa1OypuOxPe_BG_sOL.png@small",
         "authorsText": "耶鲁脑科学博士琳子",
         "trackCount": 8,
         "lastReleaseDate": "Fri Sep 05 2025 01:34:05 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 61.41499931712963,
+        "lastReleaseDateDayCount": 64.42805184027777,
         "firstEpisodePostTime": "2025-05-01T04:35:57.550Z",
         "activeRate": 0,
         "avgDuration": 29,
         "avgPlayCount": 4564,
-        "avgUpdateFreq": 563,
+        "avgUpdateFreq": 572,
         "avgCommentCount": 37,
         "avgInteractIndicator": 0.008169525478903218,
         "avgOpenRate": 1.3851289833080427,
@@ -1939,55 +2562,19 @@
         ]
       },
       {
-        "id": "1f07877a0cf1eab567b6304f5ba9d4f0",
-        "rank": 2580,
-        "name": "年轻的朋友",
-        "logoURL": "https://xyzrank.justinbot.com/FkgfPl5KTdQhcZ62JABLd2LSVEkO.jpg@small",
-        "authorsText": "寻仔, Liz微之",
-        "trackCount": 8,
-        "lastReleaseDate": "Wed Jul 30 2025 19:47:29 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 97.65568825231482,
-        "firstEpisodePostTime": "2024-12-17T15:30:00.000Z",
-        "activeRate": 0,
-        "avgDuration": 77,
-        "avgPlayCount": 3692,
-        "avgUpdateFreq": 967,
-        "avgCommentCount": 50,
-        "avgInteractIndicator": 0.013541747272305192,
-        "avgOpenRate": 1.1215934733553201,
-        "links": [
-          {
-            "name": "xyz",
-            "url": "https://www.xiaoyuzhoufm.com/podcast/6719e020eb8089ceeadc1f75"
-          },
-          {
-            "name": "apple",
-            "url": ""
-          },
-          {
-            "name": "website",
-            "url": null
-          },
-          {
-            "name": "rss",
-            "url": ""
-          }
-        ]
-      },
-      {
         "id": "2f23aadd5dc04364386ce6e68dbde738",
-        "rank": 2588,
+        "rank": 2589,
         "name": "家减成厨",
         "logoURL": "https://xyzrank.justinbot.com/FqluZTR75T8NAt_TZXieEUAbfpdX.jpg@small",
         "authorsText": "铁皮鸭",
         "trackCount": 14,
         "lastReleaseDate": "Thu Oct 23 2025 03:59:09 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 13.314260972222222,
+        "lastReleaseDateDayCount": 16.32731349537037,
         "firstEpisodePostTime": "2025-04-21T11:37:30.392Z",
         "activeRate": 0,
         "avgDuration": 66,
         "avgPlayCount": 3167,
-        "avgUpdateFreq": 338,
+        "avgUpdateFreq": 343,
         "avgCommentCount": 52,
         "avgInteractIndicator": 0.0164404186599966,
         "avgOpenRate": 0.9672108044627128,
@@ -2011,20 +2598,57 @@
         ]
       },
       {
+        "id": "29187fa5d674f391db6254a764771801",
+        "rank": 2657,
+        "name": "皮皮在蓝色星球",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/3a/f6/873af643-53ff-ed7d-1b2e-2eb955c20ddb/mza_5117398040567196176.jpg/100x100bb.jpg",
+        "primaryGenreName": "休闲",
+        "authorsText": "皮皮在蓝色星球",
+        "trackCount": 5,
+        "lastReleaseDate": "Tue Sep 23 2025 05:36:52 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 46.259454166666664,
+        "firstEpisodePostTime": "2025-04-03T02:31:21.270Z",
+        "activeRate": 0,
+        "avgDuration": 35,
+        "avgPlayCount": 4420,
+        "avgUpdateFreq": 1051,
+        "avgCommentCount": 57,
+        "avgInteractIndicator": 0.013064133016627079,
+        "avgOpenRate": 1.3971238938053097,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/67ecf874953abd97aca30c7f"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E7%9A%AE%E7%9A%AE%E5%9C%A8%E8%93%9D%E8%89%B2%E6%98%9F%E7%90%83/id1812906081?uo=4"
+          },
+          {
+            "name": "website",
+            "url": ""
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/hnccp346f783"
+          }
+        ]
+      },
+      {
         "id": "b4480701d337c04c25e010985b63720b",
-        "rank": 2669,
+        "rank": 2670,
         "name": "海獭冲浪",
         "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/01/e2/28/01e2284e-ca31-60e4-8189-ea8690208d99/mza_6031130089389488707.png/100x100bb.jpg",
         "primaryGenreName": "商务",
         "authorsText": "驴嫂",
         "trackCount": 11,
         "lastReleaseDate": "Mon Sep 15 2025 08:41:35 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 51.118116863425925,
+        "lastReleaseDateDayCount": 54.13116917824074,
         "firstEpisodePostTime": "2025-04-24T01:58:08.000Z",
         "activeRate": 0,
         "avgDuration": 57,
         "avgPlayCount": 2078,
-        "avgUpdateFreq": 425,
+        "avgUpdateFreq": 431,
         "avgCommentCount": 12,
         "avgInteractIndicator": 0.006063522617901829,
         "avgOpenRate": 0.6617834394904458,
@@ -2048,6 +2672,42 @@
         ]
       },
       {
+        "id": "120189d08d5f0b256df4617b0d9472c1",
+        "rank": 2712,
+        "name": "从心FM",
+        "logoURL": "https://xyzrank.justinbot.com/FqfUpbW_NQMzilGk6dw1g06bl_yn.jpg@small",
+        "authorsText": "从心FM, 黄天怡, 陈忻儿童心理, Zack西西爸",
+        "trackCount": 5,
+        "lastReleaseDate": "Thu Oct 16 2025 23:30:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 22.514223703703703,
+        "firstEpisodePostTime": "2025-08-08T06:13:57.958Z",
+        "activeRate": 0,
+        "avgDuration": 73,
+        "avgPlayCount": 2790,
+        "avgUpdateFreq": 440,
+        "avgCommentCount": 71,
+        "avgInteractIndicator": 0.025627240143369177,
+        "avgOpenRate": 0.9090909090909091,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68452e5cf6fa01566576fa23"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
         "id": "7903ee1959971bbc47c33b0e7783d654",
         "rank": 2725,
         "name": "人生学校",
@@ -2055,12 +2715,12 @@
         "authorsText": "北辰青年宋超",
         "trackCount": 8,
         "lastReleaseDate": "Mon Aug 04 2025 16:00:11 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 92.8135415625,
+        "lastReleaseDateDayCount": 95.82659376157407,
         "firstEpisodePostTime": "2025-06-02T12:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 46,
         "avgPlayCount": 5576,
-        "avgUpdateFreq": 466,
+        "avgUpdateFreq": 475,
         "avgCommentCount": 30,
         "avgInteractIndicator": 0.005508300881328141,
         "avgOpenRate": 1.8299967180833607,
@@ -2091,12 +2751,12 @@
         "authorsText": "于冬琪dongqi",
         "trackCount": 7,
         "lastReleaseDate": "Tue Sep 16 2025 02:14:43 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 50.38678339120371,
+        "lastReleaseDateDayCount": 53.399835555555555,
         "firstEpisodePostTime": "2025-01-07T11:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 78,
         "avgPlayCount": 3462,
-        "avgUpdateFreq": 1033,
+        "avgUpdateFreq": 1044,
         "avgCommentCount": 12,
         "avgInteractIndicator": 0.0036099345398536774,
         "avgOpenRate": 1.1519183854513193,
@@ -2120,6 +2780,80 @@
         ]
       },
       {
+        "id": "f4d52f0fb7e23e322eab6e42ab9aab40",
+        "rank": 2752,
+        "name": "我要问中医",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b0/6f/2a/b06f2a8f-0fa5-faed-e3b7-2af3bf79c5ab/mza_4190215854109618046.png/100x100bb.jpg",
+        "primaryGenreName": "休闲",
+        "authorsText": "时一不十一, 元气筱曦",
+        "trackCount": 8,
+        "lastReleaseDate": "Mon Sep 22 2025 22:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 46.576723819444446,
+        "firstEpisodePostTime": "2025-08-11T14:00:00.000Z",
+        "activeRate": 0,
+        "avgDuration": 33,
+        "avgPlayCount": 1913,
+        "avgUpdateFreq": 265,
+        "avgCommentCount": 3,
+        "avgInteractIndicator": 0.0020158279826788116,
+        "avgOpenRate": 0.6375969914790307,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68538212201e911b92f41974"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E6%88%91%E8%A6%81%E9%97%AE%E4%B8%AD%E5%8C%BB/id1832630957?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68538212201e911b92f41974?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/fvvn839xxl4q"
+          }
+        ]
+      },
+      {
+        "id": "bd6aa52f574f4ffa96bf300070615078",
+        "rank": 2777,
+        "name": "展间有雨",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f1/94/4c/f1944c19-f41e-5bc6-22d3-47da0855fdcb/mza_11589651595591931572.jpg/100x100bb.jpg",
+        "primaryGenreName": "休闲",
+        "authorsText": "雨尘MSWan",
+        "trackCount": 8,
+        "lastReleaseDate": "Fri Oct 17 2025 23:30:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 21.51422396990741,
+        "firstEpisodePostTime": "2025-02-28T07:30:00.000Z",
+        "activeRate": 0,
+        "avgDuration": 78,
+        "avgPlayCount": 5560,
+        "avgUpdateFreq": 758,
+        "avgCommentCount": 17,
+        "avgInteractIndicator": 0.0031084622103478396,
+        "avgOpenRate": 1.8843975407852063,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/67a5c47ae4f87af755a4fbef"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E5%B1%95%E9%97%B4%E6%9C%89%E9%9B%A8/id1812277904?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/67a5c47ae4f87af755a4fbef?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/j9bgepbryeph"
+          }
+        ]
+      },
+      {
         "id": "8726a731af56310bcd3016bae2d2eca3",
         "rank": 2782,
         "name": "在川上",
@@ -2127,12 +2861,12 @@
         "authorsText": "松木歌, 小熊万岁, 薛定谔鸽",
         "trackCount": 13,
         "lastReleaseDate": "Fri Oct 31 2025 01:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 5.438671782407408,
+        "lastReleaseDateDayCount": 8.451723981481482,
         "firstEpisodePostTime": "2025-05-05T23:19:00.279Z",
         "activeRate": 0,
         "avgDuration": 59,
         "avgPlayCount": 1641,
-        "avgUpdateFreq": 338,
+        "avgUpdateFreq": 343,
         "avgCommentCount": 6,
         "avgInteractIndicator": 0.004060501471931784,
         "avgOpenRate": 0.5573093460058837,
@@ -2163,12 +2897,12 @@
         "authorsText": "摘菌大婶",
         "trackCount": 10,
         "lastReleaseDate": "Tue Oct 07 2025 01:30:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 29.417838564814815,
+        "lastReleaseDateDayCount": 32.430890752314816,
         "firstEpisodePostTime": "2025-01-06T02:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 48,
         "avgPlayCount": 3302,
-        "avgUpdateFreq": 727,
+        "avgUpdateFreq": 734,
         "avgCommentCount": 49,
         "avgInteractIndicator": 0.014903781456062441,
         "avgOpenRate": 1.1341575091575093,
@@ -2200,12 +2934,12 @@
         "authorsText": "一件好事, 爱哲, 拖泥_",
         "trackCount": 8,
         "lastReleaseDate": "Sat Sep 13 2025 04:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 53.313671990740744,
+        "lastReleaseDateDayCount": 56.32672418981481,
         "firstEpisodePostTime": "2024-12-30T04:32:03.000Z",
         "activeRate": 0,
         "avgDuration": 72,
         "avgPlayCount": 4620,
-        "avgUpdateFreq": 929,
+        "avgUpdateFreq": 938,
         "avgCommentCount": 23,
         "avgInteractIndicator": 0.005070492208755874,
         "avgOpenRate": 1.6049223440678808,
@@ -2229,6 +2963,43 @@
         ]
       },
       {
+        "id": "06222230bccce2cf087cbfca12101644",
+        "rank": 2863,
+        "name": "认知缝隙",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/af/cd/de/afcddea6-1ac4-6bdf-e522-82a807934084/mza_2492651046455132101.png/100x100bb.jpg",
+        "primaryGenreName": "教育",
+        "authorsText": "思绪比较万千, 懒懒Lana",
+        "trackCount": 6,
+        "lastReleaseDate": "Fri Sep 12 2025 23:03:10 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 56.53285699074074,
+        "firstEpisodePostTime": "2025-07-01T18:16:52.000Z",
+        "activeRate": 0,
+        "avgDuration": 73,
+        "avgPlayCount": 2032,
+        "avgUpdateFreq": 517,
+        "avgCommentCount": 7,
+        "avgInteractIndicator": 0.0036413738805235706,
+        "avgOpenRate": 0.721918294849023,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/65d6ac088ec5e3f722f3845c"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E8%AE%A4%E7%9F%A5%E7%BC%9D%E9%9A%99/id1755493697?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/65d6ac088ec5e3f722f3845c?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/778vuh9btdmn"
+          }
+        ]
+      },
+      {
         "id": "213a66fdb9d1b17aa79547ba6f0970bd",
         "rank": 2958,
         "name": "厨子与裁缝",
@@ -2237,12 +3008,12 @@
         "authorsText": "崔迪_Pepsi, 黄一旦",
         "trackCount": 7,
         "lastReleaseDate": "Sat Sep 13 2025 01:28:53 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 53.41861451388889,
+        "lastReleaseDateDayCount": 56.4316665625,
         "firstEpisodePostTime": "2025-01-21T15:24:53.000Z",
         "activeRate": 0,
         "avgDuration": 59,
         "avgPlayCount": 8398,
-        "avgUpdateFreq": 985,
+        "avgUpdateFreq": 995,
         "avgCommentCount": 56,
         "avgInteractIndicator": 0.0066678573554801454,
         "avgOpenRate": 3.140800299177263,
@@ -2273,12 +3044,12 @@
         "authorsText": "哲予君",
         "trackCount": 10,
         "lastReleaseDate": "Sat Oct 18 2025 12:38:52 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 17.95334542824074,
+        "lastReleaseDateDayCount": 20.966397488425926,
         "firstEpisodePostTime": "2025-05-10T03:10:43.068Z",
         "activeRate": 0,
         "avgDuration": 49,
         "avgPlayCount": 2812,
-        "avgUpdateFreq": 429,
+        "avgUpdateFreq": 436,
         "avgCommentCount": 69,
         "avgInteractIndicator": 0.024771838331160364,
         "avgOpenRate": 1.0616584874795523,
@@ -2309,12 +3080,12 @@
         "authorsText": "情绪稳定的Sam, GaoKY, HD501552e",
         "trackCount": 12,
         "lastReleaseDate": "Tue Oct 28 2025 11:22:48 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 8.006161550925926,
+        "lastReleaseDateDayCount": 11.019213599537037,
         "firstEpisodePostTime": "2025-06-17T02:58:33.227Z",
         "activeRate": 0,
         "avgDuration": 42,
         "avgPlayCount": 883,
-        "avgUpdateFreq": 281,
+        "avgUpdateFreq": 287,
         "avgCommentCount": 5,
         "avgInteractIndicator": 0.0061715696358773916,
         "avgOpenRate": 0.33402047687761977,
@@ -2346,12 +3117,12 @@
         "authorsText": "公关不名媛",
         "trackCount": 14,
         "lastReleaseDate": "Mon Oct 27 2025 17:30:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 8.751172662037037,
+        "lastReleaseDateDayCount": 11.764224756944444,
         "firstEpisodePostTime": "2025-07-17T07:19:14.000Z",
         "activeRate": 0,
         "avgDuration": 34,
         "avgPlayCount": 1263,
-        "avgUpdateFreq": 189,
+        "avgUpdateFreq": 194,
         "avgCommentCount": 17,
         "avgInteractIndicator": 0.013574385196006818,
         "avgOpenRate": 0.4821412848883281,
@@ -2375,6 +3146,43 @@
         ]
       },
       {
+        "id": "8897240feaa59136f1eb32382733f855",
+        "rank": 3008,
+        "name": "河南河北",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1d/4e/20/1d4e20e2-931b-fd54-5dbf-cd547ae3fc88/mza_11252259632947618175.png/100x100bb.jpg",
+        "primaryGenreName": "休闲",
+        "authorsText": "金女士, 兔子飞行中",
+        "trackCount": 3,
+        "lastReleaseDate": "Thu Oct 09 2025 02:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 30.410058113425926,
+        "firstEpisodePostTime": "2025-09-01T02:17:08.000Z",
+        "activeRate": 0,
+        "avgDuration": 81,
+        "avgPlayCount": 13886,
+        "avgUpdateFreq": 544,
+        "avgCommentCount": 181,
+        "avgInteractIndicator": 0.01307024808267022,
+        "avgOpenRate": 5.3266206367472195,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/67bd818cf19398665caa37b0"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E6%B2%B3%E5%8D%97%E6%B2%B3%E5%8C%97/id1837326129?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/67bd818cf19398665caa37b0?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/gj9g44dhbxdn"
+          }
+        ]
+      },
+      {
         "id": "f19b445979a2ec3cb928131f1f92a0d6",
         "rank": 3054,
         "name": "《南十字星手记》",
@@ -2382,12 +3190,12 @@
         "authorsText": "南十字星手记",
         "trackCount": 13,
         "lastReleaseDate": "Wed Oct 01 2025 16:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 34.813672789351855,
+        "lastReleaseDateDayCount": 37.82672490740741,
         "firstEpisodePostTime": "2025-02-05T19:34:34.068Z",
         "activeRate": 0,
         "avgDuration": 53,
         "avgPlayCount": 1018,
-        "avgUpdateFreq": 502,
+        "avgUpdateFreq": 507,
         "avgCommentCount": 16,
         "avgInteractIndicator": 0.01660531697341513,
         "avgOpenRate": 0.4001374705420267,
@@ -2418,12 +3226,12 @@
         "authorsText": "VVC-FXB",
         "trackCount": 9,
         "lastReleaseDate": "Wed Oct 29 2025 06:56:21 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 7.191205347222223,
+        "lastReleaseDateDayCount": 10.204257476851852,
         "firstEpisodePostTime": "2025-07-26T02:51:47.083Z",
         "activeRate": 0,
         "avgDuration": 56,
         "avgPlayCount": 5485,
-        "avgUpdateFreq": 271,
+        "avgUpdateFreq": 279,
         "avgCommentCount": 17,
         "avgInteractIndicator": 0.003099079391122049,
         "avgOpenRate": 2.201243980738363,
@@ -2454,12 +3262,12 @@
         "authorsText": "可思叮, 王小水同學, 小橙Ollie, ZJK_YGfY",
         "trackCount": 14,
         "lastReleaseDate": "Sat Oct 18 2025 06:08:54 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 18.22415898148148,
+        "lastReleaseDateDayCount": 21.23721109953704,
         "firstEpisodePostTime": "2025-01-17T22:02:36.000Z",
         "activeRate": 0,
         "avgDuration": 46,
         "avgPlayCount": 902,
-        "avgUpdateFreq": 498,
+        "avgUpdateFreq": 503,
         "avgCommentCount": 14,
         "avgInteractIndicator": 0.015591718497060578,
         "avgOpenRate": 0.3628802869156567,
@@ -2467,6 +3275,42 @@
           {
             "name": "xyz",
             "url": "https://www.xiaoyuzhoufm.com/podcast/678df6f99420ede9d150c000"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "id": "d1904646cf6e3490855c42bfcd7b5659",
+        "rank": 3153,
+        "name": "中国国家地理·N学家",
+        "logoURL": "https://xyzrank.justinbot.com/FsyH6qR-IQQnRwzDsI791PmozVR_.png@small",
+        "authorsText": "中国国家地理播客, Tingcy",
+        "trackCount": 5,
+        "lastReleaseDate": "Wed Aug 27 2025 05:41:46 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 73.25604572916667,
+        "firstEpisodePostTime": "2025-05-26T16:00:00.000Z",
+        "activeRate": 0,
+        "avgDuration": 59,
+        "avgPlayCount": 301,
+        "avgUpdateFreq": 794,
+        "avgCommentCount": 19,
+        "avgInteractIndicator": 0.06379453189726594,
+        "avgOpenRate": 0.12620242576327897,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/682d5f4860314b3541f3a7c9"
           },
           {
             "name": "apple",
@@ -2491,12 +3335,12 @@
         "authorsText": "Harry_浩同学",
         "trackCount": 10,
         "lastReleaseDate": "Mon Oct 20 2025 17:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 15.772006388888888,
+        "lastReleaseDateDayCount": 18.785058518518518,
         "firstEpisodePostTime": "2025-03-18T01:57:47.000Z",
         "activeRate": 0,
         "avgDuration": 75,
         "avgPlayCount": 2151,
-        "avgUpdateFreq": 556,
+        "avgUpdateFreq": 563,
         "avgCommentCount": 8,
         "avgInteractIndicator": 0.003770855932641149,
         "avgOpenRate": 0.9011311269375786,
@@ -2520,6 +3364,43 @@
         ]
       },
       {
+        "id": "3249baac79b60cd154b30edf4a2824d2",
+        "rank": 3187,
+        "name": "老谢和小谢",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/14/03/f1/1403f162-b9ab-d64f-5e2d-dc768af31b14/mza_11350868619556146279.jpg/100x100bb.jpg",
+        "primaryGenreName": "个人日记",
+        "authorsText": "咪仔Mizai, 老谢laoxie",
+        "trackCount": 4,
+        "lastReleaseDate": "Wed Oct 22 2025 04:09:06 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 17.320400092592593,
+        "firstEpisodePostTime": "2025-10-11T18:29:46.000Z",
+        "activeRate": 0,
+        "avgDuration": 45,
+        "avgPlayCount": 2115,
+        "avgUpdateFreq": 160,
+        "avgCommentCount": 68,
+        "avgInteractIndicator": 0.03230890464933018,
+        "avgOpenRate": 0.8992346938775512,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68eb97da4876661e2bbb9bbd"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E8%80%81%E8%B0%A2%E5%92%8C%E5%B0%8F%E8%B0%A2/id1845674900?uo=4"
+          },
+          {
+            "name": "website",
+            "url": ""
+          },
+          {
+            "name": "rss",
+            "url": "https://proxy.wavpub.com/laoxiexiaoxie.xml"
+          }
+        ]
+      },
+      {
         "id": "320fafb0a7332fea49af01e5a450d01f",
         "rank": 3251,
         "name": "加密姐妹说",
@@ -2528,12 +3409,12 @@
         "authorsText": "加密姐妹说",
         "trackCount": 13,
         "lastReleaseDate": "Sun Oct 19 2025 08:17:42 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 17.134703761574073,
+        "lastReleaseDateDayCount": 20.147755925925924,
         "firstEpisodePostTime": "2025-06-02T21:35:30.640Z",
         "activeRate": 0,
         "avgDuration": 49,
         "avgPlayCount": 1039,
-        "avgUpdateFreq": 286,
+        "avgUpdateFreq": 291,
         "avgCommentCount": 6,
         "avgInteractIndicator": 0.005854519207634934,
         "avgOpenRate": 0.4599749151541981,
@@ -2557,6 +3438,43 @@
         ]
       },
       {
+        "id": "a73f9d7215fa6f5fcf91babb476ca1fe",
+        "rank": 3253,
+        "name": "感性与理性的TA",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c1/30/be/c130be43-dc48-4888-4fc7-9bd8640e2684/mza_5336835961545041723.jpg/100x100bb.jpg",
+        "primaryGenreName": "社会与文化",
+        "authorsText": "京凡, 张楠知产律师",
+        "trackCount": 5,
+        "lastReleaseDate": "Fri Sep 19 2025 01:25:48 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 50.43380087962963,
+        "firstEpisodePostTime": "2025-01-12T15:00:00.000Z",
+        "activeRate": 0,
+        "avgDuration": 72,
+        "avgPlayCount": 994,
+        "avgUpdateFreq": 1437,
+        "avgCommentCount": 2,
+        "avgInteractIndicator": 0.002764513696908771,
+        "avgOpenRate": 0.4407399202481169,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6780b2c03ebd9b00e31a840d"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E6%84%9F%E6%80%A7%E4%B8%8E%E7%90%86%E6%80%A7%E7%9A%84ta/id1796067706?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6780b2c03ebd9b00e31a840d?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/8qwndblfa7wg"
+          }
+        ]
+      },
+      {
         "id": "538959f7b4f504a92c13eac63afca72d",
         "rank": 3264,
         "name": "新新人类 Pixel Perfect",
@@ -2564,12 +3482,12 @@
         "authorsText": "杜安蕤, 马修修修修, 一只一闻",
         "trackCount": 14,
         "lastReleaseDate": "Wed Oct 01 2025 01:06:23 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 35.43424042824074,
+        "lastReleaseDateDayCount": 38.44729259259259,
         "firstEpisodePostTime": "2024-11-25T20:46:34.000Z",
         "activeRate": 0,
         "avgDuration": 74,
         "avgPlayCount": 2314,
-        "avgUpdateFreq": 589,
+        "avgUpdateFreq": 594,
         "avgCommentCount": 14,
         "avgInteractIndicator": 0.006280739066861624,
         "avgOpenRate": 1.0329179967734186,
@@ -2600,12 +3518,12 @@
         "authorsText": "嘉实基金",
         "trackCount": 5,
         "lastReleaseDate": "Fri Sep 19 2025 04:21:46 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 47.2985497337963,
+        "lastReleaseDateDayCount": 50.31160189814815,
         "firstEpisodePostTime": "2025-06-24T00:53:34.352Z",
         "activeRate": 0,
         "avgDuration": 66,
         "avgPlayCount": 10818,
-        "avgUpdateFreq": 643,
+        "avgUpdateFreq": 657,
         "avgCommentCount": 50,
         "avgInteractIndicator": 0.004621819610380607,
         "avgOpenRate": 4.855587971274686,
@@ -2629,6 +3547,43 @@
         ]
       },
       {
+        "id": "1611622206bcca2f2304e0819d7de879",
+        "rank": 3301,
+        "name": "玄音绕梁",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/87/a7/1387a71e-75ec-911d-373f-7bb413c4de16/mza_10589805065736793501.png/100x100bb.jpg",
+        "primaryGenreName": "宗教与心灵",
+        "authorsText": "尉然Kiwi",
+        "trackCount": 3,
+        "lastReleaseDate": "Mon Oct 27 2025 23:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 11.535058888888889,
+        "firstEpisodePostTime": "2025-07-02T19:45:16.000Z",
+        "activeRate": 0,
+        "avgDuration": 67,
+        "avgPlayCount": 4602,
+        "avgUpdateFreq": 1026,
+        "avgCommentCount": 65,
+        "avgInteractIndicator": 0.014232942199043894,
+        "avgOpenRate": 2.0956284153005464,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/683d69aa58e3eb3e768811f1"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E7%8E%84%E9%9F%B3%E7%BB%95%E6%A2%81/id1850397871?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/683d69aa58e3eb3e768811f1?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/p8g6pgbfeaaj"
+          }
+        ]
+      },
+      {
         "id": "24f5e73b94db2ce02f71f5fba29434b5",
         "rank": 3307,
         "name": "聊聊探探",
@@ -2636,12 +3591,12 @@
         "authorsText": "仙界小妖鹅, 三一ttt",
         "trackCount": 11,
         "lastReleaseDate": "Tue Oct 21 2025 16:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 14.813673402777777,
+        "lastReleaseDateDayCount": 17.82672556712963,
         "firstEpisodePostTime": "2025-08-12T15:30:00.000Z",
         "activeRate": 0,
         "avgDuration": 39,
         "avgPlayCount": 3501,
-        "avgUpdateFreq": 183,
+        "avgUpdateFreq": 190,
         "avgCommentCount": 56,
         "avgInteractIndicator": 0.016164962586394015,
         "avgOpenRate": 1.598812785388128,
@@ -2665,6 +3620,116 @@
         ]
       },
       {
+        "id": "ce12a95c2aa9fe7eb21741d550caa64c",
+        "rank": 3409,
+        "name": "回声场Echora",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4e/54/14/4e54143e-ad83-9b1e-d085-04cd9a6d3be4/mza_5470724695459058079.jpg/100x100bb.jpg",
+        "primaryGenreName": "社会与文化",
+        "authorsText": "Eason发现故事, 丹小丹, Adella噜噜狼",
+        "trackCount": 8,
+        "lastReleaseDate": "Mon Nov 03 2025 22:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 4.576725798611111,
+        "firstEpisodePostTime": "2025-05-18T08:00:00.000Z",
+        "activeRate": 0,
+        "avgDuration": 78,
+        "avgPlayCount": 792,
+        "avgUpdateFreq": 521,
+        "avgCommentCount": 19,
+        "avgInteractIndicator": 0.024689133177149037,
+        "avgOpenRate": 0.38092949818081967,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6826d8466d154f39671a9605"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E5%9B%9E%E5%A3%B0%E5%9C%BAechora/id1815436475?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6826d8466d154f39671a9605?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/kwvwncvcuqa6"
+          }
+        ]
+      },
+      {
+        "id": "6435bdfe707fdf23ad30a163b6f6ba43",
+        "rank": 3478,
+        "name": "废池塘",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/c5/51/07c5517a-67bf-bc67-9933-66f5a548aeec/mza_2647511455261985160.png/100x100bb.jpg",
+        "primaryGenreName": "休闲",
+        "authorsText": "漆渺, 废矢",
+        "trackCount": 6,
+        "lastReleaseDate": "Sun Oct 19 2025 00:10:23 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 20.486175706018518,
+        "firstEpisodePostTime": "2025-05-10T09:03:19.000Z",
+        "activeRate": 0,
+        "avgDuration": 31,
+        "avgPlayCount": 1765,
+        "avgUpdateFreq": 726,
+        "avgCommentCount": 9,
+        "avgInteractIndicator": 0.005438477226376614,
+        "avgOpenRate": 0.8764647467725919,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/67e0284fee860f77c2451b6e"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E5%BA%9F%E6%B1%A0%E5%A1%98/id1813871948?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/67e0284fee860f77c2451b6e?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/xv7nkeew764v"
+          }
+        ]
+      },
+      {
+        "id": "1b8f75be0f94375629d790f69a9414cc",
+        "rank": 3483,
+        "name": "纯英文Weekly Girls Chat",
+        "logoURL": "https://xyzrank.justinbot.com/FmPt9On5QqrHcaeZKIAZXx9gg9vI.png@small",
+        "authorsText": "焦糖玛奇朵不加糖",
+        "trackCount": 5,
+        "lastReleaseDate": "Sat Nov 01 2025 21:15:30 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 6.607619050925926,
+        "firstEpisodePostTime": "2024-12-08T07:19:22.251Z",
+        "activeRate": 0,
+        "avgDuration": 14,
+        "avgPlayCount": 1204,
+        "avgUpdateFreq": 1607,
+        "avgCommentCount": 2,
+        "avgInteractIndicator": 0.0016600954554886907,
+        "avgOpenRate": 0.599080059671805,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/67558204560bbe37b5f83db5"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
         "id": "5198cb2046f9d3977c742fccbbb29067",
         "rank": 3517,
         "name": "两颗坏脑袋",
@@ -2672,12 +3737,12 @@
         "authorsText": "领头羊, 北一几",
         "trackCount": 8,
         "lastReleaseDate": "Sun Oct 26 2025 00:30:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 10.459507199074075,
+        "lastReleaseDateDayCount": 13.472559398148148,
         "firstEpisodePostTime": "2025-02-15T20:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 52,
         "avgPlayCount": 2325,
-        "avgUpdateFreq": 786,
+        "avgUpdateFreq": 795,
         "avgCommentCount": 33,
         "avgInteractIndicator": 0.014437549917060883,
         "avgOpenRate": 1.179749220845111,
@@ -2701,6 +3766,79 @@
         ]
       },
       {
+        "id": "a6d0220d710acbe2312e7821c0ef85d6",
+        "rank": 3530,
+        "name": "此间meetup",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/75/d2/52/75d25202-11ff-d8a1-e07b-c39ea0938da4/mza_13821380020797831658.png/100x100bb.jpg",
+        "primaryGenreName": "休闲",
+        "authorsText": "小秋aka, julianding",
+        "trackCount": 9,
+        "lastReleaseDate": "Wed Oct 08 2025 16:43:22 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 30.79660840277778,
+        "firstEpisodePostTime": "2025-07-02T07:20:19.000Z",
+        "activeRate": 0,
+        "avgDuration": 85,
+        "avgPlayCount": 2199,
+        "avgUpdateFreq": 343,
+        "avgCommentCount": 14,
+        "avgInteractIndicator": 0.006649994316244174,
+        "avgOpenRate": 1.1255117707267144,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68652a5f71f3ddba1e361cc6"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E6%AD%A4%E9%97%B4meetup/id1828086171?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68652a5f71f3ddba1e361cc6?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/wxdeljq9yb69"
+          }
+        ]
+      },
+      {
+        "id": "c5b20a48bc8814e040e4efe7d41eec2b",
+        "rank": 3648,
+        "name": "优酷生花映话",
+        "logoURL": "https://xyzrank.justinbot.com/FiuWSVZd7eCSi6srtXz6nDpbPW10.jpg@small",
+        "authorsText": "优酷生花映话",
+        "trackCount": 7,
+        "lastReleaseDate": "Tue Sep 30 2025 11:32:02 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 39.01280640046296,
+        "firstEpisodePostTime": "2025-04-30T00:03:47.014Z",
+        "activeRate": 0,
+        "avgDuration": 45,
+        "avgPlayCount": 6308,
+        "avgUpdateFreq": 658,
+        "avgCommentCount": 22,
+        "avgInteractIndicator": 0.0035137777073260944,
+        "avgOpenRate": 3.4044792228818133,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6811cfbf5804e6b1f7af74ea"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
         "id": "be8eea9219866013741c4035bc05d293",
         "rank": 3703,
         "name": "-有理取闹-",
@@ -2708,12 +3846,12 @@
         "authorsText": "CC-Cindy",
         "trackCount": 12,
         "lastReleaseDate": "Mon Aug 25 2025 11:18:36 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 72.0090821412037,
+        "lastReleaseDateDayCount": 75.0221343287037,
         "firstEpisodePostTime": "2025-04-08T18:51:32.304Z",
         "activeRate": 0,
         "avgDuration": 61,
         "avgPlayCount": 2330,
-        "avgUpdateFreq": 420,
+        "avgUpdateFreq": 426,
         "avgCommentCount": 31,
         "avgInteractIndicator": 0.01341967699149567,
         "avgOpenRate": 1.2960865608251593,
@@ -2744,12 +3882,12 @@
         "authorsText": "点拾投资",
         "trackCount": 14,
         "lastReleaseDate": "Thu Oct 09 2025 15:22:17 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 26.83985648148148,
+        "lastReleaseDateDayCount": 29.85290866898148,
         "firstEpisodePostTime": "2024-11-27T03:49:24.651Z",
         "activeRate": 0,
         "avgDuration": 65,
         "avgPlayCount": 792,
-        "avgUpdateFreq": 587,
+        "avgUpdateFreq": 592,
         "avgCommentCount": 4,
         "avgInteractIndicator": 0.005917733798991075,
         "avgOpenRate": 0.44223261401175507,
@@ -2781,12 +3919,12 @@
         "authorsText": "不朽真龙",
         "trackCount": 14,
         "lastReleaseDate": "Wed Sep 24 2025 10:08:03 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 42.058073622685185,
+        "lastReleaseDateDayCount": 45.07112581018519,
         "firstEpisodePostTime": "2025-05-17T00:24:37.000Z",
         "activeRate": 0,
         "avgDuration": 37,
         "avgPlayCount": 671,
-        "avgUpdateFreq": 294,
+        "avgUpdateFreq": 299,
         "avgCommentCount": 6,
         "avgInteractIndicator": 0.009858993465550843,
         "avgOpenRate": 0.3767546322290848,
@@ -2810,6 +3948,43 @@
         ]
       },
       {
+        "id": "2ad01f5f60ab66a335b78cdad6e9dc54",
+        "rank": 3733,
+        "name": "投蓝高手 | 我们都是投资蓝海的高手",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6b/73/ea/6b73eaec-7912-d735-610a-d4a4419d5ba3/mza_10719792714176448069.jpg/100x100bb.jpg",
+        "primaryGenreName": "科技",
+        "authorsText": "明月Y",
+        "trackCount": 3,
+        "lastReleaseDate": "Tue Sep 09 2025 23:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 59.53505988425926,
+        "firstEpisodePostTime": "2025-02-17T08:00:00.000Z",
+        "activeRate": 0,
+        "avgDuration": 65,
+        "avgPlayCount": 3032,
+        "avgUpdateFreq": 2110,
+        "avgCommentCount": 44,
+        "avgInteractIndicator": 0.014509480626545754,
+        "avgOpenRate": 1.712309429700734,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6582903908ce53c40faace02"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E6%8A%95%E8%93%9D%E9%AB%98%E6%89%8B-%E6%88%91%E4%BB%AC%E9%83%BD%E6%98%AF%E6%8A%95%E8%B5%84%E8%93%9D%E6%B5%B7%E7%9A%84%E9%AB%98%E6%89%8B/id1797525182?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6582903908ce53c40faace02?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/nvr4pkwuxqtx"
+          }
+        ]
+      },
+      {
         "id": "01c835ad0c182861ec849afcf84894ca",
         "rank": 3838,
         "name": "那里的城",
@@ -2818,12 +3993,12 @@
         "authorsText": "原来是这个缘来, 小蓝是我",
         "trackCount": 9,
         "lastReleaseDate": "Tue Oct 07 2025 23:30:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 28.501174618055554,
+        "lastReleaseDateDayCount": 31.51422684027778,
         "firstEpisodePostTime": "2025-02-21T00:50:07.000Z",
         "activeRate": 0,
         "avgDuration": 47,
         "avgPlayCount": 1955,
-        "avgUpdateFreq": 685,
+        "avgUpdateFreq": 693,
         "avgCommentCount": 31,
         "avgInteractIndicator": 0.015920716112531968,
         "avgOpenRate": 1.158861885002964,
@@ -2855,12 +4030,12 @@
         "authorsText": "梨娜Lena",
         "trackCount": 14,
         "lastReleaseDate": "Tue Sep 23 2025 10:30:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 43.042841296296295,
+        "lastReleaseDateDayCount": 46.055893518518516,
         "firstEpisodePostTime": "2024-11-17T21:34:45.035Z",
         "activeRate": 0,
         "avgDuration": 36,
         "avgPlayCount": 1076,
-        "avgUpdateFreq": 550,
+        "avgUpdateFreq": 555,
         "avgCommentCount": 18,
         "avgInteractIndicator": 0.01759167492566898,
         "avgOpenRate": 0.6406349206349208,
@@ -2892,12 +4067,12 @@
         "authorsText": "Monca-huhu, 沙沙沙卡娜",
         "trackCount": 14,
         "lastReleaseDate": "Thu Oct 30 2025 23:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 5.522008067129629,
+        "lastReleaseDateDayCount": 8.535060300925926,
         "firstEpisodePostTime": "2025-01-25T05:33:28.000Z",
         "activeRate": 0,
         "avgDuration": 78,
         "avgPlayCount": 1632,
-        "avgUpdateFreq": 486,
+        "avgUpdateFreq": 491,
         "avgCommentCount": 20,
         "avgInteractIndicator": 0.012720848056537103,
         "avgOpenRate": 0.9865210318382525,
@@ -2928,12 +4103,12 @@
         "authorsText": "",
         "trackCount": 11,
         "lastReleaseDate": "Sat Oct 25 2025 16:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 10.813675046296297,
+        "lastReleaseDateDayCount": 13.826727476851852,
         "firstEpisodePostTime": "2025-06-11T01:43:11.249Z",
         "activeRate": 0,
         "avgDuration": 43,
         "avgPlayCount": 571,
-        "avgUpdateFreq": 320,
+        "avgUpdateFreq": 327,
         "avgCommentCount": 5,
         "avgInteractIndicator": 0.00963053755909648,
         "avgOpenRate": 0.3720521172638437,
@@ -2965,12 +4140,12 @@
         "authorsText": "小小1支, 钢笔pen",
         "trackCount": 10,
         "lastReleaseDate": "Mon Oct 06 2025 06:49:22 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 30.196053819444444,
+        "lastReleaseDateDayCount": 33.20910634259259,
         "firstEpisodePostTime": "2025-06-23T04:01:27.000Z",
         "activeRate": 0,
         "avgDuration": 61,
         "avgPlayCount": 3337,
-        "avgUpdateFreq": 323,
+        "avgUpdateFreq": 330,
         "avgCommentCount": 32,
         "avgInteractIndicator": 0.009687728876756108,
         "avgOpenRate": 2.2191193853427897,
@@ -3001,12 +4176,12 @@
         "authorsText": "PACKING_FUN, ViTing, 刘子豪PeterLiu",
         "trackCount": 14,
         "lastReleaseDate": "Wed Oct 29 2025 16:30:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 6.79284193287037,
+        "lastReleaseDateDayCount": 9.805894409722223,
         "firstEpisodePostTime": "2024-12-30T01:52:59.528Z",
         "activeRate": 0,
         "avgDuration": 69,
         "avgPlayCount": 1229,
-        "avgUpdateFreq": 531,
+        "avgUpdateFreq": 536,
         "avgCommentCount": 9,
         "avgInteractIndicator": 0.007757272442915233,
         "avgOpenRate": 0.829699989619018,
@@ -3038,12 +4213,12 @@
         "authorsText": "正常派",
         "trackCount": 10,
         "lastReleaseDate": "Fri Aug 22 2025 11:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 75.0220087037037,
+        "lastReleaseDateDayCount": 78.03506113425927,
         "firstEpisodePostTime": "2025-02-11T23:50:10.000Z",
         "activeRate": 0,
         "avgDuration": 66,
         "avgPlayCount": 956,
-        "avgUpdateFreq": 638,
+        "avgUpdateFreq": 645,
         "avgCommentCount": 6,
         "avgInteractIndicator": 0.006857275685727569,
         "avgOpenRate": 0.6521145975443382,
@@ -3075,12 +4250,12 @@
         "authorsText": "madiju, 鸽子CM",
         "trackCount": 13,
         "lastReleaseDate": "Wed Oct 08 2025 13:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 27.938675787037038,
+        "lastReleaseDateDayCount": 30.951728055555556,
         "firstEpisodePostTime": "2025-01-09T17:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 70,
         "avgPlayCount": 2617,
-        "avgUpdateFreq": 552,
+        "avgUpdateFreq": 557,
         "avgCommentCount": 21,
         "avgInteractIndicator": 0.008182107609041707,
         "avgOpenRate": 1.8898916967509025,
@@ -3112,12 +4287,12 @@
         "authorsText": "olisays, More",
         "trackCount": 9,
         "lastReleaseDate": "Fri Oct 31 2025 09:14:02 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 5.095595509259259,
+        "lastReleaseDateDayCount": 8.108647800925926,
         "firstEpisodePostTime": "2025-05-28T23:38:54.000Z",
         "activeRate": 0,
         "avgDuration": 62,
         "avgPlayCount": 1547,
-        "avgUpdateFreq": 426,
+        "avgUpdateFreq": 434,
         "avgCommentCount": 28,
         "avgInteractIndicator": 0.018656113713455016,
         "avgOpenRate": 1.1313961988304093,
@@ -3149,12 +4324,12 @@
         "authorsText": "东方财富",
         "trackCount": 11,
         "lastReleaseDate": "Thu Oct 30 2025 23:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 5.5220092129629625,
+        "lastReleaseDateDayCount": 8.535061516203704,
         "firstEpisodePostTime": "2025-07-09T23:00:14.000Z",
         "activeRate": 0,
         "avgDuration": 49,
         "avgPlayCount": 814,
-        "avgUpdateFreq": 218,
+        "avgUpdateFreq": 223,
         "avgCommentCount": 7,
         "avgInteractIndicator": 0.009009009009009009,
         "avgOpenRate": 0.596774193548387,
@@ -3178,6 +4353,80 @@
         ]
       },
       {
+        "id": "de9d117c701a81bd9f933d5e76212740",
+        "rank": 4289,
+        "name": "隐藏菜单 Off Menu",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ce/39/bb/ce39bbb3-6067-60cf-b317-c23de0aa2245/mza_13271993613534702789.jpeg/100x100bb.jpg",
+        "primaryGenreName": "休闲",
+        "authorsText": "Marcast",
+        "trackCount": 3,
+        "lastReleaseDate": "Tue Sep 09 2025 23:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 59.53506152777778,
+        "firstEpisodePostTime": "2025-07-15T07:18:15.985Z",
+        "activeRate": 0,
+        "avgDuration": 63,
+        "avgPlayCount": 3321,
+        "avgUpdateFreq": 926,
+        "avgCommentCount": 61,
+        "avgInteractIndicator": 0.018367961457392352,
+        "avgOpenRate": 2.4383259911894273,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68765271b7c1cbb4c41f62ca"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E9%9A%90%E8%97%8F%E8%8F%9C%E5%8D%95-off-menu/id1633761855?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68765271b7c1cbb4c41f62ca?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/wfb8quv4pqgl"
+          }
+        ]
+      },
+      {
+        "id": "0aa5f61dc6c8dfff94e3fdfa3763f074",
+        "rank": 4337,
+        "name": "步可思议",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/37/ba/df/37badf61-c68c-2b9f-e7f1-34edd2fa84ca/mza_13210221560875267323.png/100x100bb.jpg",
+        "primaryGenreName": "休闲",
+        "authorsText": "飞驰吧叮叮, 海派乡绅Jerry",
+        "trackCount": 12,
+        "lastReleaseDate": "Wed Sep 24 2025 23:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 44.535061631944444,
+        "firstEpisodePostTime": "2025-08-06T05:45:38.000Z",
+        "activeRate": 0,
+        "avgDuration": 47,
+        "avgPlayCount": 738,
+        "avgUpdateFreq": 187,
+        "avgCommentCount": 20,
+        "avgInteractIndicator": 0.027815384615384617,
+        "avgOpenRate": 0.5557835693275873,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/687e04ffe93605cac17ca539"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E6%AD%A5%E5%8F%AF%E6%80%9D%E8%AE%AE/id1831655194?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/687e04ffe93605cac17ca539?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/nefj7dtt6p9m"
+          }
+        ]
+      },
+      {
         "id": "09f36bad6ab356392da385ecf8bf47ff",
         "rank": 4354,
         "name": "旅行企鹅",
@@ -3185,12 +4434,12 @@
         "authorsText": "BIN_NJBK",
         "trackCount": 6,
         "lastReleaseDate": "Sun Aug 31 2025 17:21:59 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 65.75673881944445,
+        "lastReleaseDateDayCount": 68.76979112268519,
         "firstEpisodePostTime": "2024-12-15T16:21:22.077Z",
         "activeRate": 0,
         "avgDuration": 15,
         "avgPlayCount": 431,
-        "avgUpdateFreq": 1297,
+        "avgUpdateFreq": 1309,
         "avgCommentCount": 13,
         "avgInteractIndicator": 0.031090487238979118,
         "avgOpenRate": 0.3265151515151515,
@@ -3222,12 +4471,12 @@
         "authorsText": "_智子, Mon1st",
         "trackCount": 14,
         "lastReleaseDate": "Tue Nov 04 2025 03:01:15 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 1.354470324074074,
+        "lastReleaseDateDayCount": 4.367522638888889,
         "firstEpisodePostTime": "2025-05-04T19:04:18.000Z",
         "activeRate": 0,
         "avgDuration": 43,
         "avgPlayCount": 1492,
-        "avgUpdateFreq": 315,
+        "avgUpdateFreq": 320,
         "avgCommentCount": 31,
         "avgInteractIndicator": 0.021236018761919488,
         "avgOpenRate": 1.134030862754267,
@@ -3259,12 +4508,12 @@
         "authorsText": "raintale",
         "trackCount": 4,
         "lastReleaseDate": "Wed Oct 01 2025 12:58:18 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 34.93984513888889,
+        "lastReleaseDateDayCount": 37.95289744212963,
         "firstEpisodePostTime": "2024-12-10T06:01:36.000Z",
         "activeRate": 0,
         "avgDuration": 60,
         "avgPlayCount": 880,
-        "avgUpdateFreq": 402,
+        "avgUpdateFreq": 407,
         "avgCommentCount": 10,
         "avgInteractIndicator": 0.011353315168029064,
         "avgOpenRate": 0.669809885931559,
@@ -3288,6 +4537,115 @@
         ]
       },
       {
+        "id": "32ba5e947060be023a3602f21ca0350e",
+        "rank": 4379,
+        "name": "红衣大叔周鸿祎的播客",
+        "logoURL": "https://xyzrank.justinbot.com/Fu7OP5xA8OyriLwFgAEvA6dLwGrL.jpg@small",
+        "authorsText": "红衣大叔周鸿祎",
+        "trackCount": 2,
+        "lastReleaseDate": "Tue Sep 23 2025 10:01:09 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 46.07592331018518,
+        "firstEpisodePostTime": "2025-09-15T00:56:24.086Z",
+        "activeRate": 0,
+        "avgDuration": 79,
+        "avgPlayCount": 4662,
+        "avgUpdateFreq": 649,
+        "avgCommentCount": 27,
+        "avgInteractIndicator": 0.005791505791505791,
+        "avgOpenRate": 3.5642201834862384,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68b6afd2e13e1a5d5e139b8a"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "id": "0fa5fa0cca6eba51210201642c3e96df",
+        "rank": 4382,
+        "name": "无用酒馆",
+        "logoURL": "https://xyzrank.justinbot.com/FuA0LMhT1heQT3XMrAy_ZFxL9G04.jpg@small",
+        "authorsText": "咖灰阿菲, Tarven-J",
+        "trackCount": 11,
+        "lastReleaseDate": "Wed Oct 22 2025 13:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 16.951728391203705,
+        "firstEpisodePostTime": "2025-08-20T19:00:00.000Z",
+        "activeRate": 0,
+        "avgDuration": 73,
+        "avgPlayCount": 461,
+        "avgUpdateFreq": 172,
+        "avgCommentCount": 11,
+        "avgInteractIndicator": 0.023830155979202773,
+        "avgOpenRate": 0.3531752104055088,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6893396c176414dd760a77c6"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "id": "55b4f3ef1e832da5f557d68c11ce4bca",
+        "rank": 4489,
+        "name": "浪游猎手｜不盲从的旅行攻略",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f0/9b/38/f09b38c8-c7cc-ff93-276f-ff75308a4fb7/mza_5117048622739482962.jpeg/100x100bb.jpg",
+        "primaryGenreName": "旅行与地方文化",
+        "authorsText": "木子六月",
+        "trackCount": 4,
+        "lastReleaseDate": "Mon Nov 03 2025 23:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 4.535061979166667,
+        "firstEpisodePostTime": "2025-08-18T05:10:27.000Z",
+        "activeRate": 0,
+        "avgDuration": 50,
+        "avgPlayCount": 3817,
+        "avgUpdateFreq": 491,
+        "avgCommentCount": 63,
+        "avgInteractIndicator": 0.016679765959304864,
+        "avgOpenRate": 3.0609462710505215,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68a3df2dcb05ee73b20a7a66"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E6%B5%AA%E6%B8%B8%E7%8C%8E%E6%89%8B-%E4%B8%8D%E7%9B%B2%E4%BB%8E%E7%9A%84%E6%97%85%E8%A1%8C%E6%94%BB%E7%95%A5/id1833936782?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.ximalaya.com/album/102512451"
+          },
+          {
+            "name": "rss",
+            "url": "https://www.ximalaya.com/album/102512451.xml"
+          }
+        ]
+      },
+      {
         "id": "cdc4569091fc787f4b52c8acbb8a63e7",
         "rank": 4496,
         "name": "短小精干思考局",
@@ -3296,12 +4654,12 @@
         "authorsText": "不录播客的Cc",
         "trackCount": 14,
         "lastReleaseDate": "Sun Sep 07 2025 13:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 58.93867635416667,
+        "lastReleaseDateDayCount": 61.95172865740741,
         "firstEpisodePostTime": "2025-05-01T06:57:50.000Z",
         "activeRate": 0,
         "avgDuration": 13,
         "avgPlayCount": 993,
-        "avgUpdateFreq": 321,
+        "avgUpdateFreq": 326,
         "avgCommentCount": 5,
         "avgInteractIndicator": 0.005110336817653891,
         "avgOpenRate": 0.7992450027848258,
@@ -3325,6 +4683,79 @@
         ]
       },
       {
+        "id": "46de616656e74bef6299f6245d770a15",
+        "rank": 4517,
+        "name": "福来飞绳",
+        "logoURL": "https://xyzrank.justinbot.com/Fsx_ZQDmoHNj_xjqvVT68IGHT1I7.jpg@small",
+        "authorsText": "溪流华尔兹, 李羽",
+        "trackCount": 7,
+        "lastReleaseDate": "Mon Oct 13 2025 13:12:08 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 25.94330144675926,
+        "firstEpisodePostTime": "2025-05-21T07:01:58.123Z",
+        "activeRate": 0,
+        "avgDuration": 72,
+        "avgPlayCount": 1937,
+        "avgUpdateFreq": 585,
+        "avgCommentCount": 25,
+        "avgInteractIndicator": 0.013334480385409497,
+        "avgOpenRate": 1.5725108225108226,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6800bf61f519577b65bbb791"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "id": "316b0f9c75ab06a8e139d41d5289eef8",
+        "rank": 4526,
+        "name": "《我是销冠》",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/7b/be/e27bbe85-d4d2-cc6d-696d-35583853897a/mza_5444428596847325427.jpg/100x100bb.jpg",
+        "primaryGenreName": "商务",
+        "authorsText": "米莱先生",
+        "trackCount": 9,
+        "lastReleaseDate": "Mon Oct 20 2025 15:30:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 18.847562083333333,
+        "firstEpisodePostTime": "2025-08-25T02:26:57.000Z",
+        "activeRate": 0,
+        "avgDuration": 83,
+        "avgPlayCount": 1101,
+        "avgUpdateFreq": 199,
+        "avgCommentCount": 33,
+        "avgInteractIndicator": 0.030526554698138902,
+        "avgOpenRate": 0.8969869706840391,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68a6853de20765e18ff9044b"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E6%88%91%E6%98%AF%E9%94%80%E5%86%A0/id1837111418?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68a6853de20765e18ff9044b?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/3h7pbf4faqpa"
+          }
+        ]
+      },
+      {
         "id": "af4f833d484e6eea1fb47d21f232a076",
         "rank": 4556,
         "name": "陀螺转不停",
@@ -3332,12 +4763,12 @@
         "authorsText": "直布",
         "trackCount": 14,
         "lastReleaseDate": "Wed Sep 24 2025 10:04:18 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 42.06068744212963,
+        "lastReleaseDateDayCount": 45.07373980324074,
         "firstEpisodePostTime": "2025-02-02T00:08:21.528Z",
         "activeRate": 0,
         "avgDuration": 38,
         "avgPlayCount": 1630,
-        "avgUpdateFreq": 472,
+        "avgUpdateFreq": 477,
         "avgCommentCount": 23,
         "avgInteractIndicator": 0.014345035862589657,
         "avgOpenRate": 1.353948377204191,
@@ -3361,6 +4792,43 @@
         ]
       },
       {
+        "id": "d443dad3d0233139edc0533da1b873f4",
+        "rank": 4601,
+        "name": "人生砸家",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7d/aa/af/7daaafb0-a75b-c671-4fc6-eb15ad7711e3/mza_6149406323259288309.jpeg/100x100bb.jpg",
+        "primaryGenreName": "职业",
+        "authorsText": "就是小辉, Molly茉莉, 蘑菇_Tropicool, 刘泡泡_",
+        "trackCount": 4,
+        "lastReleaseDate": "Mon Sep 22 2025 23:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 46.53506228009259,
+        "firstEpisodePostTime": "2025-09-08T07:10:27.000Z",
+        "activeRate": 0,
+        "avgDuration": 55,
+        "avgPlayCount": 1545,
+        "avgUpdateFreq": 364,
+        "avgCommentCount": 20,
+        "avgInteractIndicator": 0.0133764832793959,
+        "avgOpenRate": 1.3093220338983051,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68a897a654955e7138101b76"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E4%BA%BA%E7%94%9F%E7%A0%B8%E5%AE%B6/id1838496944?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.ximalaya.com/album/103286344"
+          },
+          {
+            "name": "rss",
+            "url": "https://www.ximalaya.com/album/103286344.xml"
+          }
+        ]
+      },
+      {
         "id": "1638056476df6dea39388e820bc222f2",
         "rank": 4605,
         "name": "門",
@@ -3369,12 +4837,12 @@
         "authorsText": "ICeymell",
         "trackCount": 10,
         "lastReleaseDate": "Tue Oct 21 2025 03:08:23 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 15.34952042824074,
+        "lastReleaseDateDayCount": 18.362572824074075,
         "firstEpisodePostTime": "2025-02-20T21:48:54.000Z",
         "activeRate": 0,
         "avgDuration": 68,
         "avgPlayCount": 1874,
-        "avgUpdateFreq": 616,
+        "avgUpdateFreq": 624,
         "avgCommentCount": 48,
         "avgInteractIndicator": 0.025723091512565195,
         "avgOpenRate": 1.5913978494623655,
@@ -3405,12 +4873,12 @@
         "authorsText": "雯雯Sivan",
         "trackCount": 8,
         "lastReleaseDate": "Thu Aug 07 2025 23:30:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 89.50117657407408,
+        "lastReleaseDateDayCount": 92.5142289699074,
         "firstEpisodePostTime": "2024-12-16T02:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 40,
         "avgPlayCount": 666,
-        "avgUpdateFreq": 971,
+        "avgUpdateFreq": 980,
         "avgCommentCount": 4,
         "avgInteractIndicator": 0.0066466552315608916,
         "avgOpenRate": 0.5670516717325228,
@@ -3441,12 +4909,12 @@
         "authorsText": "芭莎聊聊吧",
         "trackCount": 10,
         "lastReleaseDate": "Mon Aug 18 2025 02:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 79.39700998842592,
+        "lastReleaseDateDayCount": 82.41006237268519,
         "firstEpisodePostTime": "2025-02-25T01:46:33.187Z",
         "activeRate": 0,
         "avgDuration": 35,
         "avgPlayCount": 1367,
-        "avgUpdateFreq": 606,
+        "avgUpdateFreq": 614,
         "avgCommentCount": 4,
         "avgInteractIndicator": 0.0030066634162197303,
         "avgOpenRate": 1.1858918762648163,
@@ -3470,6 +4938,115 @@
         ]
       },
       {
+        "id": "da6af39a747eba921db35fde0793a8c0",
+        "rank": 4670,
+        "name": "白茶加冰·WTea.Lab",
+        "logoURL": "https://xyzrank.justinbot.com/FlJn_eSI8QFHfxt_RK3Dpi9QuHPu.png@small",
+        "authorsText": "麦兜的收音机",
+        "trackCount": 7,
+        "lastReleaseDate": "Wed Oct 22 2025 13:24:34 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 16.934667372685187,
+        "firstEpisodePostTime": "2025-03-05T06:11:35.348Z",
+        "activeRate": 0,
+        "avgDuration": 55,
+        "avgPlayCount": 654,
+        "avgUpdateFreq": 849,
+        "avgCommentCount": 0,
+        "avgInteractIndicator": 0.0007641365257259297,
+        "avgOpenRate": 0.5729713952130765,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/67c70371250b7a6f2c3f3917"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "id": "63c217fb6c7852d2b8d92873d1c48f86",
+        "rank": 4682,
+        "name": "世界这七天",
+        "logoURL": "https://xyzrank.justinbot.com/FtKhR8iCNU7dgqKGHsQGd8DxFEHu.jpg@small",
+        "authorsText": "Fay_世界这七天",
+        "trackCount": 3,
+        "lastReleaseDate": "Fri Oct 31 2025 19:24:25 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 7.684765694444445,
+        "firstEpisodePostTime": "2025-10-15T11:45:55.055Z",
+        "activeRate": 0,
+        "avgDuration": 15,
+        "avgPlayCount": 164,
+        "avgUpdateFreq": 188,
+        "avgCommentCount": 2,
+        "avgInteractIndicator": 0.012195121951219513,
+        "avgOpenRate": 0.1443661971830986,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/67f6a2563fd23887ec1234b7"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "id": "ecf621fa88b6b01ae5cc473532f5c477",
+        "rank": 4706,
+        "name": "我外有我",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/34/c1/05/34c105d6-0aa4-1a56-c3d4-e5eec671c532/mza_15499757089428543100.jpg/100x100bb.jpg",
+        "primaryGenreName": "社会与文化",
+        "authorsText": "朱豆豆_totto",
+        "trackCount": 9,
+        "lastReleaseDate": "Mon Sep 22 2025 23:30:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 46.51422917824074,
+        "firstEpisodePostTime": "2025-07-13T16:11:48.000Z",
+        "activeRate": 0,
+        "avgDuration": 25,
+        "avgPlayCount": 1196,
+        "avgUpdateFreq": 312,
+        "avgCommentCount": 30,
+        "avgInteractIndicator": 0.02516971279373368,
+        "avgOpenRate": 1.0638888888888889,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6870708491ceb55060bdea47"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E6%88%91%E5%A4%96%E6%9C%89%E6%88%91/id1839705772?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6870708491ceb55060bdea47?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/rjyr3yrrjcaw"
+          }
+        ]
+      },
+      {
         "id": "0417576bfee241677df0e82731d26210",
         "rank": 4715,
         "name": "结构能",
@@ -3477,12 +5054,12 @@
         "authorsText": "继刚",
         "trackCount": 4,
         "lastReleaseDate": "Thu Sep 04 2025 06:49:56 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 62.19566671296296,
+        "lastReleaseDateDayCount": 65.20871908564814,
         "firstEpisodePostTime": "2025-08-10T01:33:28.466Z",
         "activeRate": 0,
         "avgDuration": 57,
         "avgPlayCount": 1393,
-        "avgUpdateFreq": 522,
+        "avgUpdateFreq": 540,
         "avgCommentCount": 17,
         "avgInteractIndicator": 0.012437215977038986,
         "avgOpenRate": 1.244345238095238,
@@ -3506,6 +5083,79 @@
         ]
       },
       {
+        "id": "c0c783f928aba68a85077dabeec01fec",
+        "rank": 4766,
+        "name": "凑活过吧！",
+        "logoURL": "https://xyzrank.justinbot.com/FqJYbhf_7OS7WA4kFS3wYe5jBawF.jpg@small",
+        "authorsText": "橘梨娜和交易子",
+        "trackCount": 5,
+        "lastReleaseDate": "Sun Aug 10 2025 03:37:12 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 90.34255855324074,
+        "firstEpisodePostTime": "2025-04-21T13:57:30.573Z",
+        "activeRate": 0,
+        "avgDuration": 44,
+        "avgPlayCount": 3750,
+        "avgUpdateFreq": 962,
+        "avgCommentCount": 56,
+        "avgInteractIndicator": 0.01513232451169922,
+        "avgOpenRate": 3.418641750227894,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6806995053a4d22c1018c066"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "id": "2d958c2048308b232d4ffd32482e1a2e",
+        "rank": 4888,
+        "name": "摇摆客厅",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ef/41/a6/ef41a61d-8f69-4d80-7d32-8b913004ed5d/mza_11871768472750503316.png/100x100bb.jpg",
+        "primaryGenreName": "休闲",
+        "authorsText": "国色天香的tt, 勤劳致富的旭哥, 祝您发财的晓蒙, 鲜香酥脆的咸鱼",
+        "trackCount": 3,
+        "lastReleaseDate": "Wed Oct 29 2025 12:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 9.99339650462963,
+        "firstEpisodePostTime": "2025-10-15T04:00:00.000Z",
+        "activeRate": 0,
+        "avgDuration": 55,
+        "avgPlayCount": 1093,
+        "avgUpdateFreq": 191,
+        "avgCommentCount": 20,
+        "avgInteractIndicator": 0.018298261665141813,
+        "avgOpenRate": 1.0621963070942662,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68c1156c20e511ef7fa53f10"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E6%91%87%E6%91%86%E5%AE%A2%E5%8E%85/id1847293733?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68c1156c20e511ef7fa53f10?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/mvtgg6e3wwwg"
+          }
+        ]
+      },
+      {
         "id": "25ebbc5b5bcbc64435dff5bcc31aec32",
         "rank": 4899,
         "name": "不谈心理",
@@ -3514,12 +5164,12 @@
         "authorsText": "阿元在摸鱼, 滑洋",
         "trackCount": 13,
         "lastReleaseDate": "Thu Oct 09 2025 01:37:23 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 27.412706759259258,
+        "lastReleaseDateDayCount": 30.42575940972222,
         "firstEpisodePostTime": "2025-01-18T15:17:15.000Z",
         "activeRate": 0,
         "avgDuration": 60,
         "avgPlayCount": 895,
-        "avgUpdateFreq": 535,
+        "avgUpdateFreq": 541,
         "avgCommentCount": 3,
         "avgInteractIndicator": 0.003817149241225212,
         "avgOpenRate": 0.8766731962128631,
@@ -3551,12 +5201,12 @@
         "authorsText": "花发发",
         "trackCount": 7,
         "lastReleaseDate": "Thu Oct 30 2025 13:29:52 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 5.91792568287037,
+        "lastReleaseDateDayCount": 8.930978344907407,
         "firstEpisodePostTime": "2025-02-18T04:26:33.000Z",
         "activeRate": 0,
         "avgDuration": 51,
         "avgPlayCount": 1186,
-        "avgUpdateFreq": 692,
+        "avgUpdateFreq": 700,
         "avgCommentCount": 32,
         "avgInteractIndicator": 0.027192242833052275,
         "avgOpenRate": 1.1848151848151849,
@@ -3588,12 +5238,12 @@
         "authorsText": "Zhuoran_Ana, 智幻时刻FMind",
         "trackCount": 14,
         "lastReleaseDate": "Fri Oct 03 2025 23:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 32.52201063657407,
+        "lastReleaseDateDayCount": 35.53506328703704,
         "firstEpisodePostTime": "2025-03-13T05:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 62,
         "avgPlayCount": 602,
-        "avgUpdateFreq": 406,
+        "avgUpdateFreq": 411,
         "avgCommentCount": 5,
         "avgInteractIndicator": 0.009708737864077669,
         "avgOpenRate": 0.6057885776195635,
@@ -3625,12 +5275,12 @@
         "authorsText": "黄时雨-放映暂停",
         "trackCount": 14,
         "lastReleaseDate": "Sun Oct 26 2025 16:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 9.813677337962963,
+        "lastReleaseDateDayCount": 12.826729965277778,
         "firstEpisodePostTime": "2025-05-18T04:50:29.000Z",
         "activeRate": 0,
         "avgDuration": 46,
         "avgPlayCount": 883,
-        "avgUpdateFreq": 292,
+        "avgUpdateFreq": 297,
         "avgCommentCount": 27,
         "avgInteractIndicator": 0.03081744580830504,
         "avgOpenRate": 0.8934432604806719,
@@ -3661,12 +5311,12 @@
         "authorsText": "項木咄",
         "trackCount": 13,
         "lastReleaseDate": "Mon Aug 25 2025 00:53:24 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 72.44326,
+        "lastReleaseDateDayCount": 75.45631262731482,
         "firstEpisodePostTime": "2025-04-02T17:02:52.310Z",
         "activeRate": 0,
         "avgDuration": 31,
         "avgPlayCount": 1308,
-        "avgUpdateFreq": 399,
+        "avgUpdateFreq": 404,
         "avgCommentCount": 2,
         "avgInteractIndicator": 0.002101107856869986,
         "avgOpenRate": 1.3341828066598707,
@@ -3697,12 +5347,12 @@
         "authorsText": "依诺诺, 行之z",
         "trackCount": 9,
         "lastReleaseDate": "Wed Aug 27 2025 05:39:36 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 70.24450611111111,
+        "lastReleaseDateDayCount": 73.25755873842593,
         "firstEpisodePostTime": "2025-04-17T01:14:53.810Z",
         "activeRate": 0,
         "avgDuration": 36,
         "avgPlayCount": 1741,
-        "avgUpdateFreq": 538,
+        "avgUpdateFreq": 546,
         "avgCommentCount": 13,
         "avgInteractIndicator": 0.007897759908098793,
         "avgOpenRate": 1.8268625393494227,
@@ -3734,12 +5384,12 @@
         "authorsText": "寿司August",
         "trackCount": 13,
         "lastReleaseDate": "Wed Oct 29 2025 09:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 7.1053441435185185,
+        "lastReleaseDateDayCount": 10.118396770833334,
         "firstEpisodePostTime": "2025-04-11T01:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 85,
         "avgPlayCount": 704,
-        "avgUpdateFreq": 384,
+        "avgUpdateFreq": 389,
         "avgCommentCount": 20,
         "avgInteractIndicator": 0.028388928317955996,
         "avgOpenRate": 0.746292372881356,
@@ -3771,12 +5421,12 @@
         "authorsText": "Gato_小罗",
         "trackCount": 5,
         "lastReleaseDate": "Sat Nov 01 2025 20:30:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 3.626177511574074,
+        "lastReleaseDateDayCount": 6.639230150462963,
         "firstEpisodePostTime": "2025-06-03T06:42:40.000Z",
         "activeRate": 0,
         "avgDuration": 56,
         "avgPlayCount": 1740,
-        "avgUpdateFreq": 743,
+        "avgUpdateFreq": 757,
         "avgCommentCount": 43,
         "avgInteractIndicator": 0.025136455041654696,
         "avgOpenRate": 1.8694951664876478,
@@ -3800,6 +5450,79 @@
         ]
       },
       {
+        "id": "36c85274234c524101add5130d51859d",
+        "rank": 5047,
+        "name": "里普大点声儿",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f9/4d/0b/f94d0b16-e110-975d-a4e4-d1d745ee6213/mza_10778944797967388877.jpg/100x100bb.jpg",
+        "primaryGenreName": "休闲",
+        "authorsText": "里普里普",
+        "trackCount": 4,
+        "lastReleaseDate": "Sat Oct 11 2025 14:27:03 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 27.891268032407407,
+        "firstEpisodePostTime": "2025-06-02T09:13:20.000Z",
+        "activeRate": 0,
+        "avgDuration": 23,
+        "avgPlayCount": 1666,
+        "avgUpdateFreq": 952,
+        "avgCommentCount": 46,
+        "avgInteractIndicator": 0.027611044417767107,
+        "avgOpenRate": 1.7991360691144707,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/683dc7e18e0040930f9029ea"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E9%87%8C%E6%99%AE%E5%A4%A7%E7%82%B9%E5%A3%B0%E5%84%BF/id1845770684?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/683dc7e18e0040930f9029ea?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/k66c8pdcn6nv"
+          }
+        ]
+      },
+      {
+        "id": "1128779990ff39b1f1ffc09391dce66b",
+        "rank": 5057,
+        "name": "纸牌屋POKERFACE",
+        "logoURL": "https://xyzrank.justinbot.com/Fp9yjj-lwBL5Q1uqWZdXZ-ftv6tu.jpg@small",
+        "authorsText": "纸牌屋POKERFACE, 钰妞儿-YU",
+        "trackCount": 6,
+        "lastReleaseDate": "Tue Oct 21 2025 11:57:16 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 17.995293877314815,
+        "firstEpisodePostTime": "2025-09-15T23:39:09.143Z",
+        "activeRate": 0,
+        "avgDuration": 63,
+        "avgPlayCount": 4549,
+        "avgUpdateFreq": 212,
+        "avgCommentCount": 29,
+        "avgInteractIndicator": 0.0063747472083003605,
+        "avgOpenRate": 4.934056399132321,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68c8ecb324f027453a0a2f58"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
         "id": "dfbed18072bda3b6de12b8e9a1deb3c1",
         "rank": 5058,
         "name": "KKJC",
@@ -3808,12 +5531,12 @@
         "authorsText": "KK孔祥池, 汪佳辰",
         "trackCount": 10,
         "lastReleaseDate": "Fri Oct 03 2025 08:10:59 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 33.139372511574074,
+        "lastReleaseDateDayCount": 36.15242515046296,
         "firstEpisodePostTime": "2025-05-31T03:02:01.000Z",
         "activeRate": 0,
         "avgDuration": 38,
         "avgPlayCount": 1430,
-        "avgUpdateFreq": 378,
+        "avgUpdateFreq": 386,
         "avgCommentCount": 100,
         "avgInteractIndicator": 0.07045754680338694,
         "avgOpenRate": 1.5530220774520447,
@@ -3837,6 +5560,42 @@
         ]
       },
       {
+        "id": "f0c4fbe8131d60a83a9570fe9564d8e6",
+        "rank": 5059,
+        "name": "跨洋电话",
+        "logoURL": "https://xyzrank.justinbot.com/luyN-0Us40TYuWUkp-XQEFk15VLm.jpg@small",
+        "authorsText": "Nicolecccom, Ryoko肉可",
+        "trackCount": 10,
+        "lastReleaseDate": "Sat Oct 11 2025 23:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 27.53506351851852,
+        "firstEpisodePostTime": "2025-07-06T15:00:00.000Z",
+        "activeRate": 0,
+        "avgDuration": 36,
+        "avgPlayCount": 441,
+        "avgUpdateFreq": 298,
+        "avgCommentCount": 2,
+        "avgInteractIndicator": 0.005033979360684621,
+        "avgOpenRate": 0.47930992882132956,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6868e3618ccf0ce61062f7d5"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
         "id": "31a9e584cfcf5a00133bbbcaf9fe9b0b",
         "rank": 5061,
         "name": "世界漫漫游",
@@ -3845,12 +5604,12 @@
         "authorsText": "Lin酱环球旅居中",
         "trackCount": 12,
         "lastReleaseDate": "Thu Aug 28 2025 23:31:13 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 68.50032871527777,
+        "lastReleaseDateDayCount": 71.5133813425926,
         "firstEpisodePostTime": "2025-02-03T03:06:43.000Z",
         "activeRate": 0,
         "avgDuration": 46,
         "avgPlayCount": 978,
-        "avgUpdateFreq": 549,
+        "avgUpdateFreq": 555,
         "avgCommentCount": 21,
         "avgInteractIndicator": 0.021454444134856508,
         "avgOpenRate": 1.0639328063241107,
@@ -3882,12 +5641,12 @@
         "authorsText": "波波_BoBo, Luna__",
         "trackCount": 11,
         "lastReleaseDate": "Mon Oct 27 2025 08:27:49 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 9.127684722222222,
+        "lastReleaseDateDayCount": 12.140737349537037,
         "firstEpisodePostTime": "2025-02-09T03:32:15.000Z",
         "activeRate": 0,
         "avgDuration": 64,
         "avgPlayCount": 2077,
-        "avgUpdateFreq": 586,
+        "avgUpdateFreq": 593,
         "avgCommentCount": 23,
         "avgInteractIndicator": 0.011458283183284387,
         "avgOpenRate": 2.2577173913043476,
@@ -3919,12 +5678,12 @@
         "authorsText": "Skylerlian, Sharkornot",
         "trackCount": 13,
         "lastReleaseDate": "Thu Oct 30 2025 09:42:01 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 6.076163993055555,
+        "lastReleaseDateDayCount": 9.089216643518519,
         "firstEpisodePostTime": "2025-06-12T17:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 55,
         "avgPlayCount": 1369,
-        "avgUpdateFreq": 268,
+        "avgUpdateFreq": 273,
         "avgCommentCount": 18,
         "avgInteractIndicator": 0.01381366762003286,
         "avgOpenRate": 1.4982676878191103,
@@ -3956,12 +5715,12 @@
         "authorsText": "StefanieF, SidX",
         "trackCount": 14,
         "lastReleaseDate": "Sun Oct 26 2025 23:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 9.522010983796296,
+        "lastReleaseDateDayCount": 12.53506363425926,
         "firstEpisodePostTime": "2025-05-11T15:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 55,
         "avgPlayCount": 460,
-        "avgUpdateFreq": 304,
+        "avgUpdateFreq": 309,
         "avgCommentCount": 7,
         "avgInteractIndicator": 0.01552846885957589,
         "avgOpenRate": 0.5118803418803419,
@@ -3992,12 +5751,12 @@
         "authorsText": "饿了的柚子, 起超",
         "trackCount": 11,
         "lastReleaseDate": "Mon Oct 27 2025 10:20:37 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 9.049355081018518,
+        "lastReleaseDateDayCount": 12.062407696759259,
         "firstEpisodePostTime": "2025-03-19T05:44:53.568Z",
         "activeRate": 0,
         "avgDuration": 96,
         "avgPlayCount": 2093,
-        "avgUpdateFreq": 503,
+        "avgUpdateFreq": 509,
         "avgCommentCount": 97,
         "avgInteractIndicator": 0.04637944210928544,
         "avgOpenRate": 2.4717827626918534,
@@ -4028,12 +5787,12 @@
         "authorsText": "李璞工作室",
         "trackCount": 7,
         "lastReleaseDate": "Tue Oct 21 2025 09:42:22 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 15.075918043981481,
+        "lastReleaseDateDayCount": 18.088970671296295,
         "firstEpisodePostTime": "2024-12-16T23:55:07.716Z",
         "activeRate": 0,
         "avgDuration": 85,
         "avgPlayCount": 706,
-        "avgUpdateFreq": 1107,
+        "avgUpdateFreq": 1117,
         "avgCommentCount": 2,
         "avgInteractIndicator": 0.003067484662576687,
         "avgOpenRate": 0.8349093774625689,
@@ -4064,12 +5823,12 @@
         "authorsText": "阿容0323",
         "trackCount": 14,
         "lastReleaseDate": "Thu Sep 04 2025 16:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 61.81367795138889,
+        "lastReleaseDateDayCount": 64.8267305787037,
         "firstEpisodePostTime": "2024-11-14T14:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 74,
         "avgPlayCount": 506,
-        "avgUpdateFreq": 609,
+        "avgUpdateFreq": 614,
         "avgCommentCount": 6,
         "avgInteractIndicator": 0.012596752162695402,
         "avgOpenRate": 0.601240989141345,
@@ -4101,12 +5860,12 @@
         "authorsText": "Evoia, 一千岛",
         "trackCount": 8,
         "lastReleaseDate": "Tue Oct 14 2025 18:28:34 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 21.71049988425926,
+        "lastReleaseDateDayCount": 24.723552511574074,
         "firstEpisodePostTime": "2025-07-04T23:21:14.000Z",
         "activeRate": 0,
         "avgDuration": 57,
         "avgPlayCount": 3209,
-        "avgUpdateFreq": 369,
+        "avgUpdateFreq": 378,
         "avgCommentCount": 45,
         "avgInteractIndicator": 0.014110839083018028,
         "avgOpenRate": 3.8994966151709773,
@@ -4138,12 +5897,12 @@
         "authorsText": "胖蚊子, 温哥华的一块红布",
         "trackCount": 13,
         "lastReleaseDate": "Tue Oct 07 2025 00:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 29.480344710648147,
+        "lastReleaseDateDayCount": 32.49339733796296,
         "firstEpisodePostTime": "2025-06-24T14:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 74,
         "avgPlayCount": 609,
-        "avgUpdateFreq": 246,
+        "avgUpdateFreq": 251,
         "avgCommentCount": 8,
         "avgInteractIndicator": 0.014629477713973202,
         "avgOpenRate": 0.7442002442002442,
@@ -4174,12 +5933,12 @@
         "authorsText": "whale52_2Njr, 巫沧",
         "trackCount": 12,
         "lastReleaseDate": "Sun Oct 12 2025 05:48:56 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 24.238019479166667,
+        "lastReleaseDateDayCount": 27.25107210648148,
         "firstEpisodePostTime": "2025-05-24T21:05:31.998Z",
         "activeRate": 0,
         "avgDuration": 46,
         "avgPlayCount": 629,
-        "avgUpdateFreq": 328,
+        "avgUpdateFreq": 334,
         "avgCommentCount": 3,
         "avgInteractIndicator": 0.005056342097659636,
         "avgOpenRate": 0.7778402067648051,
@@ -4210,12 +5969,12 @@
         "authorsText": "yanyan_YN4I",
         "trackCount": 8,
         "lastReleaseDate": "Sat Oct 18 2025 17:02:32 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 17.770242418981482,
+        "lastReleaseDateDayCount": 20.783295046296296,
         "firstEpisodePostTime": "2024-12-16T03:07:42.967Z",
         "activeRate": 0,
         "avgDuration": 69,
         "avgPlayCount": 480,
-        "avgUpdateFreq": 971,
+        "avgUpdateFreq": 980,
         "avgCommentCount": 3,
         "avgInteractIndicator": 0.008028545941123996,
         "avgOpenRate": 0.6043126684636119,
@@ -4247,12 +6006,12 @@
         "authorsText": "Female难得清醒",
         "trackCount": 12,
         "lastReleaseDate": "Mon Aug 04 2025 11:47:51 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 92.98877982638889,
+        "lastReleaseDateDayCount": 96.0018324537037,
         "firstEpisodePostTime": "2025-05-30T22:08:22.000Z",
         "activeRate": 0,
         "avgDuration": 83,
         "avgPlayCount": 751,
-        "avgUpdateFreq": 315,
+        "avgUpdateFreq": 322,
         "avgCommentCount": 5,
         "avgInteractIndicator": 0.007018393030009681,
         "avgOpenRate": 0.9473804883640949,
@@ -4276,6 +6035,43 @@
         ]
       },
       {
+        "id": "aecf7c526a5cfdce3de14fb9616c83fb",
+        "rank": 5366,
+        "name": "法与岩",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/23/8a/52/238a5217-fdf5-8677-cd82-b25c58c89163/mza_7661145996028312210.jpg/100x100bb.jpg",
+        "primaryGenreName": "休闲",
+        "authorsText": "JeffreyKing",
+        "trackCount": 7,
+        "lastReleaseDate": "Mon Oct 20 2025 22:43:06 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 18.546790555555557,
+        "firstEpisodePostTime": "2025-07-19T20:02:11.000Z",
+        "activeRate": 0,
+        "avgDuration": 77,
+        "avgPlayCount": 608,
+        "avgUpdateFreq": 381,
+        "avgCommentCount": 9,
+        "avgInteractIndicator": 0.015068493150684932,
+        "avgOpenRate": 0.7719966159052453,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/67eb7e450a70cc10c1bbc32f"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E6%B3%95%E4%B8%8E%E5%B2%A9/id1832867607?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/67eb7e450a70cc10c1bbc32f?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/8a4c8y6gh7yy"
+          }
+        ]
+      },
+      {
         "id": "6a467d1779377e943f1f1edab5adff2b",
         "rank": 5434,
         "name": "C语言",
@@ -4284,12 +6080,12 @@
         "authorsText": "擦擦, 不是小猪手",
         "trackCount": 7,
         "lastReleaseDate": "Fri Sep 19 2025 08:26:23 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 47.12868835648148,
+        "lastReleaseDateDayCount": 50.14174099537037,
         "firstEpisodePostTime": "2024-11-13T19:51:42.000Z",
         "activeRate": 0,
         "avgDuration": 83,
         "avgPlayCount": 3695,
-        "avgUpdateFreq": 1221,
+        "avgUpdateFreq": 1231,
         "avgCommentCount": 60,
         "avgInteractIndicator": 0.01637052403716064,
         "avgOpenRate": 4.824630113141862,
@@ -4313,6 +6109,42 @@
         ]
       },
       {
+        "id": "b9f2c45539171e31659a81809276ffe5",
+        "rank": 5438,
+        "name": "深度思考 | 兔主席播课【第一季】",
+        "logoURL": "https://xyzrank.justinbot.com/FhqVz0En75BCfTevjcWbWFi9lJJk.jpg@small",
+        "authorsText": "兔主席, 徐老师_深度思考",
+        "trackCount": 8,
+        "lastReleaseDate": "Thu Oct 30 2025 12:59:48 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 8.951858831018518,
+        "firstEpisodePostTime": "2025-10-10T06:05:42.912Z",
+        "activeRate": 0,
+        "avgDuration": 14,
+        "avgPlayCount": 4086,
+        "avgUpdateFreq": 86,
+        "avgCommentCount": 19,
+        "avgInteractIndicator": 0.004649536794266737,
+        "avgOpenRate": 5.341736694677871,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68e87abe3a31f49a1ceee7d1"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
         "id": "5be96bee6a33f4957a77fff3e1ebf37f",
         "rank": 5457,
         "name": "科技棱镜",
@@ -4320,12 +6152,12 @@
         "authorsText": "AlexPapi, Zenith_xy, Claudiooo",
         "trackCount": 10,
         "lastReleaseDate": "Tue Sep 16 2025 03:58:56 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 50.31441513888889,
+        "lastReleaseDateDayCount": 53.32746777777778,
         "firstEpisodePostTime": "2025-05-22T03:23:35.146Z",
         "activeRate": 0,
         "avgDuration": 37,
         "avgPlayCount": 996,
-        "avgUpdateFreq": 400,
+        "avgUpdateFreq": 407,
         "avgCommentCount": 30,
         "avgInteractIndicator": 0.030566711289602855,
         "avgOpenRate": 1.3139841688654352,
@@ -4357,12 +6189,12 @@
         "authorsText": "利利噗_大梨, 小小花同学, yawn_1",
         "trackCount": 13,
         "lastReleaseDate": "Fri Sep 19 2025 16:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 46.813678414351855,
+        "lastReleaseDateDayCount": 49.82673105324074,
         "firstEpisodePostTime": "2025-05-07T20:26:19.000Z",
         "activeRate": 0,
         "avgDuration": 67,
         "avgPlayCount": 608,
-        "avgUpdateFreq": 334,
+        "avgUpdateFreq": 339,
         "avgCommentCount": 14,
         "avgInteractIndicator": 0.023431077007399288,
         "avgOpenRate": 0.8141454707719769,
@@ -4386,6 +6218,42 @@
         ]
       },
       {
+        "id": "0a8725070931b4941c076397ec37ae63",
+        "rank": 5490,
+        "name": "青春诊所",
+        "logoURL": "https://xyzrank.justinbot.com/Fsol07ZiTfQMFI8CtgdyymZ9xVMC.jpg@small",
+        "authorsText": "新氧金星",
+        "trackCount": 4,
+        "lastReleaseDate": "Wed Oct 29 2025 12:51:48 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 9.95741707175926,
+        "firstEpisodePostTime": "2025-05-28T15:00:00.000Z",
+        "activeRate": 0,
+        "avgDuration": 65,
+        "avgPlayCount": 4607,
+        "avgUpdateFreq": 980,
+        "avgCommentCount": 42,
+        "avgInteractIndicator": 0.009261269083279068,
+        "avgOpenRate": 6.183892617449665,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/67ed01e46156b74e3d9584a2"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
         "id": "826a2d291dfabb23b221b4b9012f0e27",
         "rank": 5521,
         "name": "万物可赞",
@@ -4393,12 +6261,12 @@
         "authorsText": "晓禾老师的禾电站",
         "trackCount": 8,
         "lastReleaseDate": "Sun Oct 05 2025 14:30:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 30.87617849537037,
+        "lastReleaseDateDayCount": 33.88923112268518,
         "firstEpisodePostTime": "2025-04-03T19:21:49.158Z",
         "activeRate": 0,
         "avgDuration": 38,
         "avgPlayCount": 1159,
-        "avgUpdateFreq": 645,
+        "avgUpdateFreq": 654,
         "avgCommentCount": 9,
         "avgInteractIndicator": 0.007765314926660914,
         "avgOpenRate": 1.5811732605729876,
@@ -4422,6 +6290,79 @@
         ]
       },
       {
+        "id": "b8a149964df8678d702cbefd72723401",
+        "rank": 5523,
+        "name": "苔藓花园",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/a7/8f/31a78f32-c116-06b3-4d02-950e03081c1e/mza_5110694598346374134.jpg/100x100bb.jpg",
+        "primaryGenreName": "历史",
+        "authorsText": "王韦华, 春秋Daiversity",
+        "trackCount": 3,
+        "lastReleaseDate": "Tue Oct 07 2025 12:56:03 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 31.954463275462963,
+        "firstEpisodePostTime": "2025-05-04T18:30:23.000Z",
+        "activeRate": 0,
+        "avgDuration": 275,
+        "avgPlayCount": 1630,
+        "avgUpdateFreq": 1498,
+        "avgCommentCount": 37,
+        "avgInteractIndicator": 0.023006134969325152,
+        "avgOpenRate": 2.2267759562841527,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/67fbec6c8534ee104a56235a"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E8%8B%94%E8%97%93%E8%8A%B1%E5%9B%AD/id1819339707?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/67fbec6c8534ee104a56235a?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/93rf6bfbgxud"
+          }
+        ]
+      },
+      {
+        "id": "35f0a9fcae5fa85a7dc83f62ccc5e71d",
+        "rank": 5532,
+        "name": "【英文播客】Say Something",
+        "logoURL": "https://xyzrank.justinbot.com/Fvln44isybXVMSg5Jvs23Gr2dOMM.jpg@small",
+        "authorsText": "你的雅思同桌",
+        "trackCount": 5,
+        "lastReleaseDate": "Sat Oct 25 2025 11:13:32 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 14.025655613425926,
+        "firstEpisodePostTime": "2025-05-26T00:11:22.388Z",
+        "activeRate": 0,
+        "avgDuration": 2,
+        "avgPlayCount": 344,
+        "avgUpdateFreq": 797,
+        "avgCommentCount": 0,
+        "avgInteractIndicator": 0,
+        "avgOpenRate": 0.47321428571428575,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6834200890f3aaf321236ba8"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
         "id": "e1c8bcde0dcffcb83d28a1df049f55a6",
         "rank": 5544,
         "name": "Silk Road Journey",
@@ -4429,12 +6370,12 @@
         "authorsText": "驼铃考古队",
         "trackCount": 14,
         "lastReleaseDate": "Thu Oct 30 2025 04:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 6.3136785416666665,
+        "lastReleaseDateDayCount": 9.326731168981482,
         "firstEpisodePostTime": "2025-04-25T03:02:49.571Z",
         "activeRate": 0,
         "avgDuration": 8,
         "avgPlayCount": 265,
-        "avgUpdateFreq": 332,
+        "avgUpdateFreq": 337,
         "avgCommentCount": 7,
         "avgInteractIndicator": 0.029539530842745437,
         "avgOpenRate": 0.3663660477453581,
@@ -4466,12 +6407,12 @@
         "authorsText": "April王四月",
         "trackCount": 10,
         "lastReleaseDate": "Mon Sep 29 2025 22:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 36.56367863425926,
+        "lastReleaseDateDayCount": 39.576731261574075,
         "firstEpisodePostTime": "2025-07-05T09:56:34.000Z",
         "activeRate": 0,
         "avgDuration": 45,
         "avgPlayCount": 1135,
-        "avgUpdateFreq": 267,
+        "avgUpdateFreq": 273,
         "avgCommentCount": 18,
         "avgInteractIndicator": 0.016377564497666638,
         "avgOpenRate": 1.5973277074542898,
@@ -4495,6 +6436,114 @@
         ]
       },
       {
+        "id": "0d97d9b24bc08270d6df972f394c6336",
+        "rank": 5597,
+        "name": "东方之声",
+        "logoURL": "https://xyzrank.justinbot.com/FoTu3a7LJPNHpT71eKJpSH0SV2wA.png@small",
+        "authorsText": "",
+        "trackCount": 4,
+        "lastReleaseDate": "Tue Oct 21 2025 23:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 17.535064594907407,
+        "firstEpisodePostTime": "2025-09-04T07:55:17.245Z",
+        "activeRate": 0,
+        "avgDuration": 57,
+        "avgPlayCount": 3628,
+        "avgUpdateFreq": 388,
+        "avgCommentCount": 112,
+        "avgInteractIndicator": 0.030962881293642042,
+        "avgOpenRate": 5.109859154929578,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68a73b0c12396b3a719f3fa4"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "id": "0ad49ce4d37a754c436b60ad65b26dbf",
+        "rank": 5670,
+        "name": "奥里卡豆还在播",
+        "logoURL": "https://xyzrank.justinbot.com/Fo3SR3ZRsMwoeMbwXU9NsEm-Ql-j.jpg@small",
+        "authorsText": "奥里卡豆",
+        "trackCount": 3,
+        "lastReleaseDate": "Sat Aug 16 2025 04:45:54 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 84.29484715277778,
+        "firstEpisodePostTime": "2025-03-24T04:07:00.455Z",
+        "activeRate": 0,
+        "avgDuration": 46,
+        "avgPlayCount": 1127,
+        "avgUpdateFreq": 1831,
+        "avgCommentCount": 85,
+        "avgInteractIndicator": 0.07542147293700088,
+        "avgOpenRate": 1.6333333333333333,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/67e13e9b6c9751401a77e196"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "id": "63cb7ffe10b44cff101d9b478368462c",
+        "rank": 5703,
+        "name": "认知觉醒读书笔记",
+        "logoURL": "https://xyzrank.justinbot.com/FjYdKZWPqRtdhbo-7lvOnj46lvrT.jpg@small",
+        "authorsText": "三卡",
+        "trackCount": 7,
+        "lastReleaseDate": "Mon Aug 25 2025 16:40:47 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 74.7984050462963,
+        "firstEpisodePostTime": "2025-05-14T10:25:04.496Z",
+        "activeRate": 0,
+        "avgDuration": 10,
+        "avgPlayCount": 670,
+        "avgUpdateFreq": 609,
+        "avgCommentCount": 0,
+        "avgInteractIndicator": 0.0009942828734775043,
+        "avgOpenRate": 0.9860294117647058,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6824c500137a629097a2e595"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
         "id": "50a297f093b4a33fb47b45aedf7f958f",
         "rank": 5711,
         "name": "非著名毕业生",
@@ -4503,12 +6552,12 @@
         "authorsText": "苏闲闲",
         "trackCount": 3,
         "lastReleaseDate": "Fri Aug 29 2025 02:35:24 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 68.37242101851852,
+        "lastReleaseDateDayCount": 71.38547364583333,
         "firstEpisodePostTime": "2025-03-08T04:01:31.000Z",
         "activeRate": 0,
         "avgDuration": 57,
         "avgPlayCount": 527,
-        "avgUpdateFreq": 386,
+        "avgUpdateFreq": 391,
         "avgCommentCount": 23,
         "avgInteractIndicator": 0.04403794037940379,
         "avgOpenRate": 0.7786452838151507,
@@ -4532,6 +6581,42 @@
         ]
       },
       {
+        "id": "18d33c7efed05ac8f2f11cba1a804587",
+        "rank": 5718,
+        "name": "无限向上↑",
+        "logoURL": "https://xyzrank.justinbot.com/FsUEWQaIz-WO7e5-vP6c1UTDlLA_.png@small",
+        "authorsText": "在下无限",
+        "trackCount": 13,
+        "lastReleaseDate": "Sun Sep 21 2025 01:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 48.45173152777778,
+        "firstEpisodePostTime": "2025-07-26T08:00:00.000Z",
+        "activeRate": 0,
+        "avgDuration": 39,
+        "avgPlayCount": 558,
+        "avgUpdateFreq": 193,
+        "avgCommentCount": 23,
+        "avgInteractIndicator": 0.041772340742950914,
+        "avgOpenRate": 0.8275308641975309,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6880ee4f67104213b5819f66"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
         "id": "eb6c0544774dcdd4817e86946d58d980",
         "rank": 5744,
         "name": "裂缝里的光",
@@ -4540,12 +6625,12 @@
         "authorsText": "ColaZhao, FeiFeiiii",
         "trackCount": 14,
         "lastReleaseDate": "Sat Aug 30 2025 11:09:14 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 67.01558944444444,
+        "lastReleaseDateDayCount": 70.02864201388888,
         "firstEpisodePostTime": "2025-05-19T08:37:45.000Z",
         "activeRate": 0,
         "avgDuration": 58,
         "avgPlayCount": 540,
-        "avgUpdateFreq": 290,
+        "avgUpdateFreq": 295,
         "avgCommentCount": 2,
         "avgInteractIndicator": 0.004125764689144971,
         "avgOpenRate": 0.811850311850312,
@@ -4576,12 +6661,12 @@
         "authorsText": "木一01, Zero酱-",
         "trackCount": 14,
         "lastReleaseDate": "Sat Nov 01 2025 16:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 3.8136790162037038,
+        "lastReleaseDateDayCount": 6.826731585648148,
         "firstEpisodePostTime": "2025-03-23T01:46:25.879Z",
         "activeRate": 0,
         "avgDuration": 52,
         "avgPlayCount": 320,
-        "avgUpdateFreq": 388,
+        "avgUpdateFreq": 393,
         "avgCommentCount": 1,
         "avgInteractIndicator": 0.0031167585710860706,
         "avgOpenRate": 0.48247541931752447,
@@ -4613,12 +6698,12 @@
         "authorsText": "神奇冰开水, 灯塔山顶, 三好青年_pstorm, 超级杂交水稻, 江流z, Timple爱看爱肤宜, Kai_ser, 7kB0nc, 不吃番茄的刺猬, 矮冷凯瑟琳",
         "trackCount": 10,
         "lastReleaseDate": "Sat Oct 25 2025 09:54:54 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 11.06721324074074,
+        "lastReleaseDateDayCount": 14.080265763888889,
         "firstEpisodePostTime": "2025-05-06T02:31:01.000Z",
         "activeRate": 0,
         "avgDuration": 65,
         "avgPlayCount": 297,
-        "avgUpdateFreq": 438,
+        "avgUpdateFreq": 446,
         "avgCommentCount": 10,
         "avgInteractIndicator": 0.034328358208955224,
         "avgOpenRate": 0.4539295392953929,
@@ -4650,12 +6735,12 @@
         "authorsText": "一碗安娜, 一个辉, 一只Ziki, 一群QQ",
         "trackCount": 14,
         "lastReleaseDate": "Thu Sep 25 2025 23:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 40.52201247685185,
+        "lastReleaseDateDayCount": 43.535065,
         "firstEpisodePostTime": "2025-01-13T16:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 47,
         "avgPlayCount": 601,
-        "avgUpdateFreq": 506,
+        "avgUpdateFreq": 511,
         "avgCommentCount": 13,
         "avgInteractIndicator": 0.02289002557544757,
         "avgOpenRate": 0.9240222143447947,
@@ -4686,12 +6771,12 @@
         "authorsText": "犀利财经",
         "trackCount": 14,
         "lastReleaseDate": "Wed Aug 20 2025 07:02:08 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 77.18719769675926,
+        "lastReleaseDateDayCount": 80.20025018518518,
         "firstEpisodePostTime": "2024-11-19T07:15:11.177Z",
         "activeRate": 0,
         "avgDuration": 76,
         "avgPlayCount": 673,
-        "avgUpdateFreq": 600,
+        "avgUpdateFreq": 606,
         "avgCommentCount": 10,
         "avgInteractIndicator": 0.01496458761708933,
         "avgOpenRate": 1.0423910454870207,
@@ -4723,12 +6808,12 @@
         "authorsText": "恋恋能量站主播",
         "trackCount": 14,
         "lastReleaseDate": "Thu Oct 16 2025 10:35:44 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 20.038861157407407,
+        "lastReleaseDateDayCount": 23.051913645833334,
         "firstEpisodePostTime": "2025-06-10T05:49:33.000Z",
         "activeRate": 0,
         "avgDuration": 20,
         "avgPlayCount": 772,
-        "avgUpdateFreq": 253,
+        "avgUpdateFreq": 258,
         "avgCommentCount": 4,
         "avgInteractIndicator": 0.006076302420559817,
         "avgOpenRate": 1.1954036675398905,
@@ -4759,12 +6844,12 @@
         "authorsText": "康复杂志",
         "trackCount": 11,
         "lastReleaseDate": "Thu Oct 02 2025 00:30:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 34.459512581018515,
+        "lastReleaseDateDayCount": 37.472565081018516,
         "firstEpisodePostTime": "2025-05-07T16:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 56,
         "avgPlayCount": 420,
-        "avgUpdateFreq": 395,
+        "avgUpdateFreq": 402,
         "avgCommentCount": 2,
         "avgInteractIndicator": 0.005949547834364588,
         "avgOpenRate": 0.6565624999999999,
@@ -4772,6 +6857,42 @@
           {
             "name": "xyz",
             "url": "https://www.xiaoyuzhoufm.com/podcast/67ff3ca68593740138f28a7d"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "id": "ab0c1391ce802b716ffba06f3299ec8e",
+        "rank": 5833,
+        "name": "比较世界",
+        "logoURL": "https://xyzrank.justinbot.com/FtXdbPES75oNTiZ_LCQHyhOpmthT.png@small",
+        "authorsText": "观察者2号, 观察者1号",
+        "trackCount": 8,
+        "lastReleaseDate": "Sat Sep 20 2025 02:07:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 49.40519320601852,
+        "firstEpisodePostTime": "2025-08-09T02:27:24.784Z",
+        "activeRate": 0,
+        "avgDuration": 43,
+        "avgPlayCount": 870,
+        "avgUpdateFreq": 272,
+        "avgCommentCount": 16,
+        "avgInteractIndicator": 0.018378733180177225,
+        "avgOpenRate": 1.3623966018332214,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/6892ff090f2f3ddb3ff37c31"
           },
           {
             "name": "apple",
@@ -4796,12 +6917,12 @@
         "authorsText": "野生桑树, 酸辣椒",
         "trackCount": 13,
         "lastReleaseDate": "Fri Oct 24 2025 14:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 11.897012638888889,
+        "lastReleaseDateDayCount": 14.91006513888889,
         "firstEpisodePostTime": "2025-05-08T04:42:54.000Z",
         "activeRate": 0,
         "avgDuration": 44,
         "avgPlayCount": 386,
-        "avgUpdateFreq": 333,
+        "avgUpdateFreq": 339,
         "avgCommentCount": 2,
         "avgInteractIndicator": 0.00689506571859513,
         "avgOpenRate": 0.6109794628751976,
@@ -4833,12 +6954,12 @@
         "authorsText": "wolfie狼姐",
         "trackCount": 10,
         "lastReleaseDate": "Tue Oct 21 2025 00:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 15.480346030092592,
+        "lastReleaseDateDayCount": 18.493398518518518,
         "firstEpisodePostTime": "2025-07-31T16:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 33,
         "avgPlayCount": 384,
-        "avgUpdateFreq": 231,
+        "avgUpdateFreq": 238,
         "avgCommentCount": 14,
         "avgInteractIndicator": 0.03759398496240601,
         "avgOpenRate": 0.6137735179268726,
@@ -4869,12 +6990,12 @@
         "authorsText": "超级米",
         "trackCount": 11,
         "lastReleaseDate": "Sat Aug 30 2025 13:54:52 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 66.9005725925926,
+        "lastReleaseDateDayCount": 69.91362508101852,
         "firstEpisodePostTime": "2025-03-16T02:36:04.084Z",
         "activeRate": 0,
         "avgDuration": 28,
         "avgPlayCount": 1052,
-        "avgUpdateFreq": 510,
+        "avgUpdateFreq": 516,
         "avgCommentCount": 5,
         "avgInteractIndicator": 0.005511736196902024,
         "avgOpenRate": 1.68368,
@@ -4898,6 +7019,78 @@
         ]
       },
       {
+        "id": "fee36e7cc9084fe12ece795b8a68decd",
+        "rank": 5919,
+        "name": "宁说无妨",
+        "logoURL": "https://xyzrank.justinbot.com/FmSZyayrYnF9-rpqe7CMu2vOaQZl.jpg@small",
+        "authorsText": "教育填坑唐老师",
+        "trackCount": 9,
+        "lastReleaseDate": "Thu Oct 23 2025 00:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 16.493398576388888,
+        "firstEpisodePostTime": "2025-10-02T16:00:00.000Z",
+        "activeRate": 0,
+        "avgDuration": 66,
+        "avgPlayCount": 414,
+        "avgUpdateFreq": 97,
+        "avgCommentCount": 2,
+        "avgInteractIndicator": 0.005434782608695652,
+        "avgOpenRate": 0.6709886547811993,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68d633e3a56557bc28867f1c"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "id": "b7da09a001d363be9f08c2101f12d9ae",
+        "rank": 5935,
+        "name": "夸下海口",
+        "logoURL": "https://xyzrank.justinbot.com/FrURahOlxiIuAIvkZ0DJb33OkU47.jpg@small",
+        "authorsText": "孟岩",
+        "trackCount": 1,
+        "lastReleaseDate": "Fri Sep 26 2025 10:25:43 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 43.05886234953704,
+        "firstEpisodePostTime": "2025-09-26T02:25:43.933Z",
+        "activeRate": 0,
+        "avgDuration": 51,
+        "avgPlayCount": 521,
+        "avgUpdateFreq": 1033,
+        "avgCommentCount": 117,
+        "avgInteractIndicator": 0.22456813819577734,
+        "avgOpenRate": 0.8485342019543974,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68ca3afc0d9d2bb05004d51c"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
         "id": "5e39265ebb6514e1a03d83acec46b3d5",
         "rank": 6016,
         "name": "三板斧",
@@ -4905,12 +7098,12 @@
         "authorsText": "Maggie马主任, Casey萝卜绽放, 野生香农",
         "trackCount": 13,
         "lastReleaseDate": "Sat Oct 25 2025 15:14:07 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 10.845532569444444,
+        "lastReleaseDateDayCount": 13.85858505787037,
         "firstEpisodePostTime": "2025-01-12T16:52:53.680Z",
         "activeRate": 0,
         "avgDuration": 58,
         "avgPlayCount": 373,
-        "avgUpdateFreq": 546,
+        "avgUpdateFreq": 552,
         "avgCommentCount": 3,
         "avgInteractIndicator": 0.009600357222594329,
         "avgOpenRate": 0.6273109243697479,
@@ -4934,6 +7127,42 @@
         ]
       },
       {
+        "id": "d603ac8db79c2a91062ed17799383069",
+        "rank": 6037,
+        "name": "爸爸为什么？",
+        "logoURL": "https://xyzrank.justinbot.com/FtWTBxb6RRtUop565UNKZHHGhSLw.png@small",
+        "authorsText": "博士爸爸",
+        "trackCount": 14,
+        "lastReleaseDate": "Tue Oct 21 2025 08:30:34 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 18.13883684027778,
+        "firstEpisodePostTime": "2025-08-01T00:23:49.987Z",
+        "activeRate": 0,
+        "avgDuration": 14,
+        "avgPlayCount": 223,
+        "avgUpdateFreq": 169,
+        "avgCommentCount": 0,
+        "avgInteractIndicator": 0.004135079255685734,
+        "avgOpenRate": 0.37964416535845114,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/688a2f8234d4d7ae9fc55cac"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
         "id": "5eb5dcc7af9243ca2f16202efd96f86c",
         "rank": 6054,
         "name": "血缘煮粥",
@@ -4941,12 +7170,12 @@
         "authorsText": "傘傘, 哈哈怕了吧",
         "trackCount": 9,
         "lastReleaseDate": "Wed Oct 01 2025 12:56:04 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 34.94141017361111,
+        "lastReleaseDateDayCount": 37.95446258101852,
         "firstEpisodePostTime": "2025-04-04T07:31:19.925Z",
         "activeRate": 0,
         "avgDuration": 84,
         "avgPlayCount": 609,
-        "avgUpdateFreq": 572,
+        "avgUpdateFreq": 580,
         "avgCommentCount": 11,
         "avgInteractIndicator": 0.019495177508721526,
         "avgOpenRate": 1.0502155172413792,
@@ -4970,6 +7199,43 @@
         ]
       },
       {
+        "id": "87a7e7f43f2e206205147e404508e7a4",
+        "rank": 6058,
+        "name": "长话长说For the Long Run",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/12/2e/4d/122e4d6f-6bcf-0e9b-2d9e-14f311175bd3/mza_723844644102569178.jpg/100x100bb.jpg",
+        "primaryGenreName": "休闲",
+        "authorsText": "贾森润了, TiaSeeds",
+        "trackCount": 6,
+        "lastReleaseDate": "Thu Sep 18 2025 21:44:17 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 50.58764633101852,
+        "firstEpisodePostTime": "2025-08-14T15:00:00.000Z",
+        "activeRate": 0,
+        "avgDuration": 69,
+        "avgPlayCount": 1156,
+        "avgUpdateFreq": 342,
+        "avgCommentCount": 129,
+        "avgInteractIndicator": 0.11191835322608545,
+        "avgOpenRate": 1.9968911917098446,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/689b02f57482bc11772acefa"
+          },
+          {
+            "name": "apple",
+            "url": "https://podcasts.apple.com/cn/podcast/%E9%95%BF%E8%AF%9D%E9%95%BF%E8%AF%B4for-the-long-run/id1833416304?uo=4"
+          },
+          {
+            "name": "website",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/689b02f57482bc11772acefa?utm_source=rss"
+          },
+          {
+            "name": "rss",
+            "url": "https://feed.xyzfm.space/blgurjvuy6bq"
+          }
+        ]
+      },
+      {
         "id": "8fdab4f4c1d641e5741996d26d9e95cb",
         "rank": 6061,
         "name": "拌饭",
@@ -4978,12 +7244,12 @@
         "authorsText": "第七夜S7N, 火眼Jingjing",
         "trackCount": 7,
         "lastReleaseDate": "Fri Oct 10 2025 13:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 25.938679814814815,
+        "lastReleaseDateDayCount": 28.95173221064815,
         "firstEpisodePostTime": "2025-03-17T20:51:53.000Z",
         "activeRate": 0,
         "avgDuration": 43,
         "avgPlayCount": 2188,
-        "avgUpdateFreq": 795,
+        "avgUpdateFreq": 806,
         "avgCommentCount": 10,
         "avgInteractIndicator": 0.004873962379102886,
         "avgOpenRate": 3.7863321799307954,
@@ -5014,12 +7280,12 @@
         "authorsText": "江晓妖, 赵晓妖, 蒋明倬",
         "trackCount": 12,
         "lastReleaseDate": "Mon Oct 27 2025 12:11:41 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 8.972231030092592,
+        "lastReleaseDateDayCount": 11.985283252314815,
         "firstEpisodePostTime": "2024-12-25T14:28:46.423Z",
         "activeRate": 0,
         "avgDuration": 61,
         "avgPlayCount": 423,
-        "avgUpdateFreq": 628,
+        "avgUpdateFreq": 634,
         "avgCommentCount": 6,
         "avgInteractIndicator": 0.014586014586014585,
         "avgOpenRate": 0.7514506769825918,
@@ -5027,6 +7293,42 @@
           {
             "name": "xyz",
             "url": "https://www.xiaoyuzhoufm.com/podcast/671db174662d33bd706ce274"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "id": "f5a620ded7caf3f412958b857ac0dd29",
+        "rank": 6132,
+        "name": "Valen的一些音乐分享",
+        "logoURL": "https://xyzrank.justinbot.com/FjQrXm1tFZLz48T-j4p7yi_fP0vX.jpg@small",
+        "authorsText": "Valen_Jn7v",
+        "trackCount": 13,
+        "lastReleaseDate": "Tue Oct 21 2025 11:22:15 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 18.019612592592594,
+        "firstEpisodePostTime": "2025-08-19T22:39:24.051Z",
+        "activeRate": 0,
+        "avgDuration": 58,
+        "avgPlayCount": 288,
+        "avgUpdateFreq": 147,
+        "avgCommentCount": 10,
+        "avgInteractIndicator": 0.0354978354978355,
+        "avgOpenRate": 0.511968085106383,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68a564baf381d9b3cbb68c8e"
           },
           {
             "name": "apple",
@@ -5051,12 +7353,12 @@
         "authorsText": "嗒哒哒, 这里是西西",
         "trackCount": 10,
         "lastReleaseDate": "Tue Oct 14 2025 09:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 22.10534684027778,
+        "lastReleaseDateDayCount": 25.1183990625,
         "firstEpisodePostTime": "2025-05-23T18:40:05.000Z",
         "activeRate": 0,
         "avgDuration": 53,
         "avgPlayCount": 320,
-        "avgUpdateFreq": 396,
+        "avgUpdateFreq": 403,
         "avgCommentCount": 1,
         "avgInteractIndicator": 0.0034662045060658577,
         "avgOpenRate": 0.5744723217841496,
@@ -5080,6 +7382,42 @@
         ]
       },
       {
+        "id": "2490ed3ebe809710535185c6c2f07064",
+        "rank": 6159,
+        "name": "钱途规划局",
+        "logoURL": "https://xyzrank.justinbot.com/FqJlxjbtInOL-UkMx7MF2nq0u-eG.png@small",
+        "authorsText": "汇添富现金宝",
+        "trackCount": 8,
+        "lastReleaseDate": "Fri Oct 17 2025 06:00:00 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 22.243399108796297,
+        "firstEpisodePostTime": "2025-08-26T17:43:55.529Z",
+        "activeRate": 0,
+        "avgDuration": 16,
+        "avgPlayCount": 488,
+        "avgUpdateFreq": 219,
+        "avgCommentCount": 2,
+        "avgInteractIndicator": 0.00585480093676815,
+        "avgOpenRate": 0.8745519713261649,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68ac193967d32ea07cdeaa15"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
         "id": "65e3021ac69fbfd05c8e6d4dc17fd235",
         "rank": 6162,
         "name": "慢速降落 NO VELOCITY",
@@ -5087,12 +7425,12 @@
         "authorsText": "阿斯SS",
         "trackCount": 10,
         "lastReleaseDate": "Fri Sep 12 2025 11:34:44 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 53.99789166666667,
+        "lastReleaseDateDayCount": 57.01094394675926,
         "firstEpisodePostTime": "2025-05-01T13:03:07.031Z",
         "activeRate": 0,
         "avgDuration": 67,
         "avgPlayCount": 301,
-        "avgUpdateFreq": 449,
+        "avgUpdateFreq": 457,
         "avgCommentCount": 7,
         "avgInteractIndicator": 0.024300441826215022,
         "avgOpenRate": 0.5417913425094754,
@@ -5123,12 +7461,12 @@
         "authorsText": "女巫凶猛",
         "trackCount": 13,
         "lastReleaseDate": "Wed Oct 29 2025 23:30:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 6.50118025462963,
+        "lastReleaseDateDayCount": 9.51423261574074,
         "firstEpisodePostTime": "2025-01-01T17:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 66,
         "avgPlayCount": 326,
-        "avgUpdateFreq": 567,
+        "avgUpdateFreq": 572,
         "avgCommentCount": 6,
         "avgInteractIndicator": 0.02013764975783839,
         "avgOpenRate": 0.5976538695917123,
@@ -5159,12 +7497,12 @@
         "authorsText": "马鹿的野狐禅",
         "trackCount": 14,
         "lastReleaseDate": "Sun Sep 21 2025 03:38:43 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 45.328458229166664,
+        "lastReleaseDateDayCount": 48.341510625,
         "firstEpisodePostTime": "2025-02-12T01:07:09.539Z",
         "activeRate": 0,
         "avgDuration": 52,
         "avgPlayCount": 241,
-        "avgUpdateFreq": 455,
+        "avgUpdateFreq": 460,
         "avgCommentCount": 2,
         "avgInteractIndicator": 0.00859325270528326,
         "avgOpenRate": 0.44592676695997735,
@@ -5196,12 +7534,12 @@
         "authorsText": "CC娘子, 茉莉8645",
         "trackCount": 14,
         "lastReleaseDate": "Sun Oct 19 2025 13:00:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 16.938680358796297,
+        "lastReleaseDateDayCount": 19.95173284722222,
         "firstEpisodePostTime": "2025-05-02T19:48:01.000Z",
         "activeRate": 0,
         "avgDuration": 64,
         "avgPlayCount": 300,
-        "avgUpdateFreq": 319,
+        "avgUpdateFreq": 324,
         "avgCommentCount": 3,
         "avgInteractIndicator": 0.011000255819902788,
         "avgOpenRate": 0.5652111046847889,
@@ -5232,12 +7570,12 @@
         "authorsText": "默岸曼",
         "trackCount": 10,
         "lastReleaseDate": "Fri Sep 05 2025 14:42:33 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 60.86745967592593,
+        "lastReleaseDateDayCount": 63.88051217592593,
         "firstEpisodePostTime": "2025-06-06T07:00:47.834Z",
         "activeRate": 0,
         "avgDuration": 7,
         "avgPlayCount": 574,
-        "avgUpdateFreq": 363,
+        "avgUpdateFreq": 371,
         "avgCommentCount": 19,
         "avgInteractIndicator": 0.03347523219814241,
         "avgOpenRate": 1.0834381551362684,
@@ -5261,6 +7599,42 @@
         ]
       },
       {
+        "id": "d870d204b7741d7877b6ed275694fd30",
+        "rank": 6270,
+        "name": "采铜的书房",
+        "logoURL": "https://xyzrank.justinbot.com/Fm_UKh8wqTmaDIjkM3N-c3fh0OCM.jpg@small",
+        "authorsText": "采铜",
+        "trackCount": 6,
+        "lastReleaseDate": "Tue Oct 21 2025 03:10:46 GMT+0800 (China Standard Time)",
+        "lastReleaseDateDayCount": 18.360920555555555,
+        "firstEpisodePostTime": "2025-09-24T17:06:21.268Z",
+        "activeRate": 0,
+        "avgDuration": 32,
+        "avgPlayCount": 387,
+        "avgUpdateFreq": 177,
+        "avgCommentCount": 11,
+        "avgInteractIndicator": 0.029396596183599792,
+        "avgOpenRate": 0.7316981132075472,
+        "links": [
+          {
+            "name": "xyz",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/68d3f707c3286e632eaf91c7"
+          },
+          {
+            "name": "apple",
+            "url": ""
+          },
+          {
+            "name": "website",
+            "url": null
+          },
+          {
+            "name": "rss",
+            "url": ""
+          }
+        ]
+      },
+      {
         "id": "cc048e1d439f53c77547a58aa0f5820b",
         "rank": 6310,
         "name": "雨无伦次）",
@@ -5268,12 +7642,12 @@
         "authorsText": "五月wy, 一点都不困_yi8h",
         "trackCount": 13,
         "lastReleaseDate": "Sat Nov 01 2025 16:09:36 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 3.8070096412037038,
+        "lastReleaseDateDayCount": 6.820062164351852,
         "firstEpisodePostTime": "2025-06-20T00:28:57.201Z",
         "activeRate": 0,
         "avgDuration": 44,
         "avgPlayCount": 1007,
-        "avgUpdateFreq": 254,
+        "avgUpdateFreq": 260,
         "avgCommentCount": 15,
         "avgInteractIndicator": 0.01522548613984278,
         "avgOpenRate": 1.9329814459372996,
@@ -5304,12 +7678,12 @@
         "authorsText": "反光的邬科, 反光的银",
         "trackCount": 13,
         "lastReleaseDate": "Wed Sep 17 2025 23:30:00 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 48.50118048611111,
+        "lastReleaseDateDayCount": 51.51423300925926,
         "firstEpisodePostTime": "2025-06-13T01:44:41.986Z",
         "activeRate": 0,
         "avgDuration": 80,
         "avgPlayCount": 450,
-        "avgUpdateFreq": 267,
+        "avgUpdateFreq": 272,
         "avgCommentCount": 13,
         "avgInteractIndicator": 0.02902569791088926,
         "avgOpenRate": 0.8718568665377177,
@@ -5340,12 +7714,12 @@
         "authorsText": "老麦-合禾联大",
         "trackCount": 9,
         "lastReleaseDate": "Fri Oct 24 2025 09:04:13 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 12.102410717592592,
+        "lastReleaseDateDayCount": 15.115463252314814,
         "firstEpisodePostTime": "2025-01-18T18:23:54.007Z",
         "activeRate": 0,
         "avgDuration": 59,
         "avgPlayCount": 172,
-        "avgUpdateFreq": 773,
+        "avgUpdateFreq": 781,
         "avgCommentCount": 0,
         "avgInteractIndicator": 0.004341534008683068,
         "avgOpenRate": 0.3387254901960784,
@@ -5377,12 +7751,12 @@
         "authorsText": "既白努力中",
         "trackCount": 12,
         "lastReleaseDate": "Sun Sep 28 2025 07:20:57 GMT+0800 (China Standard Time)",
-        "lastReleaseDateDayCount": 38.1741228125,
+        "lastReleaseDateDayCount": 41.187175324074076,
         "firstEpisodePostTime": "2025-01-20T15:00:00.000Z",
         "activeRate": 0,
         "avgDuration": 63,
         "avgPlayCount": 493,
-        "avgUpdateFreq": 576,
+        "avgUpdateFreq": 582,
         "avgCommentCount": 6,
         "avgInteractIndicator": 0.013077914901455148,
         "avgOpenRate": 0.9792568542568543,
@@ -5408,14 +7782,14 @@
     ],
     "medianValues": {
       "subscription": 0,
-      "lastReleaseDateDayCount": 22.787702638888888,
-      "trackCount": 11,
+      "lastReleaseDateDayCount": 26.493384074074076,
+      "trackCount": 10,
       "avgDuration": 57,
-      "avgPlayCount": 1751,
-      "avgUpdateFreq": 468.5,
-      "avgCommentCount": 19,
-      "avgInteractIndicator": 0.009613222268798093,
-      "avgOpenRate": 0.9629927540100126
+      "avgPlayCount": 1913,
+      "avgUpdateFreq": 457,
+      "avgCommentCount": 21,
+      "avgInteractIndicator": 0.009656258601180464,
+      "avgOpenRate": 0.9678139912681489
     }
   },
   "type": 2

@@ -2,20 +2,20 @@
   "data": {
     "episodes": [
       {
-        "title": "名创优品叶国富×罗永浩！重塑线下购物，让人们重新爱上逛街！",
+        "title": "贾樟柯×罗永浩！成为贾樟柯（上）",
         "podcastID": "26bebc908962ea66ff15093e11d89ca9",
         "podcastName": "罗永浩的十字路口",
         "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/45/99/794599ee-b368-ad32-08c1-10fb8da1ab96/mza_4122156040194880124.png/100x100bb.jpg",
-        "link": "https://www.xiaoyuzhoufm.com/episode/68f8351e2265473020a2058a",
-        "playCount": 134929,
-        "commentCount": 766,
-        "subscription": 32152,
-        "duration": 174,
-        "postTime": "2025-10-22T04:00:51.714Z",
+        "link": "https://www.xiaoyuzhoufm.com/episode/69013002740634ca477ad956",
+        "playCount": 119342,
+        "commentCount": 592,
+        "subscription": 159617,
+        "duration": 225,
+        "postTime": "2025-10-29T04:00:00.000Z",
         "primaryGenreName": "科技",
-        "totalEpisodesCount": 4,
-        "openRate": 4.196597412291615,
-        "lastReleaseDateDayCount": 13.979729537037038
+        "totalEpisodesCount": 18,
+        "openRate": 0.7476772524229875,
+        "lastReleaseDateDayCount": 9.99338204861111
       },
       {
         "title": "EP09. 沈奕斐对话袁子弹｜从《欢乐颂》到《山花烂漫时》，以热爱和野心书写自我",
@@ -25,13 +25,13 @@
         "link": "https://www.xiaoyuzhoufm.com/episode/6901c55a740634ca47920785",
         "playCount": 22912,
         "commentCount": 45,
-        "subscription": 6623,
+        "subscription": 14312,
         "duration": 64,
         "postTime": "2025-10-31T00:00:00.000Z",
         "primaryGenreName": "社会与文化",
-        "totalEpisodesCount": 10,
-        "openRate": 3.4594594594594597,
-        "lastReleaseDateDayCount": 5.14699474537037
+        "totalEpisodesCount": 18,
+        "openRate": 1.6008943543879262,
+        "lastReleaseDateDayCount": 8.160048715277778
       },
       {
         "title": "08.仿制药的迷雾",
@@ -41,29 +41,45 @@
         "link": "https://www.xiaoyuzhoufm.com/episode/6906db9048dbe0eb56fbdde5",
         "playCount": 15838,
         "commentCount": 329,
-        "subscription": 13124,
+        "subscription": 14882,
         "duration": 163,
         "postTime": "2025-11-02T04:41:22.053Z",
         "primaryGenreName": "",
-        "totalEpisodesCount": 8,
-        "openRate": 1.206796708320634,
-        "lastReleaseDateDayCount": 2.951600613425926
+        "totalEpisodesCount": 10,
+        "openRate": 1.0642386775970971,
+        "lastReleaseDateDayCount": 5.964654583333333
       },
       {
-        "title": "vol.14 秋冬养生！我想好好活着！",
-        "podcastID": "ff82102a8bbf36f5dca0703a37add507",
-        "podcastName": "癫疯对谈",
-        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource211/v4/95/42/be/9542bec9-56df-5c6e-ebcf-caf9db9555ae/095c9f1d-a685-493d-8734-b28696e27e9d.jpg/100x100bb.jpg",
-        "link": "https://www.xiaoyuzhoufm.com/episode/68f7a966456ffec65ee1a1e7",
-        "playCount": 5628,
-        "commentCount": 88,
-        "subscription": 10421,
-        "duration": 110,
-        "postTime": "2025-10-22T13:00:00.000Z",
-        "primaryGenreName": "休闲",
-        "totalEpisodesCount": 26,
-        "openRate": 0.5400633336532003,
-        "lastReleaseDateDayCount": 13.605328078703703
+        "title": "双11还有必要吗？从16年前的八卦说起",
+        "podcastID": "c99370a3f9c581ada331d79002392d49",
+        "podcastName": "难得正经｜商业版今夜不设防",
+        "logoURL": "https://xyzrank.justinbot.com/FiiS4CC6lO5fSGOOA9Ei58ehQXYV.png@small",
+        "link": "https://www.xiaoyuzhoufm.com/episode/6900dcee558113deb7e5a9ec",
+        "playCount": 13760,
+        "commentCount": 48,
+        "subscription": 4659,
+        "duration": 84,
+        "postTime": "2025-10-28T23:00:00.000Z",
+        "primaryGenreName": "",
+        "totalEpisodesCount": 6,
+        "openRate": 2.953423481433784,
+        "lastReleaseDateDayCount": 10.201715381944444
+      },
+      {
+        "title": "ep.3 宗馥莉心腹离职；英伟达成为世界首家市值突破5万亿美元的公司；二十届四中全会公报的四大信号",
+        "podcastID": "63c217fb6c7852d2b8d92873d1c48f86",
+        "podcastName": "世界这七天",
+        "logoURL": "https://xyzrank.justinbot.com/FtKhR8iCNU7dgqKGHsQGd8DxFEHu.jpg@small",
+        "link": "https://www.xiaoyuzhoufm.com/episode/69050c0343a4f4a984579ced",
+        "playCount": 8361,
+        "commentCount": 30,
+        "subscription": 1136,
+        "duration": 20,
+        "postTime": "2025-10-31T19:24:25.640Z",
+        "primaryGenreName": "",
+        "totalEpisodesCount": 3,
+        "openRate": 7.360035211267606,
+        "lastReleaseDateDayCount": 7.351418622685185
       },
       {
         "title": "E12 | 精神不受力的《金刚经》智慧 | 用「应无所住而生其心」破解内耗困局",
@@ -73,13 +89,13 @@
         "link": "https://www.xiaoyuzhoufm.com/episode/6902ca4c7f1b08483a566c31",
         "playCount": 4809,
         "commentCount": 94,
-        "subscription": 3624,
+        "subscription": 11747,
         "duration": 61,
         "postTime": "2025-10-30T02:25:16.169Z",
         "primaryGenreName": "教育",
-        "totalEpisodesCount": 23,
-        "openRate": 1.3269867549668874,
-        "lastReleaseDateDayCount": 6.046113159722222
+        "totalEpisodesCount": 28,
+        "openRate": 0.4093811185834681,
+        "lastReleaseDateDayCount": 9.05916712962963
       },
       {
         "title": "12 “老登”经济学：不博、不熟、不被忽悠｜对话付鹏",
@@ -89,13 +105,13 @@
         "link": "https://www.xiaoyuzhoufm.com/episode/68ff8406083a71a4eb82b352",
         "playCount": 4306,
         "commentCount": 71,
-        "subscription": 7904,
+        "subscription": 8792,
         "duration": 70,
         "postTime": "2025-10-27T15:00:29.369Z",
         "primaryGenreName": "商务",
-        "totalEpisodesCount": 22,
-        "openRate": 0.5447874493927125,
-        "lastReleaseDateDayCount": 8.52165482638889
+        "totalEpisodesCount": 26,
+        "openRate": 0.4897634212920837,
+        "lastReleaseDateDayCount": 11.534708796296297
       },
       {
         "title": "吕东：回望谐星聊天会，看喜剧的发生、营造与控制",
@@ -105,29 +121,13 @@
         "link": "https://www.xiaoyuzhoufm.com/episode/6900f433558113deb7e8e8c8",
         "playCount": 4112,
         "commentCount": 101,
-        "subscription": 8506,
+        "subscription": 9849,
         "duration": 111,
         "postTime": "2025-10-31T04:00:00.000Z",
         "primaryGenreName": "休闲",
-        "totalEpisodesCount": 18,
-        "openRate": 0.4834234657888549,
-        "lastReleaseDateDayCount": 4.980328078703704
-      },
-      {
-        "title": "vol.11 人生中场：40岁，恭喜进入人生第二青春期",
-        "podcastID": "04089fd91e24c03cc0d95780adf244e5",
-        "podcastName": "杜素娟的会客厅",
-        "logoURL": "https://xyzrank.justinbot.com/FknKoeMSuNP4MS7Xeaj-dGnrGBuo.jpg@small",
-        "link": "https://www.xiaoyuzhoufm.com/episode/68fb247f083a71a4eb0c750a",
-        "playCount": 4054,
-        "commentCount": 24,
-        "subscription": 15914,
-        "duration": 108,
-        "postTime": "2025-10-24T07:09:04.769Z",
-        "primaryGenreName": "",
-        "totalEpisodesCount": 8,
-        "openRate": 0.25474425034560766,
-        "lastReleaseDateDayCount": 11.849022881944444
+        "totalEpisodesCount": 22,
+        "openRate": 0.4175043151588994,
+        "lastReleaseDateDayCount": 7.993382048611111
       },
       {
         "title": "vol.05 背叛の专业！我的“跨界”人生",
@@ -137,13 +137,45 @@
         "link": "https://www.xiaoyuzhoufm.com/episode/69062ff943a4f4a9847247c6",
         "playCount": 3546,
         "commentCount": 31,
-        "subscription": 723,
+        "subscription": 931,
         "duration": 89,
         "postTime": "2025-11-01T20:30:00.000Z",
         "primaryGenreName": "休闲",
-        "totalEpisodesCount": 6,
-        "openRate": 4.904564315352697,
-        "lastReleaseDateDayCount": 3.2928280787037036
+        "totalEpisodesCount": 10,
+        "openRate": 3.808807733619764,
+        "lastReleaseDateDayCount": 6.305882048611111
+      },
+      {
+        "title": "【番外01】以实力换回的格局：中美元首韩国会晤快评",
+        "podcastID": "b9f2c45539171e31659a81809276ffe5",
+        "podcastName": "深度思考 | 兔主席播课【第一季】",
+        "logoURL": "https://xyzrank.justinbot.com/FhqVz0En75BCfTevjcWbWFi9lJJk.jpg@small",
+        "link": "https://www.xiaoyuzhoufm.com/episode/69035eb58b7d329dcad37831",
+        "playCount": 3517,
+        "commentCount": 4,
+        "subscription": 765,
+        "duration": 0,
+        "postTime": "2025-10-30T12:59:48.951Z",
+        "primaryGenreName": "",
+        "totalEpisodesCount": 8,
+        "openRate": 4.597385620915032,
+        "lastReleaseDateDayCount": 8.618509930555556
+      },
+      {
+        "title": "04.对谈《文化有限》超哥：我的年入百万，全靠“不想上班”",
+        "podcastID": "0a8725070931b4941c076397ec37ae63",
+        "podcastName": "青春诊所",
+        "logoURL": "https://xyzrank.justinbot.com/Fsol07ZiTfQMFI8CtgdyymZ9xVMC.jpg@small",
+        "link": "https://www.xiaoyuzhoufm.com/episode/69020adeb760f44d26584e5c",
+        "playCount": 2990,
+        "commentCount": 10,
+        "subscription": 745,
+        "duration": 98,
+        "postTime": "2025-10-29T12:51:48.728Z",
+        "primaryGenreName": "",
+        "totalEpisodesCount": 4,
+        "openRate": 4.0134228187919465,
+        "lastReleaseDateDayCount": 9.62406806712963
       },
       {
         "title": "E13. 被焚烧的母亲，和“弑父”的儿子",
@@ -153,13 +185,13 @@
         "link": "https://www.xiaoyuzhoufm.com/episode/68fe3b3c083a71a4eb560025",
         "playCount": 2564,
         "commentCount": 75,
-        "subscription": 5383,
+        "subscription": 5742,
         "duration": 65,
         "postTime": "2025-10-26T15:24:40.315Z",
         "primaryGenreName": "犯罪纪实",
-        "totalEpisodesCount": 26,
-        "openRate": 0.47631432286828906,
-        "lastReleaseDateDayCount": 9.504861469907407
+        "totalEpisodesCount": 28,
+        "openRate": 0.44653430860327414,
+        "lastReleaseDateDayCount": 12.517915439814814
       },
       {
         "title": "11.Haivivi创始人李勇：AI玩具，「遗忘」比「记忆」更值钱",
@@ -169,13 +201,13 @@
         "link": "https://www.xiaoyuzhoufm.com/episode/6906f92943a4f4a9847ffe7b",
         "playCount": 2416,
         "commentCount": 13,
-        "subscription": 4689,
+        "subscription": 5022,
         "duration": 66,
         "postTime": "2025-11-02T23:30:00.000Z",
         "primaryGenreName": "科学",
-        "totalEpisodesCount": 20,
-        "openRate": 0.5152484538281084,
-        "lastReleaseDateDayCount": 2.1678280787037036
+        "totalEpisodesCount": 24,
+        "openRate": 0.4810832337714058,
+        "lastReleaseDateDayCount": 5.180882048611111
       },
       {
         "title": "08. AI、中东、当网红，95后如何抓住最后的时代风口？",
@@ -185,13 +217,13 @@
         "link": "https://www.xiaoyuzhoufm.com/episode/690708c343a4f4a98481c14a",
         "playCount": 2345,
         "commentCount": 23,
-        "subscription": 2376,
+        "subscription": 3737,
         "duration": 48,
         "postTime": "2025-11-02T07:46:10.004Z",
         "primaryGenreName": "教育",
-        "totalEpisodesCount": 12,
-        "openRate": 0.9869528619528619,
-        "lastReleaseDateDayCount": 2.823267847222222
+        "totalEpisodesCount": 20,
+        "openRate": 0.6275086968156275,
+        "lastReleaseDateDayCount": 5.83632181712963
       },
       {
         "title": "07. 如何构建一套高效行动框架｜心力受损的破解之道",
@@ -201,13 +233,13 @@
         "link": "https://www.xiaoyuzhoufm.com/episode/6906fd0943a4f4a984806c64",
         "playCount": 2228,
         "commentCount": 32,
-        "subscription": 1943,
+        "subscription": 13094,
         "duration": 73,
         "postTime": "2025-11-02T06:45:59.939Z",
         "primaryGenreName": "",
-        "totalEpisodesCount": 4,
-        "openRate": 1.1466803911477097,
-        "lastReleaseDateDayCount": 2.8650510069444444
+        "totalEpisodesCount": 7,
+        "openRate": 0.17015426913089965,
+        "lastReleaseDateDayCount": 5.878104976851852
       },
       {
         "title": "雷佳音张译们持续霸屏？他们怎么演啥都一样！",
@@ -217,13 +249,13 @@
         "link": "https://www.xiaoyuzhoufm.com/episode/68ff442d083a71a4eb7729a4",
         "playCount": 2183,
         "commentCount": 129,
-        "subscription": 562,
+        "subscription": 847,
         "duration": 98,
         "postTime": "2025-10-27T10:20:37.495Z",
         "primaryGenreName": "",
-        "totalEpisodesCount": 7,
-        "openRate": 3.8843416370106763,
-        "lastReleaseDateDayCount": 8.716005219907407
+        "totalEpisodesCount": 11,
+        "openRate": 2.577331759149941,
+        "lastReleaseDateDayCount": 11.729059189814814
       },
       {
         "title": "14.汽车的智能化：开车这件事，人类还需要参与多久？",
@@ -233,13 +265,13 @@
         "link": "https://www.xiaoyuzhoufm.com/episode/69001f5b0156720321590c50",
         "playCount": 1922,
         "commentCount": 4,
-        "subscription": 15403,
+        "subscription": 17167,
         "duration": 46,
         "postTime": "2025-10-28T02:02:46.268Z",
         "primaryGenreName": "商务",
-        "totalEpisodesCount": 24,
-        "openRate": 0.12478088684022592,
-        "lastReleaseDateDayCount": 8.061737013888889
+        "totalEpisodesCount": 28,
+        "openRate": 0.1119589910875517,
+        "lastReleaseDateDayCount": 11.074790983796296
       },
       {
         "title": "EP11.消失的“铊”—清华大学朱令铊中毒案",
@@ -249,13 +281,29 @@
         "link": "https://www.xiaoyuzhoufm.com/episode/68fdcb36083a71a4eb474300",
         "playCount": 1690,
         "commentCount": 54,
-        "subscription": 2311,
+        "subscription": 3324,
         "duration": 52,
         "postTime": "2025-10-26T16:00:00.000Z",
         "primaryGenreName": "",
-        "totalEpisodesCount": 9,
-        "openRate": 0.7312851579402856,
-        "lastReleaseDateDayCount": 9.480328078703703
+        "totalEpisodesCount": 11,
+        "openRate": 0.5084235860409145,
+        "lastReleaseDateDayCount": 12.49338204861111
+      },
+      {
+        "title": "加更｜直击东京：范冰冰用鼻子演绎地母",
+        "podcastID": "06b4da9e3c193f2f3fbaebab038adf41",
+        "podcastName": "保留意见：",
+        "logoURL": "https://xyzrank.justinbot.com/FsKUxKoF-GRmmOTh_TlOl5uddvXz.png@small",
+        "link": "https://www.xiaoyuzhoufm.com/episode/69008fc4558113deb7d83785",
+        "playCount": 1653,
+        "commentCount": 28,
+        "subscription": 5940,
+        "duration": 42,
+        "postTime": "2025-10-28T09:50:59.743Z",
+        "primaryGenreName": "",
+        "totalEpisodesCount": 4,
+        "openRate": 0.2782828282828283,
+        "lastReleaseDateDayCount": 10.749635023148148
       },
       {
         "title": "【SEA BEYOND】对话Enzo Barracco、张敬宜｜给大海拍一张肖像：至美之中，藏有深忧",
@@ -265,13 +313,13 @@
         "link": "https://www.xiaoyuzhoufm.com/episode/6901f5895de79e25a21be396",
         "playCount": 1531,
         "commentCount": 4,
-        "subscription": 7514,
+        "subscription": 7935,
         "duration": 35,
         "postTime": "2025-10-29T11:14:32.844Z",
         "primaryGenreName": "艺术",
-        "totalEpisodesCount": 12,
-        "openRate": 0.20375299441043385,
-        "lastReleaseDateDayCount": 6.678559050925926
+        "totalEpisodesCount": 18,
+        "openRate": 0.19294265910522998,
+        "lastReleaseDateDayCount": 9.691613020833334
       },
       {
         "title": "08. 在瑜伽垫上悟道，在不语中思考，在沙发上点烧烤",
@@ -281,13 +329,13 @@
         "link": "https://www.xiaoyuzhoufm.com/episode/68fc2ce1083a71a4eb24dd99",
         "playCount": 1148,
         "commentCount": 32,
-        "subscription": 1772,
+        "subscription": 1971,
         "duration": 78,
         "postTime": "2025-10-26T00:30:00.000Z",
         "primaryGenreName": "",
-        "totalEpisodesCount": 7,
-        "openRate": 0.6478555304740407,
-        "lastReleaseDateDayCount": 10.126161412037037
+        "totalEpisodesCount": 8,
+        "openRate": 0.5824454591577879,
+        "lastReleaseDateDayCount": 13.139215381944444
       },
       {
         "title": "9. 侠骨柔情侯孝贤（中）：《海上花》——华语电影的巅峰",
@@ -297,22 +345,38 @@
         "link": "https://www.xiaoyuzhoufm.com/episode/6905f59848dbe0eb56e9957d",
         "playCount": 1119,
         "commentCount": 29,
-        "subscription": 2664,
+        "subscription": 3948,
         "duration": 121,
         "postTime": "2025-11-01T16:00:00.000Z",
         "primaryGenreName": "",
-        "totalEpisodesCount": 7,
-        "openRate": 0.42004504504504503,
-        "lastReleaseDateDayCount": 3.4803280787037036
+        "totalEpisodesCount": 10,
+        "openRate": 0.28343465045592703,
+        "lastReleaseDateDayCount": 6.493382048611111
+      },
+      {
+        "title": "跟着哈尔滨土著，用“东北币”来一趟冬日顶配旅行",
+        "podcastID": "55b4f3ef1e832da5f557d68c11ce4bca",
+        "podcastName": "浪游猎手｜不盲从的旅行攻略",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f0/9b/38/f09b38c8-c7cc-ff93-276f-ff75308a4fb7/mza_5117048622739482962.jpeg/100x100bb.jpg",
+        "link": "https://www.xiaoyuzhoufm.com/episode/690936c86e241a8dee69c73e",
+        "playCount": 1089,
+        "commentCount": 30,
+        "subscription": 1247,
+        "duration": 46,
+        "postTime": "2025-11-03T23:00:00.000Z",
+        "primaryGenreName": "旅行与地方文化",
+        "totalEpisodesCount": 8,
+        "openRate": 0.8732959101844426,
+        "lastReleaseDateDayCount": 4.201715381944444
       }
     ],
     "medianValues": {
       "playCount": 2564,
-      "commentCount": 45,
-      "interactiveRate": 0.015636105188343994,
-      "openRate": 0.6478555304740407,
-      "duration": 73,
-      "lastReleaseDateDayCount": 6.678559050925926
+      "commentCount": 32,
+      "interactiveRate": 0.01436265709156194,
+      "openRate": 0.5824454591577879,
+      "duration": 68,
+      "lastReleaseDateDayCount": 9.05916712962963
     }
   },
   "type": 3
