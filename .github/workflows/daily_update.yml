@@ -32,6 +32,9 @@ jobs:
     - name: Generate RSS Feed
       run: python hot_episodes_json2rss.py
 
+    - name: Generate FULL_RSS Feed
+      run: python full_json2rss.py
+
     - name: Commit files
       run: |
         if [ -z "$(git status --porcelain)" ]; then
