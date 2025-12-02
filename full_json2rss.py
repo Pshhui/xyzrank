@@ -64,7 +64,7 @@ def generate_rss():
         rss_content = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>XYZRank 每日热榜 (Podwise 专用)</title>
+    <title>XYZRank 每日热门播客榜 (Podwise 专用)</title>
     <link>https://github.com/cellinlab/xyzrank</link>
     <description>由 GitHub Action 自动抓取并转换为 Podwise 专用的播客热榜。注意：内容为网页链接，非音频直链。</description>
     <language>zh-cn</language>
