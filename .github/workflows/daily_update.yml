@@ -30,10 +30,12 @@ jobs:
         python update_data.py
 
     - name: Generate RSS Feed
-      run: python hot_episodes_json2rss.py
+      run: |
+        python hot_episodes_json2rss.py
 
     - name: Generate FULL_RSS Feed
-      run: python full_json2rss.py
+      run: |
+        python full_json2rss.py
 
     - name: Commit files
       run: |
